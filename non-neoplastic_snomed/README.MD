@@ -1,9 +1,14 @@
 NON-NEOPLASTIC FINDING TYPE -> SNOMED CT
 =======================
 
-*Mappings from the SEND Non-neoplastic Finding Type code list to SNOMED CT*
+**Mappings from the SEND Non-neoplastic Finding Type code list to SNOMED CT**
 
 At present there are still ~100 unmapped terms, please feel free to contribute mappings
+
+### Principles specific to the non-neoplastic finding type mappings
+
+- Prefer first 'morphologic abnormality' concepts followed by 'disorder' concepts, only when there are no suitable terms
+  in these classes consider other concept classes
 
 **Principles that apply to all mappings:**
 
@@ -12,9 +17,3 @@ At present there are still ~100 unmapped terms, please feel free to contribute m
   mapping_group are considered 'or' mappings
 - Prefer a broad mapping for concepts that do not occur in humans, details on the term should be provided in the
   comments
-
-### Principles that for Non-neoplastic finding type mappings
-
-- Prefer first 'morphologic abnormality' concepts followed by 'disorder' concepts, only when there are no suitable terms
-  in these classes consider other concept classes
-

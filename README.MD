@@ -47,12 +47,12 @@ Contributions welcome, feel free to open an issue or get in touch via other mean
 
 ### LICENSE
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
-<br /> \
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<br />
 The _mappings_ in this repository are licensed under
 a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons
 Attribution 4.0 International License</a>.
-<br /> \
+<br />
 
 "SNOMED" and "SNOMED CT" are registered trademarks of the IHTSDO. Use of SNOMED CT content is subject to the terms and
 conditions set forth in the SNOMED CT Affiliate License Agreement. It is the responsibility of those implementing this
