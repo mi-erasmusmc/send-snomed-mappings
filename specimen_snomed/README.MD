@@ -3,11 +3,9 @@ SPECIMEN -> SNOMED CT
 
 *Mappings from the SEND Specimen code list to SNOMED CT*
 
-## MAPPING PRINCIPLES:
+**Principles that apply to all mappings:**
 
-### Principles that apply to all mappings
-
-- There should only be not more than one exact one to one mapping for each concept in each direction
+- There should not more than _one_ exact one to one mapping for each concept in each direction
 - Mappings from the same subject with the same mapping_group constitute an 'and' mapping. Mappings with a different
   mapping_group are considered 'or' mappings
 - Prefer a broad mapping for concepts that do not occur in humans, details on the term should be provided in the
