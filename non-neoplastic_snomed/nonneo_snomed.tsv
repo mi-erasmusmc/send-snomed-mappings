@@ -1,0 +1,362 @@
+subject_id	subject_label	predicate_id	object_id	object_label	object_category	mapping_justification	comment	mapping_group
+C26686	ABSCESS	skos:exactMatch	44132006	Abscess morphology	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120859	ACCESSORY TISSUE	skos:exactMatch	91431006	Supernumerary structure	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120860	ACCUMULATION	skos:narrowMatch	31226005	Bioaccumulation	Observation | Observable Entity	semapv:ManualMappingCuration	An increase of substance (e.g., proteinaceous fluid and glycogen) in either the intracellular space, extracellular space, or within a hollow organ or structure.	3
+C120860	ACCUMULATION	skos:narrowMatch	125415002	Cytoplasmic accumulation	Observation | Morph Abnormality	semapv:ManualMappingCuration	An increase of substance (e.g., proteinaceous fluid and glycogen) in either the intracellular space, extracellular space, or within a hollow organ or structure.	2
+C120860	ACCUMULATION	skos:narrowMatch	17672001	Accumulation of fluid	Observation | Morph Abnormality	semapv:ManualMappingCuration	An increase of substance (e.g., proteinaceous fluid and glycogen) in either the intracellular space, extracellular space, or within a hollow organ or structure.	1
+C120860	ACCUMULATION	skos:broadMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration	An increase of substance (e.g., proteinaceous fluid and glycogen) in either the intracellular space, extracellular space, or within a hollow organ or structure.	4
+C132483	ACCUMULATION, ADIPOCYTES	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+C132483	ACCUMULATION, ADIPOCYTES	skos:exactMatch	24826007	Adipocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C174382	ACCUMULATION, FIBRIN	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+C174382	ACCUMULATION, FIBRIN	skos:exactMatch	113361004	Fibrin	Substance | Drug	semapv:ManualMappingCuration		1
+C181557	ACCUMULATION, HYALINE DROPLETS					NotDone	NotDone	
+C6996	ADENOMYOSIS	skos:exactMatch	76376003	Endometriosis of uterus	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C120861	ADENOSIS	skos:exactMatch	57597008	Adenosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C54685	ADHESION	skos:exactMatch	42685002	Adhesion	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C174378	ADIPOSE TISSUE, DECREASED	skos:exactMatch	248314009	Loss of body fat - finding	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C174379	ADIPOSE TISSUE, INCREASED	skos:exactMatch	248301008	Increase in body fat	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C120862	ADNEXAL DYSPLASIA	skos:exactMatch	25723000	Dysplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120862	ADNEXAL DYSPLASIA	skos:exactMatch	23043003	Uterine adnexae structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C62344	AGGREGATE	skos:exactMatch	47286004	Aggregation	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C176398	AGGREGATES, INCREASED					NotDone	NotDone	
+C120863	ALPHA 2U-GLOBULIN NEPHROPATHY	skos:broadMatch	90708001	Kidney disease	Condition | Clinical Finding	semapv:ManualMappingCuration	Increase in eosinophilic cytoplasmic droplets of alpha 2u-globulin in the S2 segment of the proximal tubules in the cortex with exfoliation of cells, an increase in mitotic figures in affected portions of the proximal tubules, tubular basophilia in some cases, and formation of granular casts at the junction of the inner and outer stripes of the medulla	1
+C158332	ALVEOLAR MACROPHAGES, INCREASED	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+C158332	ALVEOLAR MACROPHAGES, INCREASED	skos:exactMatch	33956004	Alveolar macrophage	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C2868	AMYLOID	skos:exactMatch	68790008	Amyloid deposition	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C26693	ANEURYSM	skos:exactMatch	85659009	Aneurysm	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C132484	ANGIECTASIS	skos:exactMatch	174637007	Angiectasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C9440	ANOMALY					NotDone	NotDone	
+C120864	APLASIA	skos:exactMatch	45486003	Aplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C163720	APLASIA/HYPOPLASIA	skos:exactMatch	55199003	Hypoplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C163720	APLASIA/HYPOPLASIA	skos:exactMatch	45486003	Aplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C17557	APOPTOSIS	skos:exactMatch	20663007	Apoptosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C176399	APOPTOSIS, INCREASED	skos:broadMatch	20663007	Apoptosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C163721	APOPTOSIS/SINGLE CELL NECROSIS	skos:broadMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C163721	APOPTOSIS/SINGLE CELL NECROSIS	skos:broadMatch	20663007	Apoptosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C161569	ARTERIOLAR LOOP, PRE-RETINAL					NotDone	NotDone	
+C75603	ARTIFACT	skos:exactMatch	47973001	Artifact	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C161540	ASTROCYTE SWELLING	skos:exactMatch	442672001	Swelling	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C161540	ASTROCYTE SWELLING	skos:exactMatch	442672001	Astrocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C161541	ASTROCYTE SWELLING/VACUOLATION	skos:exactMatch	78399007	Astrocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C161541	ASTROCYTE SWELLING/VACUOLATION	skos:exactMatch	442672001	Swelling	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C161541	ASTROCYTE SWELLING/VACUOLATION	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120865	ASTROCYTOSIS	skos:broadMatch	81415000	Gliosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2888	ATELECTASIS	skos:exactMatch	46621007	Atelectasis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C158338	ATRETIC FOLLICLES, INCREASED	skos:exactMatch	29299004	Structure of atretic follicle of ovary	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C158338	ATRETIC FOLLICLES, INCREASED	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+C79748	ATROPHY	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C161545	ATTENUATION, ENDOTHELIUM					NotDone	NotDone	
+C184725	ATTENUATION, EPITHELIUM					NotDone	NotDone	
+C120866	ATYPICAL RESIDUAL BODIES	skos:exactMatch	66068005	Residual body	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C120866	ATYPICAL RESIDUAL BODIES	skos:exactMatch	112231000	Atypical	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+C99673	AUTOLYSIS	skos:exactMatch	85811006	Autolysis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C32167	AUTOPHAGIC VACUOLES					NotDone	NotDone	
+C120867	BACTERIA	skos:exactMatch	710954001	Bacteria present	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C34414	BASOPHILIA	skos:exactMatch	53362006	Basophilic stippling	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C138968	BASOPHILIC FOCUS	skos:exactMatch	27329004	Basophilic degeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120868	BASOPHILIC GRANULES					NotDone	NotDone	
+C139137	BASOPHILIC HYPERTROPHIC FOCUS					NotDone	NotDone	
+C161544	BASOPHILIC TUBULE					NotDone	NotDone	
+C166104	BONE REMODELING, INCREASED					NotDone	NotDone	
+C139139	BONE, DECREASED	skos:exactMatch	1250004	Decreased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+C139139	BONE, DECREASED	skos:exactMatch	3138006	Bone (tissue) structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C139140	BONE, INCREASED	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+C139140	BONE, INCREASED	skos:exactMatch	3138006	Bone (tissue) structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C84475	BRONCHIECTASIS	skos:exactMatch	12295008	Bronchiectasis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C35708	CALCULUS	skos:exactMatch	56381008	Calculus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C79624	CALLUS	skos:exactMatch	27881006	Bony callus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C38095	CAST	skos:exactMatch	5277004	Urinary casts	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C120869	CELL DEBRIS					NotDone	NotDone	
+C139138	CELLULARITY, DECREASED					NotDone	NotDone	
+C41428	CELLULARITY, INCREASED					NotDone	NotDone	
+C60373	CHOLANGIOFIBROSIS					NotDone	NotDone	
+C2944	CHOLESTEATOMA	skos:exactMatch	575006	Cholesteatoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120870	CHOLESTEROL CLEFT					NotDone	NotDone	
+C120871	CHROMATOLYSIS	skos:exactMatch	52217000	Chromatolysis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120872	CHRONIC PROGRESSIVE NEPHROPATHY	skos:broadMatch	90708001	Kidney disease	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C163722	COLLOID ALTERATION					NotDone	NotDone	
+C163723	COLLOID, DECREASED					NotDone	NotDone	
+C163724	COLLOID, INCREASED					NotDone	NotDone	
+C41208	COMPRESSION	skos:exactMatch	71173004	Compression	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C82971	CONGESTION	skos:exactMatch	85804007	Congestion	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C170640	CONGESTION/HEMORRHAGE	skos:exactMatch	85804007	Congestion	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C170640	CONGESTION/HEMORRHAGE	skos:exactMatch	50960005	Hemorrhage	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C36021	CORPORA AMYLACEA	skos:exactMatch	8210009	Corpora amylacea	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C147494	CORPORA LUTEA, DECREASED NUMBER					NotDone	NotDone	
+C147495	CORPORA LUTEA, INCREASED NUMBER	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+C147495	CORPORA LUTEA, INCREASED NUMBER	skos:exactMatch	19931006	Structure of corpus luteum of ovary	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C176401	CORTICOMEDULLARY RATIO, DECREASED					NotDone	NotDone	
+C176402	CORTICOMEDULLARY RATIO, INCREASED					NotDone	NotDone	
+C35920	CRIBRIFORM CHANGE					NotDone	NotDone	
+C120873	CRUST	skos:exactMatch	69640009	Crust	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C61303	CRYSTALS	skos:exactMatch	413935006	Crystal - body material	Observation | Substance	semapv:ManualMappingCuration		1
+C2978	CYST	skos:exactMatch	367643001	Cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C41454	CYSTIC DEGENERATION	skos:exactMatch	3679006	Polycystic change	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C154895	CYTOPLASMIC ALTERATION	skos:exactMatch	125413009	Cytoplasmic alteration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C123636	DECIDUAL REACTION	skos:exactMatch	41721004	Decidual reaction of cervix	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C123637	DECIDUALIZATION					NotDone	NotDone	
+C50774	DEGENERATION	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120874	DEGENERATION/ATROPHY	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120874	DEGENERATION/ATROPHY	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120875	DEGENERATION/NECROSIS	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120875	DEGENERATION/NECROSIS	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120876	DEGENERATION/REGENERATION	skos:exactMatch	34636005	Regeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120876	DEGENERATION/REGENERATION	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C161563	DEGENERATION/VACUOLATION	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C161563	DEGENERATION/VACUOLATION	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3293	DEGENERATIVE JOINT DISEASE	skos:exactMatch	396275006	Osteoarthritis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C163725	DEGRANULATION					NotDone	NotDone	
+C117277	DEMYELINATION	skos:exactMatch	32693004	Demyelination	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139141	DENTAL DYSPLASIA	skos:exactMatch	109492001	Dentin dysplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C139142	DENTICLE	skos:exactMatch	57602001	Pulp stones	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C139143	DENTIN MATRIX ALTERATION					NotDone	NotDone	
+C139144	DENTIN NICHES					NotDone	NotDone	
+C139145	DENTIN, DECREASED	skos:exactMatch	1250004	Decreased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+C139145	DENTIN, DECREASED	skos:exactMatch	84540008	Dentin structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C161562	DENTIN, INCREASED					NotDone	NotDone	
+C161546	DEPOSITS, EXTRACELLULAR MATRIX, SUBRETINA					NotDone	NotDone	
+C161547	DERMOID, OCULAR					NotDone	NotDone	
+C26874	DETACHMENT, RETINA					NotDone	NotDone	
+C113136	DILATATION	skos:exactMatch	25322007	Dilatation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C161548	DILATATION/DIVERTICULUM	skos:exactMatch	31113003	Diverticulum	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C161548	DILATATION/DIVERTICULUM	skos:exactMatch	25322007	Dilatation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C118864	DISLOCATION, LENS	skos:exactMatch	424416009	Complete luxation of lens	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C161566	DISPLACEMENT, PHOTORECEPTOR NUCLEI					NotDone	NotDone	
+C26753	DIVERTICULUM	skos:exactMatch	31113003	Diverticulum	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C36235	DYSHEMATOPOIESIS					NotDone	NotDone	
+C161542	DYSTROPHY, AXONAL					NotDone	NotDone	
+C120877	ECTASIA	skos:broadMatch	25322007	Dilatation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C132486	ECTOPIC TISSUE	skos:exactMatch	719446000	Ectopic tissue	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3002	EDEMA	skos:exactMatch	79654002	Edema	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120878	ELASTOSIS	skos:exactMatch	22427006	Elastoid degeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C50547	EMBOLUS	skos:exactMatch	55584005	Embolus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C35987	EMPERIPOLESIS					NotDone	NotDone	
+C3348	EMPHYSEMA	skos:exactMatch	87433001	Pulmonary emphysema	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C163726	ENAMEL, DECREASED					NotDone	NotDone	
+C3014	ENDOMETRIOSIS	skos:exactMatch	396224008	Endometriosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C132487	EOSINOPHILIC GLOBULES					NotDone	NotDone	
+C120879	EPITHELIAL ALTERATION					NotDone	NotDone	
+C147496	ERODED SURFACE, INCREASED	skos:relatedMatch	15498001	Superficial ulcer	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C50443	EROSION	skos:exactMatch	15498001	Superficial ulcer	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120880	EROSION/ULCER	skos:exactMatch	56208002	Ulcer	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120880	EROSION/ULCER	skos:exactMatch	15498001	Superficial ulcer	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C35584	ERYTHROPHAGOCYTOSIS	skos:exactMatch	61070002	Erythrophagocytosis	Condition | Clinical Finding	semapv:ManualMappingCuration		2
+C111657	EXFOLIATION	skos:exactMatch	271767006	Peeling of skin	Condition | Clinical Finding	semapv:ManualMappingCuration	2022-12-02 SNOMED does not have an much detail on various kinds of exfolations	1
+C41235	EXTRAMEDULLARY HEMATOPOIESIS	skos:exactMatch	42952007	Extramedullary hematopoiesis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C13233	EXUDATE	skos:exactMatch	42142007	Exudate	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C36185	FATTY CHANGE	skos:exactMatch	29185008	Fatty degeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139146	FIBRO-OSSEOUS LESION					NotDone	NotDone	
+C120881	FIBROPLASIA	skos:broadMatch	112674009	Fibrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3044	FIBROSIS	skos:exactMatch	112674009	Fibrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139147	FIBROUS OSTEODYSTROPHY	skos:exactMatch	84727000	Osteitis fibrosa cystica generalisata	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C120882	FOCUS OF CELLULAR ALTERATION	skos:broadMatch	125555002	Focal proliferation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C163727	FOLLICLES, ABSENT					NotDone	NotDone	
+C163728	FOLLICLES, DECREASED					NotDone	NotDone	
+C163729	FOLLICLES, DECREASED/FOLLICLES, ABSENT					NotDone	NotDone	
+C163730	FOLLICLES, INCREASED					NotDone	NotDone	
+C34620	FOREIGN MATERIAL	skos:exactMatch	19227008	Foreign body	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3046	FRACTURE	skos:exactMatch	72704001	Fracture	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120883	FUNGUS	skos:exactMatch	4188300	Fungi	Observation | Organism	semapv:ManualMappingCuration		1
+C120884	GERM CELL DEGENERATION	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120884	GERM CELL DEGENERATION	skos:exactMatch	787781003	Germ cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C120885	GERM CELL DEPLETION					NotDone	NotDone	
+C120886	GERM CELL DEPLETION/GERM CELL DEGENERATION					NotDone	NotDone	
+C161564	GLIAL CELLS, INCREASED NUMBER					NotDone	NotDone	
+C26783	GLIOSIS	skos:exactMatch	81415000	Gliosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C189652	GLOMERULAR LIPIDOSIS					NotDone	NotDone	
+C26784	GLOMERULONEPHRITIS	skos:exactMatch	36171008	Glomerulonephritis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C120887	GLOMERULOPATHY	skos:exactMatch	197679002	Glomerular disease	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C120888	GLOMERULOSCLEROSIS	skos:exactMatch	82646005	Glomerulosclerosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C34652	GRANULATION TISSUE	skos:exactMatch	61363009	Granulation tissue	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C158333	GRANULES, INCREASED					NotDone	NotDone	
+C3064	GRANULOMA	skos:exactMatch	45647009	Granuloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139148	GROWTH PLATE CLOSED	skos:exactMatch	64089003	Epiphysis closure disorder	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C154893	GROWTH PLATE OPEN	skos:broadMatch	711190000	Structure of epiphyseal plate	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C163731	GROWTH PLATE PARTIALLY CLOSED					NotDone	NotDone	
+C161549	HAIR CELL, DECREASED NUMBER					NotDone	NotDone	
+C3075	HAMARTOMA	skos:exactMatch	51398009	Hamartoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C132488	HELICOBACTER	skos:exactMatch	19454009	Helicobacter	Observation | Organism	semapv:ManualMappingCuration		1
+C75548	HEMATOCYST	skos:exactMatch	52321009	Hemorrhagic cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C50579	HEMATOMA	skos:exactMatch	35566002	Hematoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C26791	HEMORRHAGE	skos:exactMatch	50960005	Hemorrhage	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C184726	HEMOSIDEROTIC PLAQUE					NotDone	NotDone	
+C161539	HEPATOCYTES, SUBINTIMAL					NotDone	NotDone	
+C120889	HEPATODIAPHRAGMATIC NODULE	skos:broadMatch	10200004	Liver structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A congenital abnormality of the liver, characterized by grossly visible nodule(s) usually located on the median lobe	1
+C120889	HEPATODIAPHRAGMATIC NODULE	skos:broadMatch	27925004	Nodule	Observation | Morph Abnormality	semapv:ManualMappingCuration	A congenital abnormality of the liver, characterized by grossly visible nodule(s) usually located on the median lobe	1
+C120889	HEPATODIAPHRAGMATIC NODULE	skos:broadMatch	255399007	Congenital	Observation | Qualifier Value	semapv:ManualMappingCuration	A congenital abnormality of the liver, characterized by grossly visible nodule(s) usually located on the median lobe	1
+C176405	HYALINE MATERIAL					NotDone	NotDone	
+C3111	HYDROCEPHALUS	skos:exactMatch	230745008	Hydrocephalus	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C123638	HYDROMYELIA	skos:exactMatch	11197005	Hydromyelia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C35541	HYPERKERATOSIS	skos:exactMatch	26996000	Hyperkeratosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3113	HYPERPLASIA	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C170641	HYPERPLASIA/HYPERKERATOSIS	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C170641	HYPERPLASIA/HYPERKERATOSIS	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120890	HYPERPLASIA/METAPLASIA	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120890	HYPERPLASIA/METAPLASIA	skos:exactMatch	17665002	Metaplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C176406	HYPERSEGMENTATION, GRANULOCYTE					NotDone	NotDone	
+C3124	HYPERTROPHY	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120891	HYPERTROPHY/HYPERPLASIA	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120891	HYPERTROPHY/HYPERPLASIA	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120892	HYPERTROPHY/KARYOMEGALY	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120892	HYPERTROPHY/KARYOMEGALY	skos:exactMatch	6855001	Macronucleus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120893	HYPOPLASIA	skos:exactMatch	55199003	Hypoplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C166105	HYPOSPERMATOGENESIS	skos:exactMatch	37017614	Hypospermatogenesis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C25531	IMMATURITY	skos:exactMatch	86531006	Developmental immaturity	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C123639	IMPERFORATE VAGINA	skos:exactMatch	386120007	Imperforate vagina	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C181555	IMPLANTATION SITE REMNANT					NotDone	NotDone	
+C120945	INCLUSION	skos:broadMatch	107673000	Cellular AND/OR subcellular abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C25738	INFARCT	skos:exactMatch	55641003	Infarct	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C42077	INFILTRATE	skos:exactMatch	47351003	Infiltration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139155	INFILTRATE/FIBROSIS	skos:exactMatch	112674009	Fibrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139155	INFILTRATE/FIBROSIS	skos:exactMatch	47351003	Infiltration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3137	INFLAMMATION	skos:exactMatch	409774005	Inflammatory morphology	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C26834	INTERSTITIAL NEPHRITIS	skos:exactMatch	264536006	Interstitial nephritis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C139156	INTIMAL THICKENING	skos:relatedMatch	47690009	Intimal proliferation	Observation | Morph Abnormality	semapv:ManualMappingCuration	An increase in matrix, without an increase in cell numbers, between the endothelium and the internal elastic lamina	1
+C147497	INTRAHEPATOCELLULAR ERYTHROCYTES					NotDone	NotDone	
+C139157	INTRAMURAL PLAQUE	skos:exactMatch	40772000	Fibrous plaque	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139157	INTRAMURAL PLAQUE	skos:exactMatch	87483006	Tunica intima of vessel	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C166106	INTRASINUSOIDAL ERYTHROCYTES					NotDone	NotDone	
+C113484	INTUSSUSCEPTION	skos:exactMatch	49723003	Intussusception of intestine	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C120894	KARYOCYTOMEGALY	skos:exactMatch	72826005	Macrocytosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120895	KARYOCYTOMEGALY/MULTINUCLEATED HEPATOCYTES					NotDone	NotDone	
+C120896	KARYOMEGALY	skos:exactMatch	6855001	Macronucleus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C161550	KERATINIZATION	skos:exactMatch	44138005	Keratinization	Observation | Observable Entity	semapv:ManualMappingCuration		1
+C161543	KERATINIZING CYST	skos:exactMatch	418630001	Keratinizing cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C84829	LIPOPROTEINOSIS	skos:exactMatch	38692000	Lipid proteinosis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C176404	LOSS OF CORTICOMEDULLARY DISTINCTION					NotDone	NotDone	
+C123640	LUTEINIZED FOLLICLE					NotDone	NotDone	
+C97087	LYMPHANGIECTASIS	skos:exactMatch	48087001	Lymphangiectasis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C36287	MALFORMATION	skos:narrowMatch	21390004	Developmental abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		2
+C36287	MALFORMATION	skos:narrowMatch	6081001	Deformity	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120897	MESANGIOLYSIS	skos:exactMatch	24259000	Mesangial cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C120897	MESANGIOLYSIS	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C124611	MESENCHYMAL PROLIFERATIVE LESION	skos:exactMatch	47623001	Soft tissue tumor, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C61581	MESONEPHRIC DUCT REMNANT	skos:exactMatch	264315005	Mesenteric remnant	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C3236	METAPLASIA	skos:exactMatch	17665002	Metaplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C96272	MICROABSCESS	skos:exactMatch	48033007	Microabscess	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120898	MICROGLIOSIS	skos:exactMatch	63483002	Microgliocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C120898	MICROGLIOSIS	skos:broadMatch	5849000	Glial cell reaction	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120899	MINERALIZATION	skos:exactMatch	128419007	Pathologic mineralization	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C163732	MITOTIC FIGURES, INCREASED					NotDone	NotDone	
+C129004	MUCIFICATION, INCREASED					NotDone	NotDone	
+C12607	MULTINUCLEATED GIANT CELL	skos:exactMatch	60401004	Multinucleate giant cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C120900	MULTINUCLEATED HEPATOCYTES					NotDone	NotDone	
+C127195	MURINE OBSTRUCTIVE UROPATHY	skos:broadMatch	128606002	Disorder of the urinary system	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C161567	MYELIN, INCREASED					NotDone	NotDone	
+C161551	NARROWED FILTRATION ANGLE					NotDone	NotDone	
+C16897	NECROSIS	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139158	NECROSIS/INFILTRATE	skos:exactMatch	47351003	Infiltration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139158	NECROSIS/INFILTRATE	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139159	NECROSIS/INFLAMMATION	skos:exactMatch	31980008	Necrotizing inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C126089	NEEDLE TRACT LESION	skos:exactMatch	103613006	Needle track	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C16900	NEOVASCULARIZATION	skos:exactMatch	13018008	Neovascularization	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C66851	NEPHROBLASTEMATOSIS	skos:broadMatch	25081006	Nephroblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C176396	NEURONAL AUTOPHAGY					NotDone	NotDone	
+C174383	NEURONAL HETEROTOPIA					NotDone	NotDone	
+C120901	NEURONOPHAGIA	skos:exactMatch	80552008	Neuronophagia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3284	OBSTRUCTION	skos:exactMatch	26036001	Obstruction	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120902	OBSTRUCTIVE NEPHROPATHY	skos:exactMatch	86249007	Obstructive nephropathy	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C139149	OSTEOBLASTIC SURFACE, INCREASED					NotDone	NotDone	
+C147498	OSTEOCLASTS, INCREASED	skos:exactMatch	27770000	Osteoclast	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C147498	OSTEOCLASTS, INCREASED	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+C139150	OSTEOID, INCREASED	skos:exactMatch	71666005	Osteoid osteoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139151	OSTEOPHYTE	skos:exactMatch	88998003	Osteophyte	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C161552	OTOLITH LOSS OR DISORGANIZATION					NotDone	NotDone	
+C85207	OVOTESTIS	skos:exactMatch	18978002	Ovotestis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C158336	PANETH CELL REDUCTION	skos:exactMatch	58294000	Reduction	Observation | Observable Entity	semapv:ManualMappingCuration		1
+C158336	PANETH CELL REDUCTION	skos:exactMatch	84907006	Paneth cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C120903	PARASITE	skos:exactMatch	442614005	Parasitic process	Observation | Qualifier Value	semapv:ManualMappingCuration	Not an exact match but best entry into SNOMED. Has preference over Parasite (37763007)	1
+C4080	PERFORATION	skos:exactMatch	36191001	Perforation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C158334	PERI-INSULAR HALOS, DECREASED					NotDone	NotDone	
+C158335	PERI-INSULAR HALOS, INCREASED	skos:exactMatch	59145000	Perinuclear halo	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C158335	PERI-INSULAR HALOS, INCREASED	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+C62547	PERIODONTAL POCKET	skos:exactMatch	109629007	Periodontal pocket	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C161553	PERSISTENT HYALOID VESSELS					NotDone	NotDone	
+C161554	PERSISTENT HYPERPLASTIC PRIMARY VITREOUS					NotDone	NotDone	
+C161555	PERSISTENT PUPILLARY MEMBRANE					NotDone	NotDone	
+C163733	PERSISTENT THYROGLOSSAL DUCT					NotDone	NotDone	
+C163734	PERSISTENT X-ZONE					NotDone	NotDone	
+C61250	PHOSPHOLIPIDOSIS	skos:exactMatch	23585005	Disorder of lysosomal enzyme	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C170642	PHYSEAL DYSPLASIA	skos:broadMatch	272673000	Bone structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Disorganization of the physeal chondrocytes with or without increased thickness of physis	1
+C170642	PHYSEAL DYSPLASIA	skos:broadMatch	25723000	Dysplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration	Disorganization of the physeal chondrocytes with or without increased thickness of physis	1
+C139153	PHYSIS THICKNESS, DECREASED	skos:exactMatch	29143009	Decreased thickness	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C139153	PHYSIS THICKNESS, DECREASED	skos:exactMatch	711190000	Structure of epiphyseal plate	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C139154	PHYSIS THICKNESS, INCREASED	skos:exactMatch	89977008	Increased thickness	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C139154	PHYSIS THICKNESS, INCREASED	skos:exactMatch	711190000	Structure of epiphyseal plate	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C38005	PIGMENT	skos:exactMatch	79644001	Pigment alteration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C161560	PIGMENT, DECREASED	skos:exactMatch	18655006	Depigmentation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C161559	PIGMENT, INCREASED	skos:exactMatch	51083003	Pigment deposition	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C181554	PLACENTAL REMNANT					NotDone	NotDone	
+C181556	PLACENTAL REMNANT/IMPLANTATION SITE REMNANT					NotDone	NotDone	
+C161556	POLARITY, LOSS					NotDone	NotDone	
+C123641	POLYOVULAR FOLLICLE					NotDone	NotDone	
+C187977	PORCINE MYOPATHY					NotDone	NotDone	
+C161557	PORPHYRIN, INCREASED					NotDone	NotDone	
+C36173	PROLAPSE	skos:exactMatch	29696001	Prolapse	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139160	PROLIFERATION, INTIMA	skos:exactMatch	47690009	Intimal proliferation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139161	PROLIFERATION, STROMA, VALVE					NotDone	NotDone	
+C161558	PROLIFERATION, TRABECULAR MESHWORK					NotDone	NotDone	
+C123642	PROSTATIC RUDIMENT					NotDone	NotDone	
+C163735	PROTEINACEOUS FLUID, AQUEOUS HUMOR					NotDone	NotDone	
+C120904	PROTEINACEOUS PLUG					NotDone	NotDone	
+C97117	PSEUDOCYST	skos:exactMatch	13467000	Pseudocyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139152	PULP CONCRETION					NotDone	NotDone	
+C78582	PUSTULE	skos:exactMatch	47002008	Pustule	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C34965	PYELONEPHRITIS	skos:exactMatch	45816000	Pyelonephritis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C121207	PYOMETRA	skos:exactMatch	88981003	Pyometra	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C174377	RADICULONEUROPATHY					NotDone	NotDone	
+C139136	RAREFACTION	skos:exactMatch	891171000004107	Tissue rarefaction	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C17083	REGENERATION	skos:exactMatch	34636005	Regeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3847	RENAL DYSPLASIA	skos:exactMatch	204949001	Renal dysplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C176397	RENAUT BODY					NotDone	NotDone	
+C93204	RESORPTION					NotDone	NotDone	
+C124578	RETINAL FOLD	skos:exactMatch	37480005	Retinal fold	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C161565	RETINAL ROSETTE					NotDone	NotDone	
+C120905	RETROGRADE NEPHROPATHY	skos:exactMatch	197764002	Non-obstructive reflux-associated chronic pyelonephritis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C161561	RODENT PROGRESSIVE CARDIOMYOPATHY					NotDone	NotDone	
+C9445	RUPTURE	skos:exactMatch	125671007	Rupture	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C40119	SALPINGITIS ISTHMICA NODOSA	skos:exactMatch	36742000	Salpingitis isthmica nodosa	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C98382	SATELLITOSIS	skos:exactMatch	52214007	Satellitosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C98382	SATELLITOSIS	skos:exactMatch	28922004	Perineuronal satellite cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C166107	SECRETION, DECREASED	skos:exactMatch	46242002	Body secretion	Observation | Substance	semapv:ManualMappingCuration		1
+C166107	SECRETION, DECREASED	skos:exactMatch	1250004	Decreased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+C166108	SECRETION, INCREASED	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+C166108	SECRETION, INCREASED	skos:exactMatch	46242002	Body secretion	Observation | Substance	semapv:ManualMappingCuration		1
+C158337	SECRETORY DEPLETION					NotDone	NotDone	
+C120906	SEPTAL DEVIATION	skos:exactMatch	126660000	Deviated nasal septum	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C176407	SEROSA-ASSOCIATED LYMPHOID CLUSTERS, INCREASED					NotDone	NotDone	
+C176409	SEROUS ATROPHY OF FAT	skos:exactMatch	10403004	Serous atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C60880	SINGLE CELL NECROSIS	skos:broadMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C80355	SPERM GRANULOMA	skos:exactMatch	428775009	Sperm granuloma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C120907	SPERM STASIS	skos:broadMatch	64557000	Disorder of male genital organ	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C61050	SPERM, DECREASED					NotDone	NotDone	
+C120908	SPERMATID RETENTION	skos:exactMatch	38326003	Spermatid	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C120908	SPERMATID RETENTION	skos:exactMatch	36850000	Retention	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120909	SPERMATOCELE	skos:exactMatch	49263001	Spermatocele	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C176400	SPLENIC CONTRACTION					NotDone	NotDone	
+C3134	SQUAMOUS CYST	skos:exactMatch	418930003	Epidermal inclusion cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C154894	SQUAMOUS PLAQUE/CYST	skos:broadMatch	367643001	Cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C154894	SQUAMOUS PLAQUE/CYST	skos:exactMatch	367643001	Cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C158331	SYNCYTIA	skos:exactMatch	60401004	Multinucleate giant cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C85179	SYRINGOMYELIA	skos:exactMatch	111496009	Syringomyelia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C123643	SYRINGOMYELIA/HYDROMYELIA	skos:exactMatch	111496009	Syringomyelia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C123643	SYRINGOMYELIA/HYDROMYELIA	skos:exactMatch	11197005	Hydromyelia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C120910	TENSION LIPIDOSIS					NotDone	NotDone	
+C176410	TERTIARY LYMPHOID STRUCTURES					NotDone	NotDone	
+C174380	THICKNESS, DECREASED	skos:exactMatch	29143009	Decreased thickness	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C174381	THICKNESS, INCREASED	skos:exactMatch	89977008	Increased thickness	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C27083	THROMBUS	skos:exactMatch	396339007	Thrombus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C176411	THYMIC CORPUSCLES, INCREASED					NotDone	NotDone	
+C176403	THYMIC EPITHELIUM-FREE AREAS, INCREASED					NotDone	NotDone	
+C176408	THYMIC INVOLUTION, AGE-RELATED					NotDone	NotDone	
+C163736	THYROID DYSPLASIA	skos:exactMatch	25723000	Dysplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C163736	THYROID DYSPLASIA	skos:exactMatch	69748006	Thyroid structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C166109	TINGIBLE BODY MACROPHAGES, INCREASED					NotDone	NotDone	
+C120911	TYPE II ASTROCYTES	skos:exactMatch	29209006	Alzheimer type II glial cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C3426	ULCER	skos:exactMatch	56208002	Ulcer	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C163737	ULTIMOBRANCHIAL CYST	skos:broadMatch	12143007	Embryonic cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C96302	VACUOLATION	skos:narrowMatch	250281004	Cytoplasmic vacuolation	Condition | Clinical Finding	semapv:ManualMappingCuration	The presence of vacuoles within the cytoplasm of cells	2
+C96302	VACUOLATION	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration	The presence of vacuoles within the cytoplasm of cells	1
+C161568	VACUOLATION, EXTRACELLULAR	skos:broadMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120912	VESICLE	skos:exactMatch	82515000	Vesicle	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C120913	YEAST	skos:exactMatch	769070007	Finding of presence of yeast	Condition | Clinical Finding	semapv:ManualMappingCuration		1

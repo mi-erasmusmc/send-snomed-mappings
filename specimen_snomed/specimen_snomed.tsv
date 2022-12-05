@@ -1,0 +1,542 @@
+subject_id	subject_label	predicate_id	object_id	object_label	object_category	mapping_justification	comment	mapping_group
+C77608	ABDOMINAL WALL	skos:exactMatch	59380008	Anterior abdominal wall structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C98702	ABOMASUM	skos:broadMatch	69695003	Stomach structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Fourth stomach compartment in ruminants	1
+C12472	ADIPOSE TISSUE	skos:exactMatch	55603005	Adipose tissue	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32235	ADIPOSE TISSUE, BROWN	skos:exactMatch	15965003	Brown fat	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33889	ADIPOSE TISSUE, WHITE	skos:broadMatch	55603005	Adipose tissue	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	White-colored adipose tissue that is predominantly composed of cells with a large single vacuole containing lipid	1
+C120926	AIR SAC	skos:broadMatch	20139000	Structure of respiratory system	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A part of the respiratory system in multiple species (predominantly avian) which are variably connected with the lung.	1
+C12372	ARTERY	skos:exactMatch	51114001	Arterial structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12669	ARTERY, AORTA	skos:exactMatch	15825003	Aortic structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52849	ARTERY, AURICULAR	skos:narrowMatch	68907005	Structure of auricular branch occipital artery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	One of the arteries of the pinna; in general it arises from the internal carotid artery or the superficial temporal artery	1
+C52849	ARTERY, AURICULAR	skos:narrowMatch	20360001	Structure of posterior auricular artery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	One of the arteries of the pinna; in general it arises from the internal carotid artery or the superficial temporal artery	2
+C12681	ARTERY, BRACHIAL	skos:exactMatch	17137000	Structure of brachial artery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32814	ARTERY, BRACHIOCEPHALIC	skos:exactMatch	12691009	Structure of brachiocephalic artery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12687	ARTERY, CAROTID	skos:exactMatch	69105007	Carotid artery structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12843	ARTERY, CORONARY	skos:exactMatch	41801008	Coronary artery structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12715	ARTERY, FEMORAL	skos:exactMatch	7657000	Structure of femoral artery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12733	ARTERY, ILIAC	skos:exactMatch	10293006	Structure of iliac artery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52941	ARTERY, INTERNAL THORACIC	skos:exactMatch	69327007	Structure of internal thoracic artery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52975	ARTERY, MESENTERIC	skos:exactMatch	86570000	Structure of mesenteric artery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12774	ARTERY, PULMONARY	skos:exactMatch	81040000	Pulmonary artery structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12778	ARTERY, RENAL	skos:exactMatch	2841007	Structure of renal artery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33587	ARTERY, SPINAL	skos:exactMatch	244228006	Spinal artery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33643	ARTERY, SUBCLAVIAN	skos:exactMatch	36765005	Structure of subclavian artery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13347	ASPIRATE	skos:exactMatch	119295008	Specimen obtained by aspiration	Specimen | Specimen	semapv:ManualMappingCuration		1
+C13192	BILE	skos:exactMatch	70150004	Bile	Observation | Substance	semapv:ManualMappingCuration		1
+C70699	BIOSPECIMEN	skos:exactMatch	123038009	Specimen	Specimen | Specimen	semapv:ManualMappingCuration		1
+C25444	BODY CAVITY	skos:exactMatch	91806002	Body cavity structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12664	BODY CAVITY, ABDOMINAL	skos:exactMatch	818987002	Abdominopelvic cavity	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77638	BODY CAVITY, CRANIAL	skos:exactMatch	1101003	Cranial cavity structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92208	BODY CAVITY, EXTRAPERITONEAL	skos:exactMatch	83137009	Structure of extraperitoneal space	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12424	BODY CAVITY, NASAL	skos:exactMatch	53342003	Internal nose structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12421	BODY CAVITY, ORAL	skos:exactMatch	74262004	Oral cavity structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12347	BODY CAVITY, ORBITAL	skos:exactMatch	363654007	Structure of orbit proper	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12767	BODY CAVITY, PELVIC	skos:exactMatch	12921003	Pelvic region	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C38662	BODY CAVITY, PERICARDIAL	skos:exactMatch	25489000	Pericardial cavity structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12769	BODY CAVITY, PERITONEAL	skos:exactMatch	83670000	Peritoneal cavity structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12840	BODY CAVITY, PLEURAL	skos:exactMatch	91381003	Pleural cavity structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12905	BODY CAVITY, THORACIC	skos:exactMatch	43799004	Thoracic cavity structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12366	BONE	skos:exactMatch	272673000	Bone structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12431	BONE MARROW	skos:exactMatch	14016003	Bone marrow structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77686	BONE MARROW, FEMUR	skos:exactMatch	420902003	Structure of bone marrow of femur	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77687	BONE MARROW, HUMERUS	skos:exactMatch	712956008	Structure of bone marrow of humerus	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77688	BONE MARROW, RIB	skos:exactMatch	297221009	Rib bone marrow structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77689	BONE MARROW, SCAPULA	skos:exactMatch	712939000	Structure of bone marrow of scapula	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77690	BONE MARROW, STERNUM	skos:exactMatch	297219004	Sternal bone marrow structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77691	BONE MARROW, TIBIA	skos:exactMatch	422111009	Structure of bone marrow of tibia	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77692	BONE MARROW, VERTEBRUM	skos:exactMatch	361004007	Structure of bone marrow of vertebra	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32164	BONE, AUDITORY OSSICLES	skos:exactMatch	422258005	Bone structure of auditory ossicle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C81188	BONE, CALVARIUM	skos:exactMatch	10927008	Structure of vault of skull	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12688	BONE, CARPAL	skos:exactMatch	83936004	Bone structure of carpus	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12695	BONE, CLAVICLE	skos:exactMatch	51299004	Bone structure of clavicle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C83002	BONE, CONDYLE	skos:exactMatch	332607006	Structure of condyle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12717	BONE, FEMUR	skos:exactMatch	71341001	Bone structure of femur	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C135523	BONE, FEMUR/JOINT, FEMOROTIBIAL	skos:exactMatch	129159008	Structure of femorotibial joint	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C135523	BONE, FEMUR/JOINT, FEMOROTIBIAL	skos:exactMatch	71341001	Bone structure of femur	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12718	BONE, FIBULA	skos:exactMatch	87342007	Bone structure of fibula	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12731	BONE, HUMERUS	skos:exactMatch	85050009	Bone structure of humerus	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32765	BONE, ILIUM	skos:exactMatch	22356005	Bone structure of ilium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12290	BONE, MANDIBLE	skos:exactMatch	91609006	Bone structure of mandible	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C26470	BONE, MAXILLA	skos:exactMatch	70925003	Bone structure of maxilla	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12751	BONE, METACARPAL	skos:exactMatch	36455000	Metacarpal bone structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12752	BONE, METATARSAL	skos:exactMatch	53884002	Metatarsal bone structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33282	BONE, PATELLA	skos:exactMatch	64234005	Bone structure of patella	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33287	BONE, PELVIS	skos:exactMatch	118645006	Bone structure of pelvis	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33317	BONE, PHALANGE	skos:exactMatch	28641004	Phalanx structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12777	BONE, RADIUS	skos:exactMatch	62413002	Bone structure of radius	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12782	BONE, RIB	skos:exactMatch	113197003	Bone structure of rib	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12783	BONE, SCAPULA	skos:exactMatch	79601000	Bone structure of scapula	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12789	BONE, SKULL	skos:exactMatch	89546000	Bone structure of cranium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12793	BONE, STERNUM	skos:exactMatch	56873002	Bone structure of sternum	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12796	BONE, TARSUS	skos:exactMatch	108371006	Bone structure of tarsus	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12800	BONE, TIBIA	skos:exactMatch	12611008	Bone structure of tibia	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12809	BONE, ULNA	skos:exactMatch	23416004	Bone structure of ulna	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33868	BONE, VERTEBRA	skos:exactMatch	420345000	Structure of vertebra	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12439	BRAIN	skos:exactMatch	12738006	Brain structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12440	BRAIN, AMYGDALOID BODY	skos:exactMatch	4958002	Amygdaloid structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12447	BRAIN, BASAL GANGLIA	skos:exactMatch	32610002	Basal ganglion structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12441	BRAIN, BRAIN STEM	skos:exactMatch	15926001	Brainstem structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12445	BRAIN, CEREBELLUM	skos:exactMatch	113305005	Cerebellar structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12351	BRAIN, CEREBRUM	skos:exactMatch	372073000	Cerebral hemisphere structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12694	BRAIN, CHOROID PLEXUS	skos:exactMatch	80621003	Structure of choroid plexus	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12837	BRAIN, COCHLEAR NUCLEI	skos:exactMatch	17661006	Cochlear nucleus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12446	BRAIN, CORPUS CALLOSUM	skos:exactMatch	88442005	Corpus callosum structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C40185	BRAIN, FOREBRAIN	skos:exactMatch	81861006	Prosencephalon structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12444	BRAIN, HIPPOCAMPUS	skos:exactMatch	5366008	Hippocampal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12458	BRAIN, HYPOTHALAMUS	skos:exactMatch	67923007	Hypothalamic structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12442	BRAIN, MEDULLA OBLONGATA	skos:exactMatch	26519002	Medulla oblongata structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12510	BRAIN, MIDBRAIN	skos:exactMatch	61962009	Midbrain structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92592	BRAIN, OBEX	skos:broadMatch	26519002	Medulla oblongata structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The region of the medulla oblongata at which the fourth ventricle transitions into the central canal of the spinal cord	1
+C28401	BRAIN, OLFACTORY BULB	skos:exactMatch	113302008	Structure of olfactory bulb	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12511	BRAIN, PONS	skos:exactMatch	49557009	Pontine structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12453	BRAIN, SUBSTANTIA NIGRA	skos:exactMatch	70007007	Substantia nigra structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12459	BRAIN, THALAMUS	skos:exactMatch	42695009	Thalamic structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C97340	BRAIN, VISUAL CORTEX	skos:exactMatch	113300000	Area striata structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12683	BRONCHUS	skos:exactMatch	955009	Bronchial structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32234	BRONCHUS-ASSOCIATED LYMPHOID TISSUE	skos:broadMatch	22226004	Structure of lymphoid tissue of lung	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Lymphoid tissue located in the mucosa of the bronchi	1
+C84507	BUFFY COAT	skos:exactMatch	258587000	Buffy coat	Specimen | Specimen	semapv:ManualMappingCuration		1
+C111141	BURSA OF FABRICIUS	skos:broadMatch	89890002	Structure of lymphatic system	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A region of the cloaca in avian species responsible for B-cell maturation	1
+C25264	CARINA	skos:exactMatch	28700002	Structure of carina of trachea	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C66852	CAROTID BODY	skos:exactMatch	51345006	Carotid body structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32268	CARTILAGE	skos:exactMatch	771314001	Cartilage structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12311	CERVIX	skos:exactMatch	71252005	Cervix uteri structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13070	CHEEK	skos:exactMatch	60819002	Cheek structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C111156	CHEEK POUCH	skos:broadMatch	123851003	Mouth region structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	An invagination of the oral mucosa within the cheek of some mammals that forms a pocket	1
+C12308	CLITORIS	skos:exactMatch	65439009	Clitoral structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C34127	CLOACA	skos:exactMatch	64582000	Cloaca structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12341	CONJUNCTIVA	skos:exactMatch	29445007	Conjunctival structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12902	CONJUNCTIVA, BULBAR	skos:exactMatch	1832000	Structure of bulbar conjunctiva	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12901	CONJUNCTIVA, PALPEBRAL	skos:exactMatch	15768007	Structure of palpebral conjunctiva	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12374	CONNECTIVE TISSUE	skos:exactMatch	21793004	Connective tissue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12316	CORPUS UTERI	skos:exactMatch	23952005	Body of uterus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32392	COSTOCHONDRAL JUNCTION	skos:exactMatch	27756000	Chondrocostal synchondrosis structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C111162	CROP	skos:broadMatch	51289009	Digestive tract structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A saccular expansion of the esophagus in most avian species that can be used for food storage	1
+C12948	DUCT	skos:exactMatch	343011009	Duct (organ) structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12376	DUCT, BILE	skos:exactMatch	28273000	Bile duct structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12698	DUCT, COMMON BILE	skos:exactMatch	79741001	Common bile duct structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32356	DUCT, COMMON HEPATIC	skos:exactMatch	725502003	Structure of common hepatic duct	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32421	DUCT, CYSTIC	skos:exactMatch	77452001	Cystic duct structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32492	DUCT, EFFERENT	skos:exactMatch	59914003	Structure of efferent ductule of testis	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33161	DUCT, NASOLACRIMAL	skos:exactMatch	15753006	Nasolacrimal duct structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C154699	DUCT, PANCREATIC	skos:exactMatch	69930009	Pancreatic duct structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12394	EAR	skos:exactMatch	117590005	Ear structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12498	EAR CANAL	skos:exactMatch	84301002	External auditory canal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12395	EAR, COCHLEA	skos:exactMatch	80169004	Cochlear structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12328	EPIDIDYMIS	skos:exactMatch	87644002	Epididymis structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33732	EPIDIDYMIS, CAUDA	skos:exactMatch	9321006	Structure of tail of epididymis	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32529	EPIPHYSIS	skos:exactMatch	43719000	Structure of epiphysis	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12389	ESOPHAGUS	skos:exactMatch	32849002	Esophageal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12500	EUSTACHIAN TUBE	skos:exactMatch	91207004	Structure of pharyngotympanic tube	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12401	EYE	skos:exactMatch	81745001	Eye structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12667	EYE, ANTERIOR CHAMBER	skos:exactMatch	31636006	Anterior chamber of eye structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13190	EYE, AQUEOUS HUMOR	skos:exactMatch	87321005	Structure of aqueous humor	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12344	EYE, CHOROID	skos:exactMatch	68703001	Choroidal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12345	EYE, CILIARY BODY	skos:exactMatch	29534007	Ciliary body structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12342	EYE, CORNEA	skos:exactMatch	28726007	Corneal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12737	EYE, IRIS	skos:exactMatch	41296002	Iris structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12743	EYE, LENS	skos:exactMatch	78076003	Lens clear	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12900	EYE, POSTERIOR CHAMBER	skos:exactMatch	65643003	Structure of posterior chamber of eye	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C49328	EYE, RETINA	skos:exactMatch	5665001	Retinal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12784	EYE, SCLERA	skos:exactMatch	18619003	Scleral structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12811	EYE, UVEA	skos:exactMatch	74862005	Uveal tract structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33884	EYE, VITREOUS	skos:exactMatch	47538007	Vitreous body structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12713	EYELID	skos:exactMatch	80243003	Eyelid structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13071	FACE	skos:exactMatch	89545001	Face structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13234	FECES	skos:exactMatch	39477002	Feces	Observation | Substance	semapv:ManualMappingCuration		1
+C17730	FETUS	skos:exactMatch	303112003	Fetal period	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+C13236	FLUID	skos:exactMatch	32457005	Body fluid	Observation | Substance	semapv:ManualMappingCuration		1
+C77611	FLUID, ABDOMINAL	skos:exactMatch	409615008	Ascitic fluid	Observation | Substance	semapv:ManualMappingCuration		1
+C13188	FLUID, AMNIOTIC	skos:exactMatch	77012006	Amniotic fluid	Observation | Substance	semapv:ManualMappingCuration		1
+C13195	FLUID, BRONCHOALVEOLAR LAVAGE	skos:exactMatch	258607008	Bronchoalveolar lavage fluid sample	Specimen | Specimen	semapv:ManualMappingCuration		1
+C12692	FLUID, CEREBROSPINAL	skos:exactMatch	65216001	Cerebrospinal fluid	Observation | Substance	semapv:ManualMappingCuration		1
+C3319	FLUID, PERICARDIAL	skos:exactMatch	373945007	Pericardial effusion	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C77612	FLUID, PERITONEAL	skos:exactMatch	409614007	Peritoneal fluid	Observation | Substance	semapv:ManualMappingCuration		1
+C77613	FLUID, PLEURAL	skos:exactMatch	2778004	Pleural fluid	Observation | Substance	semapv:ManualMappingCuration		1
+C33718	FLUID, SYNOVIAL	skos:exactMatch	6085005	Synovial fluid	Observation | Substance	semapv:ManualMappingCuration		1
+C125897	FLUID, THORAX	skos:narrowMatch	2778004	Pleural fluid	Observation | Substance	semapv:ManualMappingCuration	Fluid that is present in the thoracic cavity	1
+C32622	FOOT	skos:exactMatch	56459004	Foot structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92654	FOOTPAD	skos:broadMatch	314403009	Skin of part of limb	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A thick, spongy layer of tissue located under the metacarpal and metatarsal joints of the foot. It consists of a pad of adipose tissue covered by a thick epidermis containing dermal sweat glands	1
+C176321	FORELIMB	skos:exactMatch	53120007	Upper limb structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12377	GALLBLADDER	skos:exactMatch	28231008	Gallbladder structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12719	GANGLION	skos:exactMatch	64274004	Structure of nervous system ganglion	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C98713	GANGLION, CERVICAL	skos:exactMatch	278325008	Cervical spinal ganglion	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92211	GANGLION, CERVICOTHORACIC	skos:exactMatch	88759001	Structure of inferior cervical ganglion	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12462	GANGLION, DORSAL ROOT	skos:exactMatch	71710004	Structure of spinal nerve ganglion	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C179825	GANGLION, SPIRAL	skos:exactMatch	35761005	Structure of spiral ganglion	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C62642	GANGLION, TRIGEMINAL	skos:exactMatch	36615005	Structure of trigeminal ganglion	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92214	GANGLION, TRIGEMINAL/NERVE, TRIGEMINAL	skos:exactMatch	36615005	Structure of trigeminal ganglion	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92214	GANGLION, TRIGEMINAL/NERVE, TRIGEMINAL	skos:exactMatch	27612005	Trigeminal nerve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77614	GASTRIC CONTENTS	skos:exactMatch	62059006	Gastric contents	Observation | Substance	semapv:ManualMappingCuration		1
+C92593	GILLS	skos:broadMatch	20139000	Structure of respiratory system	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A respiratory organ found in aquatic animals that allows for the exchange of dissolved oxygen from water into the blood stream	1
+C32677	GINGIVA	skos:exactMatch	113279002	Gingival structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77616	GLAND OF THE THIRD EYELID	skos:broadMatch	714649001	Structure of eyelid gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A gland producing tears in a third eyelid	1
+C12666	GLAND, ADRENAL	skos:exactMatch	23451007	Adrenal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77955	GLAND, AMPULLARY	skos:broadMatch	127903009	Male genital organ structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The exocrine glands of the male reproductive system located at the terminal portion of the ductus deferens	1
+C125895	GLAND, ANAL SAC	skos:broadMatch	2789006	Apocrine gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Apocrine gland located in the wall of the anal sac	1
+C13010	GLAND, BRUNNER'S	skos:exactMatch	714325007	Structure of duodenal gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32395	GLAND, BULBOURETHRAL	skos:exactMatch	66997005	Bulbourethral gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77610	GLAND, CIRCUMANAL	skos:broadMatch	78293005	Structure of anal gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Superficial sebaceous glands located around the anus and contain fat	1
+C77617	GLAND, CLITORAL	skos:exactMatch	6504002	Glans clitoridis structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77618	GLAND, COAGULATING	skos:broadMatch	279689003	Prostatic gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The portion of the prostate, which when present, is adjacent to the seminal vesicles	1
+C33842	GLAND, ENDOMETRIAL	skos:exactMatch	50515001	Endocervical gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77619	GLAND, HARDERIAN	skos:broadMatch	714649001	Structure of eyelid gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Gland found within the eye's orbit that occurs in tetrapods	1
+C12346	GLAND, LACRIMAL	skos:exactMatch	13561001	Lacrimal gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12367	GLAND, MAMMARY	skos:exactMatch	76752008	Breast structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33075	GLAND, MEIBOMIAN	skos:exactMatch	1110006	Structure of meibomian gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12765	GLAND, PARATHYROID	skos:exactMatch	111002	Parathyroid structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77620	GLAND, PERIANAL	skos:broadMatch	78293005	Structure of anal gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Deep sebaceous glands located around the anus and contain no fat	1
+C12398	GLAND, PINEAL	skos:exactMatch	45793000	Pineal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12399	GLAND, PITUITARY	skos:exactMatch	56329008	Pituitary structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C79432	GLAND, PREPUTIAL	skos:exactMatch	45531002	Structure of preputial gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C117978	GLAND, PREPUTIAL/GLAND, CLITORAL	skos:exactMatch	45531002	Structure of preputial gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C117978	GLAND, PREPUTIAL/GLAND, CLITORAL	skos:exactMatch	6504002	Glans clitoridis structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12410	GLAND, PROSTATE	skos:exactMatch	279689003	Prostatic gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77622	GLAND, PROSTATE DORSOLATERAL	skos:broadMatch	279689003	Prostatic gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A lobe of the prostate gland located on the dorsolateral aspect of the proximal urethra	1
+C77623	GLAND, PROSTATE VENTRAL	skos:broadMatch	279689003	Prostatic gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A lobe of the prostate gland located on the ventral aspect of the proximal urethra	1
+C77670	GLAND, PROSTATE/GLAND, SEMINAL VESICLE	skos:exactMatch	64739004	Seminal vesicle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77670	GLAND, PROSTATE/GLAND, SEMINAL VESICLE	skos:exactMatch	41216001	Prostatic structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12426	GLAND, SALIVARY	skos:exactMatch	385294005	Salivary gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33141	GLAND, SALIVARY, MUCOUS	skos:exactMatch	30210003	Salivary mucous gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12427	GLAND, SALIVARY, PAROTID	skos:exactMatch	45289007	Parotid gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33539	GLAND, SALIVARY, SEROUS	skos:exactMatch	65067005	Salivary serous gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12234	GLAND, SALIVARY, SUBLINGUAL	skos:exactMatch	88481005	Sublingual gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12233	GLAND, SALIVARY, SUBMANDIBULAR	skos:exactMatch	385296007	Submandibular salivary gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92215	GLAND, SALIVARY, SUBMANDIBULAR/GLAND, SALIVARY, SUBLINGUAL	skos:exactMatch	385296007	Submandibular salivary gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92215	GLAND, SALIVARY, SUBMANDIBULAR/GLAND, SALIVARY, SUBLINGUAL	skos:exactMatch	88481005	Sublingual gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77624	GLAND, SALIVARY, ZYGOMATIC	skos:exactMatch	405732006	Zygomatic salivary gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33519	GLAND, SEBACEOUS	skos:exactMatch	1028005	Sebaceous gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12787	GLAND, SEMINAL VESICLE	skos:exactMatch	64739004	Seminal vesicle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92216	GLAND, SEMINAL VESICLE/GLAND, COAGULATING	skos:exactMatch	64739004	Seminal vesicle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12400	GLAND, THYROID	skos:exactMatch	69748006	Thyroid structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77667	GLAND, THYROID/GLAND, PARATHYROID	skos:exactMatch	297261005	Thyroid and/or parathyroid structures	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33521	GLAND, ZEIS	skos:exactMatch	714654005	Structure of gland of Zeis	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77954	GLAND, ZYMBAL	skos:broadMatch	1028005	Sebaceous gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A sebaceous gland located at the base of the rodent external ear	1
+C12725	GONAD	skos:exactMatch	43174007	Gonadal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77639	GRAVID UTERUS	skos:exactMatch	9258009	Gravid uterus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C3824	GROSS LESION	skos:exactMatch	52988006	Lesion	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C12936	GUT-ASSOCIATED LYMPHOID TISSUE	skos:exactMatch	19655003	Structure of lymphoid tissues of gastrointestinal tract	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32705	HAIR	skos:exactMatch	386045008	Hair structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32712	HAND	skos:exactMatch	85562004	Hand structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12419	HEAD	skos:exactMatch	69536005	Head structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12727	HEART	skos:exactMatch	80891009	Heart structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C41168	HEMOLYMPHORETICULAR TISSUE	skos:narrowMatch	6969002	Lymphocytic tissue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Very broad cdisc definition: Any of the tissues that contain hematopoietic cells and/or lymphocytes and immune system cells.	2
+C41168	HEMOLYMPHORETICULAR TISSUE	skos:narrowMatch	57171008	Hematopoietic system structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Very broad cdisc definition: Any of the tissues that contain hematopoietic cells and/or lymphocytes and immune system cells.	1
+C77625	HINDLIMB	skos:exactMatch	61685007	Lower limb structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77626	HOOF WALL	skos:broadMatch	123037004	Body Structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The keratinized, outer portion of the foot of a ungulate mammal	1
+C178001	ILEOCECAL JUNCTION	skos:exactMatch	264021000	Ileocecal junction	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C179826	ILEOCECOCOLIC REGION	skos:broadMatch	14742008	Structure of large intestine	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Transitional area involving the terminal ileum, cecum and beginning of the colon	1
+C12499	INNER EAR	skos:exactMatch	22945000	Inner ear structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32874	INTERVENTRICULAR SEPTUM	skos:exactMatch	589001	Interventricular septum structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C49571	INTERVERTEBRAL DISC	skos:exactMatch	360499006	Structure of intervertebral disc	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C189653	INTESTINAL CONTENTS	skos:exactMatch	84650004	Intestinal contents	Observation | Substance	semapv:ManualMappingCuration		1
+C12736	INTESTINE	skos:exactMatch	113276009	Intestinal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13044	JOINT	skos:exactMatch	39352004	Joint structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32264	JOINT, CARPUS	skos:exactMatch	699026005	Joint structure of wrist region	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32497	JOINT, ELBOW	skos:exactMatch	16953009	Elbow joint structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32898	JOINT, FEMOROTIBIAL	skos:exactMatch	49076000	Knee joint structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32742	JOINT, HIP	skos:exactMatch	24136001	Hip joint structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C111308	JOINT, SCAPULOHUMERAL	skos:exactMatch	85537004	Glenohumeral joint structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33735	JOINT, TARSUS	skos:exactMatch	27949001	Intertarsal joint structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12415	KIDNEY	skos:exactMatch	64033007	Kidney structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12227	LABIAL JUNCTION	skos:exactMatch	83299001	Commissure of lips	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12306	LABIUM MAJUS	skos:exactMatch	82462005	Labium majus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12307	LABIUM MINUS	skos:exactMatch	32104003	Labium minus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92439	LARGE COLON	skos:broadMatch	71854001	Colon structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The ascending colon of the horse	1
+C12379	LARGE INTESTINE	skos:exactMatch	14742008	Large intestinal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C43362	LARGE INTESTINE, ANUS	skos:exactMatch	53505006	Anal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12380	LARGE INTESTINE, APPENDIX	skos:exactMatch	66754008	Appendix structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12381	LARGE INTESTINE, CECUM	skos:exactMatch	32713005	Cecum structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12382	LARGE INTESTINE, COLON	skos:exactMatch	71854001	Colon structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12390	LARGE INTESTINE, RECTUM	skos:exactMatch	34402009	Rectum structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92217	LARGE INTESTINE, RECTUM/LARGE INTESTINE, ANUS	skos:exactMatch	281088000	Anorectal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C122233	LARYNGEAL POUCH	skos:exactMatch	83775000	Structure of laryngeal pouch	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12420	LARYNX	skos:exactMatch	4596009	Laryngeal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13046	LIGAMENT	skos:exactMatch	52082005	Structure of ligament	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12429	LIMB	skos:exactMatch	66019005	Limb structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12220	LIP	skos:exactMatch	48477009	Lip structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12392	LIVER	skos:exactMatch	10200004	Liver structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77669	LIVER/GALLBLADDER	skos:exactMatch	28231008	Gallbladder structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77669	LIVER/GALLBLADDER	skos:exactMatch	10200004	Liver structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12468	LUNG	skos:exactMatch	39607008	Lung structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92218	LUNG/BRONCHUS	skos:exactMatch	955009	Bronchial structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92218	LUNG/BRONCHUS	skos:exactMatch	39607008	Lung structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C129005	LUNG/BRONCHUS/TRACHEA/LARYNX	skos:exactMatch	4596009	Laryngeal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C129005	LUNG/BRONCHUS/TRACHEA/LARYNX	skos:exactMatch	44567001	Tracheal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C129005	LUNG/BRONCHUS/TRACHEA/LARYNX	skos:exactMatch	39607008	Lung structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C129005	LUNG/BRONCHUS/TRACHEA/LARYNX	skos:exactMatch	955009	Bronchial structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12745	LYMPH NODE	skos:exactMatch	59441001	Structure of lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12904	LYMPH NODE, AXILLARY	skos:exactMatch	68171009	Axillary lymph node structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92221	LYMPH NODE, BRACHIAL	skos:exactMatch	33770006	Structure of lateral axillary lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32232	LYMPH NODE, BRONCHIAL	skos:exactMatch	53074004	Structure of hilar lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32298	LYMPH NODE, CERVICAL	skos:exactMatch	81105003	Cervical lymph node structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33659	LYMPH NODE, CERVICAL, SUPERFICIAL	skos:exactMatch	279144003	Superficial cervical lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C150905	LYMPH NODE, DRAINING	skos:broadMatch	59441001	Structure of lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The lymph node or group of lymph nodes that drain a particular anatomic site or organ	1
+C92222	LYMPH NODE, GASTRIC	skos:exactMatch	314730000	Lymph node of stomach	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77640	LYMPH NODE, HEPATIC	skos:exactMatch	61492009	Structure of hepatic lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77653	LYMPH NODE, ILEOCECOCOLIC	skos:exactMatch	281676003	Structure of ileocolic lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32761	LYMPH NODE, ILIAC	skos:exactMatch	84219008	Structure of iliac lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32801	LYMPH NODE, INGUINAL	skos:exactMatch	8928004	Inguinal lymph node structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77652	LYMPH NODE, INTERCOSTAL	skos:exactMatch	64038003	Intercostal lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77643	LYMPH NODE, LUMBAR	skos:exactMatch	35783009	Structure of aortic lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32853	LYMPH NODE, MAMMARY GLAND	skos:exactMatch	82365008	Structure of parasternal lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77650	LYMPH NODE, MANDIBULAR	skos:exactMatch	59503006	Structure of submandibular lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33073	LYMPH NODE, MEDIASTINAL	skos:exactMatch	62683002	Mediastinal lymph node structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77641	LYMPH NODE, MESENTERIC	skos:exactMatch	279795009	Structure of lymph node of mesentery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77642	LYMPH NODE, PANCREATIC	skos:exactMatch	77778009	Structure of pancreatic lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C189654	LYMPH NODE, PARATHYMIC	skos:broadMatch	9875009	Thymus gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Lymph node(s) in the thymic region	1
+C189654	LYMPH NODE, PARATHYMIC	skos:broadMatch	59441001	Structure of lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Lymph node(s) in the thymic region	2
+C33278	LYMPH NODE, PAROTID	skos:exactMatch	10209003	Structure of parotid lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C53146	LYMPH NODE, POPLITEAL	skos:exactMatch	47471008	Popliteal lymph node structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77645	LYMPH NODE, PORTAL	skos:broadMatch	61492009	Structure of hepatic lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Lymph node(s) adjacent to the portal vein	1
+C49018	LYMPH NODE, REGIONAL	skos:exactMatch	312500006	Regional lymph node structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77646	LYMPH NODE, RENAL	skos:exactMatch	249708006	Structure of renal hilar lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77649	LYMPH NODE, RETROPHARYNGEAL	skos:exactMatch	25683005	Structure of retropharyngeal lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77647	LYMPH NODE, SACRAL	skos:exactMatch	79926007	Structure of sacral lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92594	LYMPH NODE, SUBILIAC	skos:broadMatch	8928004	Inguinal lymph node structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Lymph node(s) in the inguinofemoral region.	1
+C92434	LYMPH NODE, SUBLINGUAL	skos:broadMatch	13482005	Structure of lymph node of head	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Lymph node(s) adjacent to the tongue in the floor of the oral cavity	1
+C77651	LYMPH NODE, TRACHEOBRONCHIAL	skos:exactMatch	245341003	Tracheobronchial lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C34808	MASS	skos:exactMatch	300848003	Mass of body structure	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C12748	MEDIASTINUM	skos:exactMatch	72410000	Mediastinal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77657	MEMBRANE, NICTITATING	skos:broadMatch	80243003	Eyelid structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A translucent membrane present in the eye of some animals, also called the third eyelid	1
+C12348	MENINGES	skos:exactMatch	1231004	Meninges structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33096	MENISCUS	skos:exactMatch	74135004	Meniscus structure of joint	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33097	MENISCUS, LATERAL	skos:exactMatch	10013000	Lateral meniscus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33098	MENISCUS, MEDIAL	skos:exactMatch	49390008	Medial meniscus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33103	MESENTERY	skos:exactMatch	89679009	Mesentery structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92435	MESENTERY/PERITONEUM	skos:exactMatch	89679009	Mesentery structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92435	MESENTERY/PERITONEUM	skos:exactMatch	15425007	Peritoneum (serous membrane) structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92440	MESOVARIAN LIGAMENTS	skos:exactMatch	20963009	Structure of mesovarium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12274	MIDDLE EAR	skos:exactMatch	25342003	Middle ear structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13257	MILK	skos:exactMatch	226789007	Breast milk	Observation | Substance	semapv:ManualMappingCuration		1
+C77658	MILK SERUM	skos:broadMatch	70813002	Milk	Observation | Substance	semapv:ManualMappingCuration	The fluid that remains after removing the fat and casein from the milk	1
+C12505	MUCOSA, BUCCAL	skos:exactMatch	16811007	Buccal mucosa	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C187999	MUCOSA, NASAL	skos:exactMatch	34508005	Structure of mucous membrane of nose	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77637	MUCOSA, ORAL	skos:exactMatch	113277000	Oral mucous membrane structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13259	MUCUS	skos:exactMatch	49909006	Mucus	Observation | Substance	semapv:ManualMappingCuration		1
+C32040	MUSCLE, ABDOMINAL	skos:exactMatch	818995003	Abdominal skeletal muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C53039	MUSCLE, ADDUCTOR	skos:exactMatch	44487003	Structure of adductor muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32200	MUSCLE, BICEPS BRACHII	skos:exactMatch	16225001	Biceps brachii muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C53147	MUSCLE, BICEPS FEMORIS	skos:exactMatch	89241006	Biceps femoris muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C112234	MUSCLE, BULBOSPONGIOSUS	skos:exactMatch	71439003	Structure of bulbospongiosus muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12702	MUSCLE, DIAPHRAGM	skos:exactMatch	5798000	Diaphragm structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33688	MUSCLE, DORSAL OBLIQUE	skos:exactMatch	66041005	Superior oblique muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33694	MUSCLE, DORSAL RECTUS	skos:exactMatch	5815008	Superior rectus muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52902	MUSCLE, ERECTOR SPINAE	skos:exactMatch	44947003	Structure of erector spinae muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52918	MUSCLE, EXTENSOR DIGITORUM LONGUS	skos:broadMatch	41123005	Skeletal muscle structure of lower leg	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A muscle extending from the lateral surface of the tibia to the digits; primary function is the extension of the digits and flexion of the tarsal joint	1
+C33199	MUSCLE, EXTRAOCULAR	skos:exactMatch	67833000	Structure of extraocular muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32666	MUSCLE, GASTROCNEMIUS	skos:exactMatch	35616000	Gastrocnemius muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C78205	MUSCLE, GLUTEUS	skos:broadMatch	102291007	Muscle of buttock	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A group of three muscles (gluteus maximus, gluteus medius, gluteus minimus) extending from the ilium and sacrum to the femur; primary function is extension and abduction of the hip joint	1
+C78205	MUSCLE, GLUTEUS	skos:narrowMatch	75297007	Structure of gluteus minimus muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A group of three muscles (gluteus maximus, gluteus medius, gluteus minimus) extending from the ilium and sacrum to the femur; primary function is extension and abduction of the hip joint	4
+C78205	MUSCLE, GLUTEUS	skos:narrowMatch	78333006	Structure of gluteus medius muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A group of three muscles (gluteus maximus, gluteus medius, gluteus minimus) extending from the ilium and sacrum to the femur; primary function is extension and abduction of the hip joint	3
+C78205	MUSCLE, GLUTEUS	skos:narrowMatch	206007	Structure of gluteus maximus muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A group of three muscles (gluteus maximus, gluteus medius, gluteus minimus) extending from the ilium and sacrum to the femur; primary function is extension and abduction of the hip joint	2
+C32824	MUSCLE, INTERCOSTAL	skos:exactMatch	86419007	Structure of intercostal muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32945	MUSCLE, LATERAL RECTUS	skos:exactMatch	31836009	Lateral rectus muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33150	MUSCLE, LATISSIMUS	skos:exactMatch	15665001	Structure of latissimus dorsi muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32984	MUSCLE, LEVATOR ANI	skos:exactMatch	79349002	Structure of levator ani muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C112430	MUSCLE, LEVATOR ANI/BULBOSPONGIOSUS	skos:exactMatch	71439003	Structure of bulbospongiosus muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C112430	MUSCLE, LEVATOR ANI/BULBOSPONGIOSUS	skos:exactMatch	79349002	Structure of levator ani muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13074	MUSCLE, MASSETER	skos:exactMatch	79368004	Masseter muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33068	MUSCLE, MEDIAL RECTUS	skos:exactMatch	24937009	Medial rectus muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33286	MUSCLE, PECTORALIS	skos:exactMatch	81802002	Pectoral muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C117979	MUSCLE, PLANTARIS	skos:exactMatch	25593008	Plantaris muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33422	MUSCLE, PSOAS	skos:exactMatch	36278009	Structure of psoas muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33441	MUSCLE, QUADRICEPS FEMORIS	skos:exactMatch	21989003	Structure of quadriceps femoris muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C53175	MUSCLE, RECTUS FEMORIS	skos:exactMatch	72226001	Rectus femoris muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C53176	MUSCLE, SEMITENDINOSUS	skos:exactMatch	50340007	Semitendinosus muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13050	MUSCLE, SKELETAL	skos:exactMatch	426215008	Skeletal muscle tissue	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12437	MUSCLE, SMOOTH	skos:exactMatch	122447002	Smooth muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C53075	MUSCLE, SOLEUS	skos:exactMatch	78376008	Soleus muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C117980	MUSCLE, STERNOCEPHALICUS	skos:broadMatch	314800003	Skeletal muscle structure of head and neck	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A muscle of the neck extending from the manubrium sterni to the head; primary function is lateral movement of the head and neck	1
+C53079	MUSCLE, TIBIALIS CRANIALIS	skos:exactMatch	20285007	Bone structure of proximal tibia	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C90604	MUSCLE, TRICEPS BRACHII	skos:exactMatch	40284004	Triceps brachii muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C117876	MUSCLE, VASTUS INTERMEDIUS	skos:exactMatch	57733007	Structure of vastus intermedius muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C53073	MUSCLE, VASTUS LATERALIS	skos:exactMatch	1403006	Structure of vastus lateralis muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C117736	MUSCLE, VASTUS MEDIALIS	skos:exactMatch	3478008	Structure of vastus medialis muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32783	MUSCLE, VENTRAL OBLIQUE	skos:exactMatch	57516003	Inferior oblique muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32790	MUSCLE, VENTRAL RECTUS	skos:exactMatch	47869003	Inferior rectus muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C179827	MUSCLE, ZYGOMATICUS	skos:narrowMatch	80352009	Structure of zygomaticus major muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A muscle extending from the zygomatic bone to the corners of the mouth/upper lip; primary function is to draw the lip superiorly, posteriorly and laterally	1
+C179827	MUSCLE, ZYGOMATICUS	skos:narrowMatch	80352008	Structure of zygomaticus minor muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A muscle extending from the zygomatic bone to the corners of the mouth/upper lip; primary function is to draw the lip superiorly, posteriorly and laterally	2
+C49594	NASAL TURBINATE	skos:exactMatch	46607005	Nasal turbinate structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C139163	NASAL TURBINATE, DORSAL CONCHA	skos:broadMatch	46607005	Nasal turbinate structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The nasal turbinate originating from the ethmoidal crest on the inner wall of the nasal bone and extending to the maxilla	1
+C139162	NASAL TURBINATE, ETHMOIDAL CONCHA	skos:broadMatch	46607005	Nasal turbinate structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The nasal turbinates extending from the ethmoidal crest into the nasal cavity	1
+C139164	NASAL TURBINATE, MIDDLE CONCHA	skos:exactMatch	60962000	Middle nasal turbinate structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C139165	NASAL TURBINATE, VENTRAL CONCHA	skos:broadMatch	46607005	Nasal turbinate structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The nasal turbinate originating from the conchal crest on the medial wall of the maxilla and extending into the nasal cavity	1
+C77659	NASAL-ASSOCIATED LYMPHOID TISSUE	skos:broadMatch	71836000	Nasopharyngeal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The lymphocytic cell population present in the mucosa of the nasopharyngeal duct	1
+C77659	NASAL-ASSOCIATED LYMPHOID TISSUE	skos:broadMatch	6969002	Lymphocytic tissue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The lymphocytic cell population present in the mucosa of the nasopharyngeal duct	2
+C12423	NASOPHARYNX	skos:broadMatch	71836000	Nasopharyngeal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The part of the pharynx above the soft palate, which is continuous with the nasal cavity and extends to the oropharynx	1
+C12466	NERVE	skos:exactMatch	3057000	Nerve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C54024	NERVE ROOT	skos:exactMatch	40958000	Nerve root structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12682	NERVE, BRACHIAL PLEXUS	skos:exactMatch	36582005	Brachial plexus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C174385	NERVE, CAUDAL PLEXUS	skos:exactMatch	122455009	Structure of nerve plexus	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12697	NERVE, COCHLEAR	skos:exactMatch	113313006	Structure of cochlear nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12700	NERVE, CRANIAL	skos:exactMatch	25238003	Cranial nerve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12714	NERVE, FACIAL	skos:exactMatch	56052001	Facial nerve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52815	NERVE, MEDIAN	skos:exactMatch	38464002	Structure of median nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12761	NERVE, OPTIC	skos:exactMatch	18234004	Optic nerve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12768	NERVE, PERIPHERAL	skos:exactMatch	84782009	Peripheral nerve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52814	NERVE, PERONEAL	skos:exactMatch	734088005	Structure of peroneal nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92601	NERVE, PERONEAL, COMMON	skos:exactMatch	27841004	Structure of common peroneal nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92602	NERVE, PERONEAL, DEEP	skos:exactMatch	64529007	Structure of deep peroneal nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92603	NERVE, PERONEAL, SUPERFICIAL	skos:exactMatch	53995007	Structure of superficial peroneal nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77674	NERVE, PLANTAR	skos:exactMatch	181074000	Plantar nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52812	NERVE, RADIAL	skos:exactMatch	8079007	Structure of radial nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C147511	NERVE, SAPHENOUS	skos:exactMatch	61896001	Structure of saphenous nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52810	NERVE, SCIATIC	skos:exactMatch	41519007	Structure of sciatic nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12792	NERVE, SPINAL	skos:exactMatch	3169005	Spinal nerve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77675	NERVE, SURAL	skos:exactMatch	82097001	Structure of sural nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52809	NERVE, TIBIAL	skos:exactMatch	45684006	Structure of tibial nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12806	NERVE, TRIGEMINAL	skos:exactMatch	27612005	Trigeminal nerve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52807	NERVE, ULNAR	skos:exactMatch	58696008	Structure of ulnar nerve	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12812	NERVE, VAGUS	skos:exactMatch	88882009	Vagus nerve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12299	NIPPLE	skos:exactMatch	24142002	Nipple structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12756	NOSE	skos:exactMatch	45206002	Nasal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13197	NUCLEUS	skos:exactMatch	84640000	Nucleus	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C98765	OLFACTORY REGION	skos:exactMatch	16730001	Structure of olfactory region of nose	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C98766	OMASUM	skos:broadMatch	69695003	Stomach structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The third compartment of the forestomach of ruminants with many long folds of mucosa.	1
+C33209	OMENTUM	skos:exactMatch	27398004	Omentum structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12760	OPTIC DISC	skos:exactMatch	81016008	Optic disc structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12762	OROPHARYNX	skos:exactMatch	31389004	Oropharyngeal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12404	OVARY	skos:exactMatch	15497006	Ovarian structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92595	OVARY/OVIDUCT	skos:exactMatch	31435000	Fallopian tube structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92595	OVARY/OVIDUCT	skos:exactMatch	15497006	Ovarian structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12403	OVIDUCT	skos:exactMatch	31435000	Fallopian tube structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12229	PALATE	skos:exactMatch	72914001	Palatal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12230	PALATE, HARD	skos:exactMatch	90228003	Hard palate structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12231	PALATE, SOFT	skos:exactMatch	49460000	Soft palate structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12393	PANCREAS	skos:exactMatch	15776009	Pancreatic structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C119578	PAPILLA, DUODENAL	skos:exactMatch	78540008	Duodenal papilla structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12763	PARANASAL SINUS	skos:exactMatch	2095001	Nasal sinus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77660	PAW	skos:narrowMatch	85562004	Hand structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The entire structure distal to the ankle joint/tarsus or wrist joint/carpus in quadruped animals	1
+C77660	PAW	skos:broadMatch	66019005	Limb structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The entire structure distal to the ankle joint/tarsus or wrist joint/carpus in quadruped animals	3
+C77660	PAW	skos:narrowMatch	56459004	Foot structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The entire structure distal to the ankle joint/tarsus or wrist joint/carpus in quadruped animals	2
+C12409	PENIS	skos:exactMatch	18911002	Penile structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13005	PERICARDIUM	skos:exactMatch	76848001	Pericardial structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33301	PERINEUM	skos:exactMatch	38864007	Perineal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12770	PERITONEUM	skos:exactMatch	15425007	Peritoneum (serous membrane) structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12771	PEYER'S PATCH	skos:exactMatch	267190001	Structure of aggregated lymphoid follicle of small intestine	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12425	PHARYNX	skos:exactMatch	54066008	Pharyngeal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12292	PINNA	skos:exactMatch	28347008	External ear structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13272	PLACENTA	skos:exactMatch	78067005	Placental structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13356	PLASMA	skos:exactMatch	50863008	Plasma	Observation | Substance	semapv:ManualMappingCuration		1
+C12469	PLEURA	skos:exactMatch	3120008	Pleural structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12323	PREPUCE	skos:exactMatch	17880006	Preputial structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C111301	PROVENTRICULUS	skos:broadMatch	69695003	Stomach structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The portion of the stomach of some non-mammalian species located between the thoracic esophagus and the ventriculus	1
+C12887	RENAL PELVIS	skos:exactMatch	25990002	Renal pelvis structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C176412	REPRODUCTIVE TISSUE	skos:exactMatch	245500007	Structure of anatomical reproductive system	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33467	RETE TESTIS	skos:exactMatch	14221007	Structure of rete testis	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C98777	RETICULUM	skos:broadMatch	69695003	Stomach structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Smallest forestomach of ruminants with complex honeycomb folding of mucosa	1
+C12298	RETROPERITONEUM	skos:exactMatch	82849001	Retroperitoneal compartment structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C179828	ROUND WINDOW NICHE	skos:exactMatch	28784008	Structure of cochlear window	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C98778	RUMEN	skos:broadMatch	69695003	Stomach structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Largest forestomach of ruminants where bacterial fermentation occurs	1
+C125896	SAC, ANAL	skos:broadMatch	2789006	Apocrine gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Animal specific. Mapped uphill to Apocrione gland.	1
+C14128	SAC, YOLK	skos:exactMatch	26190007	Yolk sac structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13275	SALIVA	skos:exactMatch	256897009	Saliva	Observation | Substance	semapv:ManualMappingCuration		1
+C12785	SCROTUM	skos:exactMatch	20233005	Scrotal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C179829	SECONDARY TYMPANIC MEMBRANE	skos:exactMatch	279768004	Secondary tympanic membrane	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13277	SEMEN	skos:exactMatch	734846002	Semen component	Observation | Substance	semapv:ManualMappingCuration		1
+C13325	SERUM	skos:exactMatch	67922002	Serum	Observation | Substance	semapv:ManualMappingCuration		1
+C33556	SINUS	skos:exactMatch	419351001	Sinus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C77676	SITE, APPLICATION	skos:exactMatch	39801007	Application site	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77677	SITE, BIOPSY	skos:exactMatch	396991001	Biopsy site	Observation | Observable Entity	semapv:ManualMappingCuration		1
+C92596	SITE, CATHETER	skos:exactMatch	246283002	Site of catheter	Observation | Attribute	semapv:ManualMappingCuration		1
+C77685	SITE, EXTERIORIZATION	skos:exactMatch	363123009	Exteriorization by anatomic site	Procedure | Procedure	semapv:ManualMappingCuration		1
+C77678	SITE, IMPLANTATION	skos:exactMatch	246314000	Site of implantation	Observation | Attribute	semapv:ManualMappingCuration		1
+C77679	SITE, INFUSION	skos:narrowMatch	13136005	Injection site	Observation | Morph Abnormality	semapv:ManualMappingCuration	The anatomic site through which fluid is introduced into the body	1
+C77680	SITE, INJECTION	skos:exactMatch	13136005	Injection site	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C77681	SITE, INJURY	skos:broadMatch	123037004	Body structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The anatomic site at which damage or harm was suffered.	1
+C77682	SITE, MICROCHIP	skos:exactMatch	423727002	Microchip identification implant	Device | Physical Object	semapv:ManualMappingCuration		1
+C147512	SITE, SUBCUTANEOUS PORT	skos:exactMatch	398013009	Implantable venous access port	Device | Physical Object	semapv:ManualMappingCuration		1
+C77683	SITE, SURGICAL	skos:exactMatch	260737006	Site of incision	Observation | Attribute	semapv:ManualMappingCuration		1
+C77684	SITE, TATTOO	skos:exactMatch	42872418	Tattoo of skin	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C48322	SITE, UNCERTAIN PRIMARY	skos:exactMatch	255052006	Malignant tumor of unknown origin	Condition | Clinical Finding	semapv:ManualMappingCuration	Referring to the fact that the original site of growth of a metastatic cancer is unknown or uncertain	1
+C12470	SKIN	skos:exactMatch	39937001	Skin structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92441	SKIN/SUBCUTIS	skos:exactMatch	127856007	Skin and/or subcutaneous tissue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92437	SMALL COLON	skos:broadMatch	71854001	Colon structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The terminal part of the colon of the horse with a reduced diameter	1
+C12386	SMALL INTESTINE	skos:exactMatch	30315005	Small intestinal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12263	SMALL INTESTINE, DUODENUM	skos:exactMatch	38848004	Duodenal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12387	SMALL INTESTINE, ILEUM	skos:exactMatch	34516001	Ileal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C179830	SMALL INTESTINE, JEJUNOILEUM	skos:broadMatch	30315005	Structure of small intestine	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A region of the small intestine of some animals, between the duodenum and colon, wherein the jejunum and ileum are co-located but not spatially distinct from each other	1
+C12388	SMALL INTESTINE, JEJUNUM	skos:exactMatch	21306003	Jejunal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C88024	SMALL INTESTINE, SACCULUS ROTUNDUS	skos:broadMatch	34516001	Ileal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	An anatomic structure exclusive to rabbits that is located at the terminal part of the ileum	1
+C12998	SPINAL COLUMN	skos:exactMatch	421060004	Structure of vertebral column	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12464	SPINAL CORD	skos:exactMatch	2748008	Spinal cord structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12892	SPINAL CORD, CERVICAL	skos:exactMatch	54785003	Cervical spinal cord structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12895	SPINAL CORD, LUMBAR	skos:exactMatch	60051002	Lumbar spinal cord structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12896	SPINAL CORD, SACRAL	skos:exactMatch	11478001	Sacral spinal cord structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12894	SPINAL CORD, THORACIC	skos:exactMatch	50800009	Thoracic spinal cord structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92438	SPIRAL COLON	skos:broadMatch	71854001	Colon structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The ascending colon of the ruminants and pigs	1
+C12432	SPLEEN	skos:exactMatch	78961009	Splenic structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12391	STOMACH	skos:exactMatch	69695003	Stomach structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12256	STOMACH, CARDIA	skos:exactMatch	62898002	Cardia structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12257	STOMACH, FUNDUS	skos:exactMatch	414003	Gastric fundus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77661	STOMACH, GLANDULAR	skos:broadMatch	78653002	Gastric mucous membrane structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The portion of the stomach that contains glandular mucosa	1
+C77662	STOMACH, NONGLANDULAR	skos:broadMatch	78653002	Gastric mucous membrane structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The portion of the stomach that contains stratified squamous mucosa	1
+C12260	STOMACH, PYLORUS	skos:exactMatch	280119005	Pyloric structure of stomach	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33645	SUBCUTIS	skos:exactMatch	71966008	Subcutaneous tissue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13280	SWEAT	skos:exactMatch	74616000	Sweat	Observation | Substance	semapv:ManualMappingCuration		1
+C12473	SYNOVIAL MEMBRANE	skos:exactMatch	64331004	Synovial membrane structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C111323	SYRINX	skos:broadMatch	46105003	Vocal cord structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The vocal organ of a bird located near the tracheal bifurcation	1
+C77663	TAIL	skos:broadMatch	38866009	Body part structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A flexible appendage caudal to the sacrum	1
+C33739	TEAR	skos:exactMatch	40431001	Tears	Observation | Substance	semapv:ManualMappingCuration		1
+C77664	TEAT	skos:broadMatch	24142002	Nipple structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A specialized type of nipple distinguished by its large cistern (lactiferous sinus) that connects to the exterior through the teat canal	1
+C13045	TENDON	skos:exactMatch	13024002	Tendon structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C96299	TENDON SHEATH	skos:exactMatch	15434002	Tendon sheath structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32043	TENDON, CALCANEAL	skos:exactMatch	61352006	Structure of achilles tendon	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12412	TESTIS	skos:exactMatch	40689003	Testis structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77668	TESTIS/EPIDIDYMIS	skos:exactMatch	87644002	Epididymis structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77668	TESTIS/EPIDIDYMIS	skos:exactMatch	40689003	Testis structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C62484	THORACIC WALL	skos:exactMatch	78904004	Chest wall structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12433	THYMUS	skos:exactMatch	9875009	Thymus gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C132256	TISSUE, UNSPECIFIED	skos:exactMatch	430304001	Specimen from unspecified body site	Specimen | Specimen	semapv:ManualMappingCuration		1
+C12422	TONGUE	skos:exactMatch	21974007	Tongue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12802	TONSIL	skos:exactMatch	75573002	Tonsillar structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32988	TONSIL, LINGUAL	skos:exactMatch	2048000	Lingual tonsil structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33250	TONSIL, PALATINE	skos:exactMatch	75573002	Tonsillar structure (palatine)	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33318	TONSIL, PHARYNGEAL	skos:exactMatch	55940004	Adenoidal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12506	TOOTH	skos:exactMatch	38199008	Tooth structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32258	TOOTH, CANINE	skos:exactMatch	45208001	Structure of canine tooth	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32769	TOOTH, INCISOR	skos:exactMatch	78509001	Structure of incisor tooth	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33136	TOOTH, MOLAR	skos:exactMatch	76928009	Structure of molar tooth	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C32201	TOOTH, PREMOLAR	skos:exactMatch	76424003	Structure of premolar tooth	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12428	TRACHEA	skos:exactMatch	44567001	Tracheal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33822	TUNICA VAGINALIS	skos:exactMatch	12817009	Tunica vaginalis structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C112425	TYMPANIC BULLA	skos:exactMatch	181381004	Jugular body	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12502	TYMPANIC MEMBRANE	skos:exactMatch	42859004	Tympanic membrane structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12416	URETER	skos:exactMatch	87953007	Ureteric structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12417	URETHRA	skos:exactMatch	13648007	Urethral structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12414	URINARY BLADDER	skos:exactMatch	89837001	Urinary bladder structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C13283	URINE	skos:exactMatch	78014005	Urine	Observation | Substance	semapv:ManualMappingCuration		1
+C161570	UTERINE HORN	skos:exactMatch	245499003	Cornu of Fallopian tube	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12405	UTERUS	skos:exactMatch	35039007	Uterine structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92436	UTERUS/CERVIX	skos:exactMatch	35039007	Uterine structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92436	UTERUS/CERVIX	skos:exactMatch	71252005	Cervix uteri structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77672	UTERUS/OVARY	skos:exactMatch	35039007	Uterine structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77672	UTERUS/OVARY	skos:exactMatch	15497006	Ovarian structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12407	VAGINA	skos:exactMatch	76784001	Vaginal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12670	VALVE, AORTIC	skos:exactMatch	34202007	Aortic valve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12729	VALVE, CARDIAC	skos:exactMatch	17401000	Cardiac valve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12753	VALVE, LEFT ATRIOVENTRICULAR	skos:exactMatch	91134007	Mitral valve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12775	VALVE, PULMONARY	skos:exactMatch	39057004	Pulmonary valve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12805	VALVE, RIGHT ATRIOVENTRICULAR	skos:exactMatch	46030003	Tricuspid valve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12813	VAS DEFERENS	skos:exactMatch	57671007	Vas deferens structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12814	VEIN	skos:exactMatch	29092000	Venous structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77673	VEIN, AURICULAR	skos:narrowMatch	58199002	Structure of anterior auricular vein	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	One of the veins of the pinna; in general these veins anastmose with each other or drain into the internal maxillary or superficial temporal vein	2
+C77673	VEIN, AURICULAR	skos:narrowMatch	5115006	Structure of posterior auricular vein	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	One of the veins of the pinna; in general these veins anastmose with each other or drain into the internal maxillary or superficial temporal vein	1
+C12883	VEIN, BRACHIAL	skos:exactMatch	20115005	Structure of brachial vein	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92598	VEIN, CAUDAL	skos:broadMatch	29092000	Venous structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A vein in the tail of some species	1
+C32286	VEIN, CEPHALIC	skos:exactMatch	20699002	Structure of cephalic vein	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12716	VEIN, FEMORAL	skos:exactMatch	83419000	Femoral vein structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12738	VEIN, JUGULAR	skos:exactMatch	63190004	Structure of jugular vein	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C53055	VEIN, MESENTERIC	skos:exactMatch	128583004	Structure of mesenteric vein	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33343	VEIN, PORTAL	skos:exactMatch	32764006	Portal vein structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12776	VEIN, PULMONARY	skos:exactMatch	122972007	Pulmonary venous structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33462	VEIN, RENAL	skos:exactMatch	56400007	Structure of renal vein	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33511	VEIN, SAPHENA	skos:exactMatch	362072009	Saphenous vein structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12817	VEIN, VENA CAVA	skos:exactMatch	35532006	Vena caval structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C114236	VENTRICULUS	skos:broadMatch	69695003	Stomach structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The portion of the stomach of some non-mammalian species located between the proventriculus and the small intestine	1
+C12679	VESSEL, BLOOD	skos:exactMatch	59820001	Blood vessel structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33038	VESSEL, LYMPHATIC	skos:exactMatch	83555006	Structure of lymphatic vessel	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77666	VOMITUS	skos:exactMatch	1985008	Vomitus	Observation | Substance	semapv:ManualMappingCuration		1
+C12408	VULVA	skos:exactMatch	45292006	Vulval structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77665	WHOLE ANIMAL	skos:exactMatch	123037004	Body Structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C41067	WHOLE BLOOD	skos:exactMatch	258580003	Whole blood sample	Specimen | Specimen	semapv:ManualMappingCuration		1
