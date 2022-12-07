@@ -304,7 +304,7 @@ C78582	PUSTULE	skos:exactMatch	47002008	Pustule	Observation | Morph Abnormality	
 C34965	PYELONEPHRITIS	skos:exactMatch	45816000	Pyelonephritis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C121207	PYOMETRA	skos:exactMatch	88981003	Pyometra	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C174377	RADICULONEUROPATHY					NotDone	NotDone	
-C139136	RAREFACTION	skos:exactMatch	891171000004107	Tissue rarefaction	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C139136	RAREFACTION					NotDone	NotDone
 C17083	REGENERATION	skos:exactMatch	34636005	Regeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C3847	RENAL DYSPLASIA	skos:exactMatch	204949001	Renal dysplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C176397	RENAUT BODY					NotDone	NotDone	
