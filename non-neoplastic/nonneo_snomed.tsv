@@ -169,9 +169,9 @@ C120888	GLOMERULOSCLEROSIS	skos:exactMatch	82646005	Glomerulosclerosis	Observati
 C34652	GRANULATION TISSUE	skos:exactMatch	61363009	Granulation tissue	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C158333	GRANULES, INCREASED					NotDone	NotDone	
 C3064	GRANULOMA	skos:exactMatch	45647009	Granuloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
-C139148	GROWTH PLATE CLOSED	skos:exactMatch	64089003	Epiphysis closure disorder	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C139148	GROWTH PLATE CLOSED	skos:broadMatch	711190000	Structure of epiphyseal plate	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C154893	GROWTH PLATE OPEN	skos:broadMatch	711190000	Structure of epiphyseal plate	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-C163731	GROWTH PLATE PARTIALLY CLOSED					NotDone	NotDone	
+C163731	GROWTH PLATE PARTIALLY CLOSED	skos:broadMatch	711190000	Structure of epiphyseal plate	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C161549	HAIR CELL, DECREASED NUMBER					NotDone	NotDone	
 C3075	HAMARTOMA	skos:exactMatch	51398009	Hamartoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C132488	HELICOBACTER	skos:exactMatch	19454009	Helicobacter	Observation | Organism	semapv:ManualMappingCuration		1
