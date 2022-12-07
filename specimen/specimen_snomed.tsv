@@ -214,7 +214,7 @@ C77954	GLAND, ZYMBAL	skos:broadMatch	1028005	Sebaceous gland structure	Spec Anat
 C12725	GONAD	skos:exactMatch	43174007	Gonadal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C77639	GRAVID UTERUS	skos:exactMatch	9258009	Gravid uterus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C3824	GROSS LESION	skos:exactMatch	52988006	Lesion	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
-C12936	GUT-ASSOCIATED LYMPHOID TISSUE	skos:exactMatch	19655003	Structure of lymphoid tissues of gastrointestinal tract	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12936	GUT-ASSOCIATED LYMPHOID TISSUE	skos:exactMatch	19655003	Structure of lymphoid tissue of gastrointestinal tract	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C32705	HAIR	skos:exactMatch	386045008	Hair structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C32712	HAND	skos:exactMatch	85562004	Hand structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C12419	HEAD	skos:exactMatch	69536005	Head structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
