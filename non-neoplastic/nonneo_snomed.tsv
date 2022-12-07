@@ -358,4 +358,4 @@ C96302	VACUOLATION	skos:narrowMatch	250281004	Cytoplasmic vacuolation	Condition 
 C96302	VACUOLATION	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration	The presence of vacuoles within the cytoplasm of cells	1
 C161568	VACUOLATION, EXTRACELLULAR	skos:broadMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C120912	VESICLE	skos:exactMatch	82515000	Vesicle	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
-C120913	YEAST	skos:exactMatch	769070007	Finding of presence of yeast	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C120913	YEAST	skos:exactMatch	769070007	Yeast detected	Condition | Clinical Finding	semapv:ManualMappingCuration		1
