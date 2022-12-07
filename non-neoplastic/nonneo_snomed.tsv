@@ -262,7 +262,7 @@ C139150	OSTEOID, INCREASED	skos:exactMatch	71666005	Osteoid osteoma	Observation 
 C139151	OSTEOPHYTE	skos:exactMatch	88998003	Osteophyte	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C161552	OTOLITH LOSS OR DISORGANIZATION					NotDone	NotDone	
 C85207	OVOTESTIS	skos:exactMatch	18978002	Ovotestis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
-C158336	PANETH CELL REDUCTION	skos:exactMatch	58294000	Reduction	Observation | Observable Entity	semapv:ManualMappingCuration		1
+C158336	PANETH CELL REDUCTION	skos:exactMatch	58294000	Reduction (chemical)	Observation | Observable Entity	semapv:ManualMappingCuration		1
 C158336	PANETH CELL REDUCTION	skos:exactMatch	84907006	Paneth cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C120903	PARASITE	skos:exactMatch	442614005	Parasitic process	Observation | Qualifier Value	semapv:ManualMappingCuration	Not an exact match but best entry into SNOMED. Has preference over Parasite (37763007)	1
 C4080	PERFORATION	skos:exactMatch	36191001	Perforation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
