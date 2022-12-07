@@ -155,7 +155,7 @@ C163729	FOLLICLES, DECREASED/FOLLICLES, ABSENT					NotDone	NotDone
 C163730	FOLLICLES, INCREASED					NotDone	NotDone	
 C34620	FOREIGN MATERIAL	skos:exactMatch	19227008	Foreign body	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C3046	FRACTURE	skos:exactMatch	72704001	Fracture	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
-C120883	FUNGUS	skos:exactMatch	4188300	Fungi	Observation | Organism	semapv:ManualMappingCuration		1
+C120883	FUNGUS	skos:exactMatch	414561005	Fungi	Observation | Organism	semapv:ManualMappingCuration		1
 C120884	GERM CELL DEGENERATION	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C120884	GERM CELL DEGENERATION	skos:exactMatch	787781003	Germ cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C120885	GERM CELL DEPLETION					NotDone	NotDone	
