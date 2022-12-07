@@ -7,8 +7,7 @@ C120860	ACCUMULATION	skos:narrowMatch	17672001	Accumulation of fluid	Observation
 C120860	ACCUMULATION	skos:broadMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration	An increase of substance (e.g., proteinaceous fluid and glycogen) in either the intracellular space, extracellular space, or within a hollow organ or structure.	4
 C132483	ACCUMULATION, ADIPOCYTES	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
 C132483	ACCUMULATION, ADIPOCYTES	skos:exactMatch	24826007	Adipocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-C174382	ACCUMULATION, FIBRIN	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
-C174382	ACCUMULATION, FIBRIN	skos:exactMatch	113361004	Fibrin	Substance | Drug	semapv:ManualMappingCuration		1
+C174382	ACCUMULATION, FIBRIN	skos:exactMatch	16080000	Fibrin deposition	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C181557	ACCUMULATION, HYALINE DROPLETS					NotDone	NotDone	
 C6996	ADENOMYOSIS	skos:exactMatch	76376003	Endometriosis of uterus	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C120861	ADENOSIS	skos:exactMatch	57597008	Adenosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
@@ -36,7 +35,7 @@ C163721	APOPTOSIS/SINGLE CELL NECROSIS	skos:broadMatch	20663007	Apoptosis	Observ
 C161569	ARTERIOLAR LOOP, PRE-RETINAL					NotDone	NotDone	
 C75603	ARTIFACT	skos:exactMatch	47973001	Artifact	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C161540	ASTROCYTE SWELLING	skos:exactMatch	442672001	Swelling	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
-C161540	ASTROCYTE SWELLING	skos:exactMatch	442672001	Astrocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C161540	ASTROCYTE SWELLING	skos:exactMatch	78399007	Astrocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C161541	ASTROCYTE SWELLING/VACUOLATION	skos:exactMatch	78399007	Astrocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C161541	ASTROCYTE SWELLING/VACUOLATION	skos:exactMatch	442672001	Swelling	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C161541	ASTROCYTE SWELLING/VACUOLATION	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
