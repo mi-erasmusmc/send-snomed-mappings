@@ -529,7 +529,7 @@ C12716	VEIN, FEMORAL	skos:exactMatch	83419000	Femoral vein structure	Spec Anatom
 C12738	VEIN, JUGULAR	skos:exactMatch	63190004	Structure of jugular vein	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C53055	VEIN, MESENTERIC	skos:exactMatch	128583004	Structure of mesenteric vein	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C33343	VEIN, PORTAL	skos:exactMatch	32764006	Portal vein structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-C12776	VEIN, PULMONARY	skos:exactMatch	122972007	Pulmonary venous structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12776	VEIN, PULMONARY	skos:exactMatch	122972007	Structure of vein of pulmonary circulation	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C33462	VEIN, RENAL	skos:exactMatch	56400007	Structure of renal vein	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C33511	VEIN, SAPHENA	skos:exactMatch	362072009	Saphenous vein structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C12817	VEIN, VENA CAVA	skos:exactMatch	35532006	Vena caval structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
