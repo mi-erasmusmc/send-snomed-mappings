@@ -222,7 +222,7 @@ C12727	HEART	skos:exactMatch	80891009	Heart structure	Spec Anatomic Site | Body 
 C41168	HEMOLYMPHORETICULAR TISSUE	skos:narrowMatch	6969002	Lymphocytic tissue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Very broad cdisc definition: Any of the tissues that contain hematopoietic cells and/or lymphocytes and immune system cells.	2
 C41168	HEMOLYMPHORETICULAR TISSUE	skos:narrowMatch	57171008	Hematopoietic system structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Very broad cdisc definition: Any of the tissues that contain hematopoietic cells and/or lymphocytes and immune system cells.	1
 C77625	HINDLIMB	skos:exactMatch	61685007	Lower limb structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-C77626	HOOF WALL	skos:broadMatch	123037004	Body Structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The keratinized, outer portion of the foot of a ungulate mammal	1
+C77626	HOOF WALL	skos:broadMatch	123037004	Body structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The keratinized, outer portion of the foot of a ungulate mammal	1
 C178001	ILEOCECAL JUNCTION	skos:exactMatch	264021000	Ileocecal junction	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C179826	ILEOCECOCOLIC REGION	skos:broadMatch	14742008	Structure of large intestine	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Transitional area involving the terminal ileum, cecum and beginning of the colon	1
 C12499	INNER EAR	skos:exactMatch	22945000	Inner ear structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
@@ -538,5 +538,5 @@ C12679	VESSEL, BLOOD	skos:exactMatch	59820001	Blood vessel structure	Spec Anatom
 C33038	VESSEL, LYMPHATIC	skos:exactMatch	83555006	Structure of lymphatic vessel	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C77666	VOMITUS	skos:exactMatch	1985008	Vomitus	Observation | Substance	semapv:ManualMappingCuration		1
 C12408	VULVA	skos:exactMatch	45292006	Vulval structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-C77665	WHOLE ANIMAL	skos:exactMatch	123037004	Body Structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C77665	WHOLE ANIMAL	skos:exactMatch	123037004	Body structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C41067	WHOLE BLOOD	skos:exactMatch	258580003	Whole blood sample	Specimen | Specimen	semapv:ManualMappingCuration		1
