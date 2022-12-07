@@ -201,7 +201,7 @@ C120892	HYPERTROPHY/KARYOMEGALY	skos:exactMatch	6855001	Macronucleus	Observation
 C120893	HYPOPLASIA	skos:exactMatch	55199003	Hypoplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C166105	HYPOSPERMATOGENESIS	skos:exactMatch	713919009	Hypospermatogenesis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C25531	IMMATURITY	skos:exactMatch	86531006	Developmental immaturity	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
-C123639	IMPERFORATE VAGINA	skos:exactMatch	386120007	Imperforate vagina	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C123639	IMPERFORATE VAGINA	skos:exactMatch	65937002	Imperforate hymen	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C181555	IMPLANTATION SITE REMNANT					NotDone	NotDone	
 C120945	INCLUSION	skos:broadMatch	107673000	Cellular AND/OR subcellular abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C25738	INFARCT	skos:exactMatch	55641003	Infarct	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
