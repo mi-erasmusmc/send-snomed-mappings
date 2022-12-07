@@ -489,9 +489,9 @@ C62484	THORACIC WALL	skos:exactMatch	78904004	Chest wall structure	Spec Anatomic
 C12433	THYMUS	skos:exactMatch	9875009	Thymus gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C132256	TISSUE, UNSPECIFIED	skos:exactMatch	430304001	Specimen from unspecified body site	Specimen | Specimen	semapv:ManualMappingCuration		1
 C12422	TONGUE	skos:exactMatch	21974007	Tongue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-C12802	TONSIL	skos:exactMatch	75573002	Tonsillar structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12802	TONSIL	skos:exactMatch	75573002	Tonsillar structure (palatine)	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C32988	TONSIL, LINGUAL	skos:exactMatch	2048000	Lingual tonsil structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-C33250	TONSIL, PALATINE	skos:exactMatch	75573002	Tonsillar structure (palatine)	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33250	TONSIL, PALATINE	skos:broadMatch	75573002	Tonsillar structure (palatine)	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C33318	TONSIL, PHARYNGEAL	skos:exactMatch	55940004	Adenoidal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C12506	TOOTH	skos:exactMatch	38199008	Tooth structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C32258	TOOTH, CANINE	skos:exactMatch	45208001	Structure of canine tooth	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
