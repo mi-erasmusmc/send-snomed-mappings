@@ -344,7 +344,7 @@ C33441	MUSCLE, QUADRICEPS FEMORIS	skos:exactMatch	21989003	Structure of quadrice
 C53175	MUSCLE, RECTUS FEMORIS	skos:exactMatch	72226001	Rectus femoris muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C53176	MUSCLE, SEMITENDINOSUS	skos:exactMatch	50340007	Semitendinosus muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C13050	MUSCLE, SKELETAL	skos:exactMatch	426215008	Skeletal muscle tissue	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-C12437	MUSCLE, SMOOTH	skos:exactMatch	122447002	Smooth muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12437	MUSCLE, SMOOTH	skos:exactMatch	122447002	Smooth muscle (tissue)	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C53075	MUSCLE, SOLEUS	skos:exactMatch	78376008	Soleus muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C117980	MUSCLE, STERNOCEPHALICUS	skos:broadMatch	314800003	Skeletal muscle structure of head and neck	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A muscle of the neck extending from the manubrium sterni to the head; primary function is lateral movement of the head and neck	1
 C53079	MUSCLE, TIBIALIS CRANIALIS	skos:exactMatch	20285007	Bone structure of proximal tibia	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
