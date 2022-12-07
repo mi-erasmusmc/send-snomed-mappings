@@ -225,7 +225,7 @@ C84829	LIPOPROTEINOSIS	skos:exactMatch	38692000	Lipid proteinosis	Condition | Cl
 C176404	LOSS OF CORTICOMEDULLARY DISTINCTION					NotDone	NotDone	
 C123640	LUTEINIZED FOLLICLE					NotDone	NotDone	
 C97087	LYMPHANGIECTASIS	skos:exactMatch	48087001	Lymphangiectasis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
-C36287	MALFORMATION	skos:narrowMatch	21390004	Developmental abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		2
+C36287	MALFORMATION	skos:narrowMatch	112635002	Congenital malformation	Observation | Morph Abnormality	semapv:ManualMappingCuration		2
 C36287	MALFORMATION	skos:narrowMatch	6081001	Deformity	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C120897	MESANGIOLYSIS	skos:exactMatch	24259000	Mesangial cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C120897	MESANGIOLYSIS	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
