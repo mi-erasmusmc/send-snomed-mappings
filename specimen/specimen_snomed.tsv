@@ -447,7 +447,7 @@ C77681	SITE, INJURY	skos:broadMatch	123037004	Body structure	Spec Anatomic Site 
 C77682	SITE, MICROCHIP	skos:exactMatch	423727002	Microchip identification implant	Device | Physical Object	semapv:ManualMappingCuration		1
 C147512	SITE, SUBCUTANEOUS PORT	skos:exactMatch	398013009	Implantable venous access port	Device | Physical Object	semapv:ManualMappingCuration		1
 C77683	SITE, SURGICAL	skos:exactMatch	260737006	Site of incision	Observation | Attribute	semapv:ManualMappingCuration		1
-C77684	SITE, TATTOO	skos:exactMatch	42872418	Tattoo of skin	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C77684	SITE, TATTOO	skos:exactMatch	341000119102	Tattoo of skin	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C48322	SITE, UNCERTAIN PRIMARY	skos:exactMatch	255052006	Malignant tumor of unknown origin	Condition | Clinical Finding	semapv:ManualMappingCuration	Referring to the fact that the original site of growth of a metastatic cancer is unknown or uncertain	1
 C12470	SKIN	skos:exactMatch	39937001	Skin structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C92441	SKIN/SUBCUTIS	skos:exactMatch	127856007	Skin and/or subcutaneous tissue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
