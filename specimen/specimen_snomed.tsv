@@ -71,7 +71,7 @@ C12793	BONE, STERNUM	skos:exactMatch	56873002	Bone structure of sternum	Spec Ana
 C12796	BONE, TARSUS	skos:exactMatch	108371006	Bone structure of tarsus	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C12800	BONE, TIBIA	skos:exactMatch	12611008	Bone structure of tibia	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C12809	BONE, ULNA	skos:exactMatch	23416004	Bone structure of ulna	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-C33868	BONE, VERTEBRA	skos:exactMatch	420345000	Structure of vertebra	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C33868	BONE, VERTEBRA	skos:exactMatch	420345000	Bone structure of vertebra	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C12439	BRAIN	skos:exactMatch	12738006	Brain structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C12440	BRAIN, AMYGDALOID BODY	skos:exactMatch	4958002	Amygdaloid structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C12447	BRAIN, BASAL GANGLIA	skos:exactMatch	32610002	Basal ganglion structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
