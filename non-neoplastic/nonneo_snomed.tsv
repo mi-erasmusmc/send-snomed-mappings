@@ -147,7 +147,7 @@ C36185	FATTY CHANGE	skos:exactMatch	29185008	Fatty degeneration	Observation | Mo
 C139146	FIBRO-OSSEOUS LESION					NotDone	NotDone	
 C120881	FIBROPLASIA	skos:broadMatch	112674009	Fibrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C3044	FIBROSIS	skos:exactMatch	112674009	Fibrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
-C139147	FIBROUS OSTEODYSTROPHY	skos:exactMatch	84727000	Osteitis fibrosa cystica generalisata	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C139147	FIBROUS OSTEODYSTROPHY	skos:exactMatch	84727000	Osteitis fibrosa cystica	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C120882	FOCUS OF CELLULAR ALTERATION	skos:broadMatch	125555002	Focal proliferation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C163727	FOLLICLES, ABSENT					NotDone	NotDone	
 C163728	FOLLICLES, DECREASED					NotDone	NotDone	
