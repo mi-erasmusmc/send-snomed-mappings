@@ -242,7 +242,7 @@ C12227	LABIAL JUNCTION	skos:exactMatch	83299001	Commissure of lips	Spec Anatomic
 C12306	LABIUM MAJUS	skos:exactMatch	82462005	Labium majus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C12307	LABIUM MINUS	skos:exactMatch	32104003	Labium minus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C92439	LARGE COLON	skos:broadMatch	71854001	Colon structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The ascending colon of the horse	1
-C12379	LARGE INTESTINE	skos:exactMatch	14742008	Large intestinal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C12379	LARGE INTESTINE	skos:exactMatch	14742008	Structure of large intestine	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C43362	LARGE INTESTINE, ANUS	skos:exactMatch	53505006	Anal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C12380	LARGE INTESTINE, APPENDIX	skos:exactMatch	66754008	Appendix structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C12381	LARGE INTESTINE, CECUM	skos:exactMatch	32713005	Cecum structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
