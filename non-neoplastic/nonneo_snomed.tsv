@@ -275,7 +275,7 @@ C161555	PERSISTENT PUPILLARY MEMBRANE					NotDone	NotDone
 C163733	PERSISTENT THYROGLOSSAL DUCT					NotDone	NotDone	
 C163734	PERSISTENT X-ZONE					NotDone	NotDone	
 C61250	PHOSPHOLIPIDOSIS	skos:exactMatch	23585005	Disorder of lysosomal enzyme	Condition | Clinical Finding	semapv:ManualMappingCuration		1
-C170642	PHYSEAL DYSPLASIA	skos:broadMatch	272673000	Bone structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Disorganization of the physeal chondrocytes with or without increased thickness of physis	1
+C170642	PHYSEAL DYSPLASIA	skos:broadMatch	113193004	Structure of long bone	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Disorganization of the physeal chondrocytes with or without increased thickness of physis	1
 C170642	PHYSEAL DYSPLASIA	skos:broadMatch	25723000	Dysplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration	Disorganization of the physeal chondrocytes with or without increased thickness of physis	1
 C139153	PHYSIS THICKNESS, DECREASED	skos:exactMatch	29143009	Decreased thickness	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C139153	PHYSIS THICKNESS, DECREASED	skos:exactMatch	711190000	Structure of epiphyseal plate	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
