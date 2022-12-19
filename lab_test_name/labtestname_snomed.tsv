@@ -180,7 +180,7 @@ C74705	Nucleated Erythrocytes	skos:exactMatch	165426009	Nucleated red blood cell
 C74706	Schistocytes	skos:exactMatch	70310009	Schistocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C74707	Spherocytes	skos:exactMatch	259682008	Spherocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C74708	Stomatocytes	skos:exactMatch	10636005	Stomatocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-C74709	Heinz Bodies	skos:exactMatch	250236003	Heinz bodies	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C74709	Heinz Bodies	skos:exactMatch	42222008	Heinz body	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C74717	Rheumatoid Factor	skos:exactMatch	77089006	Rheumatoid factor	Observation | Substance	semapv:ManualMappingCuration		1
 C74718	Total Iron Binding Capacity	skos:exactMatch	117173006	Total iron binding capacity	Observation | Observable Entity	semapv:ManualMappingCuration		1
 C74719	Unsaturated Iron Binding Capacity	skos:exactMatch	1029201000000109	Unsaturated iron binding capacity	Measurement | Observable Entity	semapv:ManualMappingCuration		1
