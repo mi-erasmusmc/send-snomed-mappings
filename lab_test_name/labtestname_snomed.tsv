@@ -298,7 +298,7 @@ C74846	Angiotensinogen	skos:exactMatch	54592005	Angiotensinogen	Observation | Su
 C74847	Antidiuretic Hormone	skos:exactMatch	61966007	Antidiuretic hormone measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
 C74848	Calcitonin	skos:exactMatch	3025001	Calcitonin measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
 C74849	Calcitriol					NotDone	NotDone	
-C74850	Cholecystokinin	skos:exactMatch	195181000000109	Pancreozymin measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
+C74850	Cholecystokinin	skos:exactMatch	195181000000109	Cholecystokinin measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
 C74851	Corticotropin Releasing Hormone	skos:exactMatch	121758005	Corticotropin releasing hormone measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
 C74852	Dehydroepiandrosterone	skos:exactMatch	104624004	Dehydroepiandrosterone measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
 C74853	Dihydrotestosterone	skos:exactMatch	1019091000000104	Dihydrotestosterone level	Measurement | Observable Entity	semapv:ManualMappingCuration		1
@@ -614,7 +614,7 @@ C92252	Alpha-1 Globulin	skos:exactMatch	2597001	Alpha 1 globulin	Observation | S
 C92253	Alpha-1 Globulin/Total Protein					NotDone	NotDone	
 C92254	Alpha-2 Globulin	skos:exactMatch	259618000	Alpha 2 globulin	Observation | Substance	semapv:ManualMappingCuration		1
 C92255	Alpha-2 Globulin/Total Protein					NotDone	NotDone	
-C92256	Beta Globulin	skos:exactMatch	65699000	beta globulin	Observation | Substance	semapv:ManualMappingCuration		1
+C92256	Beta Globulin	skos:exactMatch	65699000	Beta globulin	Observation | Substance	semapv:ManualMappingCuration		1
 C92257	Gamma Globulin	skos:exactMatch	250709001	Total immunoglobulin measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
 C92258	Hemoglobin A	skos:exactMatch	31299006	Hemoglobin A	Observation | Substance	semapv:ManualMappingCuration		1
 C92259	Hemoglobin A2	skos:exactMatch	269822005	Hemoglobin A2 measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
