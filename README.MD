@@ -8,15 +8,15 @@ to [SNOMED CT](https://www.snomed.org/) in order to aid translational drug safet
 
 The following SEND code lists have been mapped:
 
-- Specimen (C77529)
+- Laboratory Test Name (C67154)
+- Neoplasm Type (C88025)
 - Non-Neoplastic Finding Type (C120531)
-- Neoplasm Type (C88025) (expected here January 2023)
-- Laboratory Test Name (C67154) (expected here January 2023)
+- Specimen (C77529)
 
 ## ABOUT
 
 - All mappings are provided in [SSSOM](https://github.com/mapping-commons/sssom)-like format, with an
-  additional `mapping_group` column
+  additional `mapping_group` column in order to specify an 'and' relationship between terms of the same mapping_group.
 - Initial mappings were made by staff members of the Erasmus Medical Centre Department for Medical Informatics and
   reviewed by other eTransafe consortium members.
 
