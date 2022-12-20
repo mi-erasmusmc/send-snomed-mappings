@@ -1,0 +1,347 @@
+subject_id	subject_label	predicate_id	object_id	object_label	object_category	mapping_justification	comment	mapping_group
+C2852	ADENOCARCINOMA, MALIGNANT	skos:exactMatch	35917007	Adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2853	ADENOCARCINOMA, PAPILLARY, MALIGNANT	skos:exactMatch	4797003	Papillary adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2855	ADENOMA, BENIGN	skos:exactMatch	32048006	Adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2916	CARCINOMA, MALIGNANT	skos:exactMatch	68453008	Carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2917	CARCINOMA, IN SITU, MALIGNANT	skos:exactMatch	68956006	Carcinoma in situ	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2922	BASOSQUAMOUS TUMOR, MALIGNANT	skos:exactMatch	254702000	Basosquamous carcinoma of skin	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C2923	CARCINOMA, BRONCHIOLOALVEOLAR, MALIGNANT	skos:exactMatch	112677002	Bronchiolo-alveolar adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2928	FIBROADENOCARCINOMA, MALIGNANT	skos:exactMatch	4584002	Scirrhous adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2929	CARCINOMA, SQUAMOUS CELL, MALIGNANT	skos:exactMatch	400155002	Squamous cell carcinoma - category	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2930	CARCINOMA, UROTHELIAL, MALIGNANT	skos:exactMatch	27090000	Transitional cell carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2942	CHOLANGIOMA, BENIGN	skos:exactMatch	39471001	Bile duct adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2946	CHONDROSARCOMA, MALIGNANT	skos:exactMatch	14990007	Chondrosarcoma, no ICD-O subtype	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2947	CHORDOMA, MALIGNANT	skos:exactMatch	50007008	Chordoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2948	CHORIOCARCINOMA, MALIGNANT	skos:exactMatch	44769000	Choriocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2964	CRANIOPHARYNGIOMA, BENIGN	skos:broadMatch	40009002	Craniopharyngioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2971	CYSTADENOCARCINOMA, MALIGNANT	skos:exactMatch	21008007	Cystadenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2972	CYSTADENOMA, BENIGN	skos:exactMatch	47620003	Cystadenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2973	ADENOMA, MUCINOUS, BENIGN	skos:exactMatch	67182003	Mucinous cystadenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C2974	CYSTADENOMA, PAPILLARY, BENIGN	skos:exactMatch	32140001	Papillary cystadenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3011	YOLK SAC TUMOR, MALIGNANT	skos:exactMatch	74409009	Endodermal sinus tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3041	FIBROMA, BENIGN	skos:exactMatch	112682009	Fibroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3043	FIBROSARCOMA, MALIGNANT	skos:exactMatch	53654007	Fibrosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3049	GANGLIONEUROMA, BENIGN	skos:exactMatch	53801007	Ganglioneuroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3085	HEMANGIOMA, BENIGN	skos:exactMatch	2099007	Hemangioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3088	HEMANGIOSARCOMA, MALIGNANT	skos:exactMatch	863926008	Angiosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3099	CARCINOMA, HEPATOCELLULAR, MALIGNANT	skos:exactMatch	25370001	Hepatocellular carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3157	LEIOMYOMA, BENIGN	skos:exactMatch	44598004	Leiomyoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3158	LEIOMYOSARCOMA, MALIGNANT	skos:exactMatch	51549004	Leiomyosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3161	LEUKEMIA, MALIGNANT	skos:exactMatch	87163000	Leukemia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3167	LEUKEMIA, LYMPHOBLASTIC, MALIGNANT	skos:exactMatch	128822004	Precursor cell lymphoblastic leukemia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3169	LEUKEMIA, MAST CELL, MALIGNANT	skos:exactMatch	128924002	Mast cell leukemia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3170	LEUKEMIA, MEGAKARYOCYTIC, MALIGNANT	skos:exactMatch	52220008	Acute megakaryoblastic leukemia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3172	LEUKEMIA, GRANULOCYTIC, MALIGNANT	skos:exactMatch	37810007	Myeloid leukemia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3192	LIPOMA, BENIGN	skos:exactMatch	46720004	Lipoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3194	LIPOSARCOMA, MALIGNANT	skos:exactMatch	49430005	Liposarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3202	LUTEOMA, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3202	LUTEOMA, BENIGN	skos:exactMatch	26372004	Luteoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3205	LYMPHANGIOSARCOMA, MALIGNANT	skos:exactMatch	63373002	Lymphangiosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3208	LYMPHOMA, MALIGNANT	skos:exactMatch	21964009	Malignant lymphoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3209	LYMPHOMA, FOLLICULAR, MALIGNANT	skos:exactMatch	55150002	Follicular lymphoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3212	LYMPHOMA, LYMPHOPLASMACYTIC, MALIGNANT	skos:exactMatch	19340000	Malignant lymphoma, lymphoplasmacytic	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3217	MAST CELL TUMOR, BENIGN	skos:exactMatch	89796001	Mastocytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3217	MAST CELL TUMOR, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3222	MEDULLOBLASTOMA, MALIGNANT	skos:exactMatch	83217000	Medulloblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3224	MELANOMA, MALIGNANT	skos:exactMatch	2092003	Malignant melanoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3242	MYELOMA, PLASMA CELL, MALIGNANT	skos:exactMatch	55921005	Multiple myeloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3252	GRANULAR CELL TUMOR, BENIGN	skos:exactMatch	404035005	Granular cell tumor	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C3252	GRANULAR CELL TUMOR, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3255	MYXOSARCOMA, MALIGNANT	skos:exactMatch	28351005	Myxosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3269	SCHWANNOMA, BENIGN	skos:exactMatch	985004	Schwannoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3270	NEUROBLASTOMA, MALIGNANT	skos:exactMatch	87364003	Neuroblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3272	NEUROFIBROMA, BENIGN	skos:exactMatch	89084002	Neurofibroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3287	ODONTOMA, BENIGN	skos:exactMatch	79074005	Odontoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3294	OSTEOBLASTOMA, BENIGN	skos:exactMatch	55333008	Osteoblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3295	OSTEOCHONDROMA, BENIGN	skos:exactMatch	52299001	Osteochondroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3296	OSTEOMA, BENIGN	skos:exactMatch	83612000	Osteoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3329	ADENOMA, ANTERIOR LOBE PITUITARY GLAND, BENIGN	skos:broadMatch	128664001	Pituitary adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3337	FIBROPAPILLOMA, BENIGN	skos:exactMatch	31069005	Fibroepithelial polyp	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3358	RHABDOMYOMA, BENIGN	skos:exactMatch	43375002	Rhabdomyoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3359	RHABDOMYOSARCOMA, MALIGNANT	skos:exactMatch	30924005	Rhabdomyosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3400	SARCOMA, SYNOVIAL, MALIGNANT	skos:exactMatch	63211008	Synovial sarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3461	LYMPHOMA, IMMUNOBLASTIC, MALIGNANT	skos:exactMatch	109966003	Diffuse non-Hodgkin's lymphoma, immunoblastic	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C3494	ADENOMA, BRONCHIAL, BENIGN	skos:exactMatch	92038006	Benign neoplasm of bronchus	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C3502	ADENOMA, FOLLICULAR CELL, BENIGN	skos:exactMatch	255034006	Thyroid follicular adenoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C3520	SARCOMA, MYELOID, MALIGNANT	skos:exactMatch	35287006	Myeloid sarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3555	DECIDUOMA, MALIGNANT	skos:exactMatch	721567004	Primary malignant neoplasm of placenta	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C3574	CHEMODECTOMA, MALIGNANT	skos:exactMatch	9903002	Paraganglioma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3664	POLYP, VAGINAL, BENIGN	skos:exactMatch	29609001	Polyp of vagina	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C3677	NEOPLASM, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3679	ONCOCYTOMA, MALIGNANT	skos:exactMatch	57596004	Oxyphilic adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3692	CARCINOMA, UNDIFFERENTIATED, MALIGNANT	skos:exactMatch	38549000	Carcinoma, undifferentiated	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3697	EPENDYMOMA, BENIGN	skos:exactMatch	860761007	Benign ependymoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3698	PAPILLOMA, CHOROID PLEXUS, BENIGN	skos:exactMatch	18021007	Choroid plexus papilloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3702	HIBERNOMA, BENIGN	skos:exactMatch	77027006	Hibernoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3710	ODONTOMA, AMELOBLASTIC, BENIGN	skos:exactMatch	84983008	Ameloblastic fibro-odontoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3712	PAPILLOMA, SQUAMOUS CELL, BENIGN	skos:exactMatch	63451008	Squamous cell papilloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3726	ADENOMYOMA, BENIGN	skos:exactMatch	40293003	Adenomyoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3727	CARCINOMA, ADENOSQUAMOUS, MALIGNANT	skos:exactMatch	59367005	Adenosquamous carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3728	HEPATOBLASTOMA, MALIGNANT	skos:exactMatch	45024009	Hepatoblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3729	TUMOR, MIXED, MALIGNANT	skos:exactMatch	8145008	Mixed tumor, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3733	ANGIOLIPOMA, BENIGN	skos:exactMatch	73219006	Angiolipoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3736	MYELOLIPOMA, BENIGN	skos:exactMatch	20810002	Myelolipoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3739	HISTIOCYTOMA, FIBROUS, BENIGN	skos:exactMatch	25889007	Benign fibrous histiocytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3740	OSTEOFIBROMA, BENIGN	skos:exactMatch	6842002	Desmoplastic fibroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3744	FIBROADENOMA, BENIGN	skos:exactMatch	254845004	Fibroadenoma of breast	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C3752	CARCINOMA, EMBRYONAL, MALIGNANT	skos:exactMatch	28047004	Embryonal carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3758	ADENOMA, HEPATOCELLULAR, BENIGN	skos:exactMatch	78058005	Liver cell adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3762	MESOTHELIOMA, BENIGN	skos:exactMatch	2348006	Adenomatoid tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3766	ADENOCARCINOMA, CLEAR CELL, MALIGNANT	skos:exactMatch	30546008	Clear cell adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3768	CARCINOMA, ACINAR CELL, MALIGNANT	skos:exactMatch	45410002	Acinar cell carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3770	CARCINOMA, ISLET CELL, MALIGNANT	skos:exactMatch	60346004	Pancreatic endocrine tumor, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration	A malignant endocrine neoplasm arising from islets of Langerhans of the pancreas.	1
+C3775	CARCINOMA, ADNEXAL, MALIGNANT	skos:exactMatch	64000002	Skin appendage carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3777	CYSTADENOCARCINOMA, PAPILLARY, MALIGNANT	skos:exactMatch	2735009	Papillary cystadenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3790	GANGLIONEUROBLASTOMA, MALIGNANT	skos:exactMatch	69515008	Ganglioneuroblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3795	SUBEPENDYMOMA, BENIGN	skos:exactMatch	4553004	Subependymal glioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3798	SCHWANNOMA, MALIGNANT	skos:exactMatch	19897006	Malignant peripheral nerve sheath tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3799	ANGIOFIBROMA, BENIGN	skos:exactMatch	60392001	Angiofibroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3802	MELANOMA, AMELANOTIC, MALIGNANT	skos:exactMatch	70594002	Amelanotic melanoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3829	SYNOVIOMA, BENIGN	skos:exactMatch	5178002	Synovioma, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C3879	CARCINOMA, C-CELL, MALIGNANT	skos:exactMatch	255032005	Medullary thyroid carcinoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C3903	GLIOMA, MIXED, MALIGNANT	skos:broadMatch	22217002	Mixed glioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4020	FIBROSARCOMA, OSTEOGENIC, MALIGNANT	skos:exactMatch	12690005	Fibroblastic osteosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4050	GLIOMA, MIXED, BENIGN	skos:broadMatch	22217002	Mixed glioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4055	MENINGIOMA, BENIGN	skos:exactMatch	253053003	Benign hemangioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4090	GIANT CELL TUMOR, MALIGNANT	skos:exactMatch	83950009	Malignant tumor, giant cell type	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4092	EPITHELIOMA, BENIGN	skos:exactMatch	400207007	Benign epithelial neoplasm - category	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4113	TRICHOLEMMOMA, BENIGN	skos:exactMatch	46199002	Trichilemmoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4115	PAPILLOMA, UROTHELIAL CELL, BENIGN	skos:exactMatch	45083001	Urothelial papilloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4133	ADENOMA, TUBULAR CELL, BENIGN	skos:exactMatch	19665009	Tubular adenoma, no ICD-O subtype	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4140	ADENOMA, BRONCHIOLOALVEOLAR, BENIGN	skos:exactMatch	8097004	Alveolar adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4151	ADENOMA, CLEAR CELL, BENIGN	skos:exactMatch	1752006	Clear cell adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4159	ADENOLIPOMA, BENIGN	skos:exactMatch	22024005	Lipoadenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4174	ADENOMA, SEBACEOUS, BENIGN	skos:exactMatch	78424008	Sebaceous adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4176	CARCINOMA, CERUMINOUS GLAND, MALIGNANT	skos:exactMatch	58069009	Ceruminous adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4196	ADENOMA, ACINAR CELL, BENIGN	skos:exactMatch	79041005	Acinar cell adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4200	ADENOACANTHOMA, MALIGNANT	skos:exactMatch	15176003	Adenocarcinoma with squamous metaplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4205	GRANULOSA CELL TUMOR, MALIGNANT	skos:exactMatch	18861007	Granulosa cell tumor, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4212	LEYDIG CELL TUMOR, BENIGN	skos:exactMatch	5014008	Leydig cell tumor, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4213	LEYDIG CELL TUMOR, MALIGNANT	skos:exactMatch	77870005	Leydig cell tumor, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4220	PHEOCHROMOCYTOMA, MALIGNANT	skos:exactMatch	29370006	Malignant pheochromocytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4247	FIBROSARCOMA, PLEOMORPHIC, MALIGNANT	skos:exactMatch	87992000	Giant cell sarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4249	FIBROLIPOMA, BENIGN	skos:exactMatch	2710003	Fibrolipoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4267	MESENCHYMAL TUMOR, BENIGN	skos:exactMatch	38406003	Mesenchymoma, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4268	MESENCHYMOMA, MALIGNANT	skos:exactMatch	89623007	Mesenchymoma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4287	TERATOMA, MALIGNANT	skos:exactMatch	83292005	Malignant teratoma, undifferentiated	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4300	HEMANGIOPERICYTOMA, BENIGN	skos:exactMatch	53880006	Hemangiopericytoma, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4301	HEMANGIOPERICYTOMA, MALIGNANT	skos:exactMatch	84664004	Hemangiopericytoma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4304	OSTEOCLASTOMA, MALIGNANT	skos:exactMatch	10069009	Giant cell tumor of bone, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4306	ODONTOGENIC TUMOR, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4306	ODONTOGENIC TUMOR, BENIGN	skos:exactMatch	127578009	Odontogenic neoplasm	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4314	FIBROMA, ODONTOGENIC, BENIGN	skos:exactMatch	88686005	Central odontogenic fibroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4336	GRANULAR CELL TUMOR, MALIGNANT	skos:exactMatch	404041003	Malignant granular cell tumor	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C4436	CHOLANGIOCARCINOMA, MALIGNANT	skos:exactMatch	70179006	Cholangiocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4456	MESOTHELIOMA, MALIGNANT	skos:exactMatch	62064005	Mesothelioma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4525	SARCOMA, RENAL, MALIGNANT	skos:exactMatch	254918001	Sarcoma of kidney	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C4614	BASOSQUAMOUS TUMOR, BENIGN	skos:exactMatch	255184001	Papilloma of skin	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C4664	LEUKEMIA, LARGE GRANULAR LYMPHOCYTIC, MALIGNANT	skos:exactMatch	699818003	T-cell large granular lymphocytic leukemia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C4665	PLASMA CELL TUMOR, MALIGNANT	skos:exactMatch	127580003	Plasma cell neoplasm	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4684	RETICULOSIS, MALIGNANT	skos:exactMatch	128805001	NK/T-cell lymphoma, nasal and nasal-type	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4684	RETICULOSIS, MALIGNANT	skos:exactMatch	414166008	Extranodal NK/T-cell lymphoma, nasal type	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C4715	CARCINOMA, CHOROID PLEXUS, MALIGNANT	skos:exactMatch	88252006	Choroid plexus carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4812	ODONTOMA, MALIGNANT	skos:exactMatch	26888009	Odontogenic tumor, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4822	GLIOMA, MALIGNANT	skos:exactMatch	74532006	Glioma, malignant, no ICD-O subtype	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4861	LEUKEMIA, MONOCYTIC, MALIGNANT	skos:exactMatch	22331004	Acute monocytic leukemia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C4906	CARCINOMA, PARATHYROID GLAND, MALIGNANT	skos:exactMatch	255037004	Parathyroid carcinoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C5219	THECOMA, BENIGN	skos:exactMatch	254864005	Theca cell tumor of ovary	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C5358	CARDIAC SCHWANNOMA, BENIGN	skos:exactMatch	80891009	Heart structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C5358	CARDIAC SCHWANNOMA, BENIGN	skos:exactMatch	985004	Schwannoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C5367	CARDIAC SCHWANNOMA, MALIGNANT	skos:exactMatch	19897006	Malignant peripheral nerve sheath tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C5367	CARDIAC SCHWANNOMA, MALIGNANT	skos:exactMatch	80891009	Heart structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C6043	MESOTHELIOMA, ATRIOCAVAL, MALIGNANT	skos:exactMatch	69748006	Thyroid structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C6043	MESOTHELIOMA, ATRIOCAVAL, MALIGNANT	skos:exactMatch	863926008	Angiosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C6088	ADENOMA, CERUMINOUS GLAND, BENIGN	skos:broadMatch	277157002	Benign tumor of external ear	Condition | Clinical Finding	semapv:ManualMappingCuration	A benign epithelial neoplasm derived from ceruminous glands in the external auditory canal.	2
+C6088	ADENOMA, CERUMINOUS GLAND, BENIGN	skos:broadMatch	52707009	Ceruminous adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration	A benign epithelial neoplasm derived from ceruminous glands in the external auditory canal.	1
+C6433	POLYP, ENDOMETRIAL STROMAL, BENIGN	skos:exactMatch	11314008	Polyp of corpus uteri	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C6569	STROMAL NEPHROMA, MALIGNANT	skos:relatedMatch	255399007	Congenital	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+C6569	STROMAL NEPHROMA, MALIGNANT	skos:relatedMatch	11793003	Mesoblastic nephroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C6577	MYXOMA, BENIGN	skos:exactMatch	39143003	Myxoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C6878	ACINAR-ISLET CELL TUMOR, MALIGNANT	skos:exactMatch	15776009	Pancreatic structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C6878	ACINAR-ISLET CELL TUMOR, MALIGNANT	skos:exactMatch	51465000	Mixed adenoneuroendocrine carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C6926	STROMAL SARCOMA, MALIGNANT	skos:exactMatch	128753005	Stromal sarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C6929	THECOMA, OVARIAN, MALIGNANT	skos:broadMatch	57622002	Thecoma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C6938	CARCINOMA, SWEAT GLAND, MALIGNANT	skos:exactMatch	32272007	Sweat gland adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C6966	PINEOCYTOMA, BENIGN	skos:exactMatch	89096009	Pineocytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7072	ONCOCYTOMA, BENIGN	skos:exactMatch	89439007	Oxyphilic adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7111	AMELOBLASTOMA, BENIGN	skos:exactMatch	20462008	Ameloblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7126	ADENOMA, HEPATOCHOLANGIOCELLULAR, BENIGN	skos:exactMatch	90140006	Intrahepatic biliary tract structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C7126	ADENOMA, HEPATOCHOLANGIOCELLULAR, BENIGN	skos:exactMatch	32048006	Adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7155	OSTEOCHONDROSARCOMA, MALIGNANT	skos:exactMatch	735679005	Primary chondrosarcoma of bone	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C7173	ASTROCYTOMA, DIFFUSE, MALIGNANT	skos:exactMatch	397381007	Diffuse astrocytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7359	ADENOCARCINOMA, ENDOMETRIAL, MALIGNANT	skos:exactMatch	123845008	Adenocarcinoma of endometrium	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C7368	PILOMATRIXOMA, BENIGN	skos:exactMatch	44155009	Pilomatrixoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7440	PAPILLOMA, BENIGN	skos:exactMatch	23730008	Papilloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7442	MYOEPITHELIOMA, BENIGN	skos:exactMatch	69291002	Myoepithelioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7492	ODONTOMA, AMELOBLASTIC, MALIGNANT	skos:exactMatch	733414001	Primary ameloblastic carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7539	LEUKEMIA, LYMPHOCYTIC, MALIGNANT	skos:exactMatch	32280000	Lymphoid leukemia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7540	LYMPHOMA, SMALL LYMPHOCYTIC, MALIGNANT	skos:exactMatch	64575004	Malignant lymphoma, small lymphocytic	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7541	RETINOBLASTOMA, MALIGNANT	skos:exactMatch	19906005	Retinoblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7558	CARCINOMA, ENDOMETRIAL, MALIGNANT	skos:exactMatch	30289006	Endometrioid carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7560	ADENOMA, SWEAT GLAND, BENIGN	skos:exactMatch	81393009	Sweat gland adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7580	ADENOMA, ADNEXAL, BENIGN	skos:exactMatch	55681005	Skin appendage adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7596	MYOEPITHELIOMA, MALIGNANT	skos:exactMatch	128884000	Malignant myoepithelioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7612	THYMOMA, MALIGNANT	skos:exactMatch	444596001	Malignant thymoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C7644	ADAMANTINOMA, MALIGNANT	skos:exactMatch	56763007	Adamantinoma of long bones	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C7712	MELANOMA, UVEAL, MALIGNANT	skos:broadMatch	274087000	Malignant melanoma of eye	Condition | Clinical Finding	semapv:ManualMappingCuration	The uvea is the middle layer of the wall of the eye and includes the iris, the ciliary body, and the choroid	1
+C8054	CARCINOMA, FOLLICULAR CELL, MALIGNANT	skos:exactMatch	255028004	Follicular thyroid carcinoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C8106	DYSGERMINOMA, MALIGNANT	skos:exactMatch	60718004	Dysgerminoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C8312	SARCOMA, LEPTOMENINGEAL, MALIGNANT	skos:broadMatch	78303004	Meningioma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C8383	ADENOMA, RENAL CELL, BENIGN	skos:exactMatch	254919009	Cortical adenoma of kidney	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C8422	FIBROMA, CEMENTO-OSSIFYING, BENIGN	skos:exactMatch	25603007	Ossifying fibroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C8559	PARAGANGLIOMA, MALIGNANT	skos:exactMatch	9903002	Paraganglioma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C8602	TUMOR, MIXED, BENIGN	skos:exactMatch	8360001	Pleomorphic adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C8810	OSTEOSARCOMA, EXTRASKELETAL, MALIGNANT	skos:exactMatch	404077005	Extraskeletal osteosarcoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C8923	LEUKEMIA, ERYTHROID, MALIGNANT	skos:exactMatch	14317002	Acute myeloid leukemia, M6 type	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C8955	CARCINOMA, RETE TESTIS, MALIGNANT	skos:exactMatch	14221007	Structure of rete testis	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C8955	CARCINOMA, RETE TESTIS, MALIGNANT	skos:exactMatch	35917007	Adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C8965	LYMPHANGIOMA, BENIGN	skos:exactMatch	69044001	Lymphangioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C8973	STROMAL SARCOMA, ENDOMETRIAL, MALIGNANT	skos:exactMatch	699356008	Endometrial stromal sarcoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C8975	MULLERIAN TUMOR, MIXED, MALIGNANT	skos:broadMatch	84427001	Mullerian mixed tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C8984	ADENOFIBROMA, BENIGN	skos:exactMatch	363124003	Female reproductive system disorder	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C8984	ADENOFIBROMA, BENIGN	skos:exactMatch	2962009	Adenofibroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C8991	MAST CELL TUMOR, MALIGNANT	skos:exactMatch	50150000	Malignant mastocytosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C9003	ADENOMA, ADRENOCORTICAL, BENIGN	skos:exactMatch	1156661006	Benign adrenal cortical adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C9011	DERMOID CYST, BENIGN	skos:exactMatch	416529009	Cystic dermoid choristoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C9118	SARCOMA, MALIGNANT	skos:exactMatch	372151005	Sarcoma - category	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C9145	OSTEOSARCOMA, MALIGNANT	skos:exactMatch	21708004	Osteosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C9305	NEOPLASM, MALIGNANT	skos:exactMatch	86049000	Neoplasm, malignant (primary)	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C9309	SEMINOMA, MALIGNANT	skos:exactMatch	36741007	Seminoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C9325	CARCINOMA, ADRENOCORTICAL, MALIGNANT	skos:exactMatch	2227007	Adrenal cortical carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C9344	PINEOBLASTOMA, MALIGNANT	skos:exactMatch	31671006	Pineoblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C9360	LYMPHOMA, LYMPHOBLASTIC, MALIGNANT	skos:exactMatch	128806000	Precursor cell lymphoblastic lymphoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C9385	CARCINOMA, RENAL CELL, MALIGNANT	skos:exactMatch	41607009	Renal cell carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C26712	ADENOCARCINOMA, MUCINOUS, MALIGNANT	skos:exactMatch	72495009	Mucinous adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C27004	CARCINOMA, SPINDLE CELL, MALIGNANT	skos:exactMatch	23109009	Pseudosarcomatous carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C27093	CARCINOMA, SQUAMOUS CELL, IN SITU, MALIGNANT	skos:broadMatch	400155002	Squamous cell carcinoma - category	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C27132	TRICHOEPITHELIOMA, BENIGN	skos:exactMatch	878881002	Trichoblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C27134	HEMOLYMPHORETICULAR TUMOR, MALIGNANT	skos:relatedMatch	414388001	Hematopoietic neoplasm	Observation | Morph Abnormality	semapv:ManualMappingCuration	This code comprises both the hematopoietic neoplasms and the lymphoid neoplasms. Lymphoid neoplasms are Hematopietic neoplasms in the SNOMED hierarchy so we choose that single one as a related match	1
+C27255	CARCINOMA, ECCRINE GLAND, MALIGNANT	skos:exactMatch	400173004	Eccrine carcinoma of skin	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C27349	SARCOMA, HISTIOCYTIC, MALIGNANT	skos:exactMatch	128813000	Histiocytic sarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C27520	HAIR FOLLICLE NEOPLASM, BENIGN	skos:exactMatch	67290009	Hair follicle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C27520	HAIR FOLLICLE NEOPLASM, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C34448	CARCINOSARCOMA, MALIGNANT	skos:exactMatch	63264007	Carcinosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C35417	CHOLANGIOCARCINOMA, INTRAHEPATIC, MALIGNANT	skos:exactMatch	721716004	Primary cholangiocarcinoma of intrahepatic biliary tract	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C35815	SARCOMA, GRANULOCYTIC, MALIGNANT	skos:relatedMatch	35287006	Myeloid sarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C35875	CARCINOMA, BRONCHIAL, MALIGNANT	skos:exactMatch	254622008	Squamous cell carcinoma of bronchus	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C38938	MENINGIOMA, MALIGNANT	skos:exactMatch	78303004	Meningioma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C39956	ADENOMA, RETE TESTIS, BENIGN	skos:exactMatch	14221007	Structure of rete testis	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C39956	ADENOMA, RETE TESTIS, BENIGN	skos:exactMatch	32048006	Adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C40018	ADENOMA, RETE OVARII, BENIGN	skos:exactMatch	703654008	Adenoma of rete ovarii	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C40310	ADENOCARCINOMA, SEBACEOUS, MALIGNANT	skos:exactMatch	54734006	Sebaceous adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C40407	NEPHROBLASTOMA, MALIGNANT	skos:exactMatch	302849000	Nephroblastoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C43310	HAIR FOLLICLE NEOPLASM, MALIGNANT	skos:exactMatch	367651003	Malignant Neoplasm	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C43310	HAIR FOLLICLE NEOPLASM, MALIGNANT	skos:exactMatch	67290009	Hair follicle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C46101	ADENOMA, C-CELL, BENIGN	skos:broadMatch	255033000	Thyroid adenoma	Condition | Clinical Finding	semapv:ManualMappingCuration	A benign neoplasm arising from C-cells of the thyroid gland.	1
+C46119	ADENOMA, LIGHT CELL, BENIGN	skos:broadMatch	92439006	Benign neoplasm of thyroid gland	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C48305	PHEOCHROMOCYTOMA, BENIGN	skos:exactMatch	307575002	Benign pheochromocytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C48314	PARAGANGLIOMA, BENIGN	skos:exactMatch	107694002	Paraganglioma, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C53459	CHONDROMA, BENIGN	skos:exactMatch	31186001	Chondroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C53684	CONNECTIVE AND SOFT TISSUE NEOPLASM, BENIGN	skos:exactMatch	286905003	Benign connective tissue neoplasm	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C53684	CONNECTIVE AND SOFT TISSUE NEOPLASM, BENIGN	skos:exactMatch	47623001	Soft tissue tumor, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C53998	GASTROINTESTINAL STROMAL TUMOR, BENIGN	skos:exactMatch	128754004	Gastrointestinal stromal tumor, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C53999	GASTROINTESTINAL STROMAL TUMOR, MALIGNANT	skos:exactMatch	128756002	Gastrointestinal stromal sarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C54297	AMELOBLASTOMA, MALIGNANT	skos:exactMatch	88253001	Ameloblastoma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C60334	CHORDOMA, BENIGN	skos:broadMatch	92027006	Benign neoplasm of bone	Condition | Clinical Finding	semapv:ManualMappingCuration	A benign bone neoplasm arising from the remnants of the fetal notochord.	1
+C60340	GRANULOSA CELL TUMOR, BENIGN	skos:exactMatch	46585005	Granulosa cell tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C60490	ADENOMA, PARS DISTALIS, BENIGN	skos:exactMatch	32048006	Adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C60490	ADENOMA, PARS DISTALIS, BENIGN	skos:exactMatch	52618001	Structure of distal part of pituitary	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C60491	CARCINOMA, PARS DISTALIS, MALIGNANT	skos:exactMatch	52618001	Structure of distal part of pituitary	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C60491	CARCINOMA, PARS DISTALIS, MALIGNANT	skos:exactMatch	68453008	Carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C60493	ADENOMA, PARS INTERMEDIA, BENIGN	skos:exactMatch	424420008	Structure of pars intermedia of pituitary gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C60493	ADENOMA, PARS INTERMEDIA, BENIGN	skos:exactMatch	32048006	Adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C65192	CARCINOMA, TUBULAR CELL, MALIGNANT	skos:exactMatch	4631006	Tubular adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C66760	FIBROMYXOMA, BENIGN	skos:exactMatch	8664001	Fibromyxoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C67006	SERTOLI CELL TUMOR, MALIGNANT	skos:narrowMatch	80091008	Sertoli cell carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C67012	SERTOLI CELL TUMOR, BENIGN	skos:broadMatch	128857001	Sertoli cell tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration	Is usually benign but not by definition	1
+C67561	STROMAL TUMOR, GONADAL, MALIGNANT	skos:exactMatch	71440001	Sex cord-stromal tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C67561	STROMAL TUMOR, GONADAL, MALIGNANT	skos:exactMatch	86049000	Neoplasm, malignant (primary)	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C79949	CRANIOPHARYNGIOMA, MALIGNANT	skos:broadMatch	40009002	Craniopharyngioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C79950	CHEMODECTOMA, BENIGN	skos:broadMatch	107694002	Paraganglioma, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration	A benign neoplasm of the chemoreceptor system (e.g. carotid body, glomus jugulare, glomus vagale).	1
+C79951	ADENOMA, PAPILLARY, BENIGN	skos:exactMatch	86143001	Papillary adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C79953	ADENOMA, TUBULOSTROMAL, BENIGN	skos:broadMatch	254857008	Benign epithelial tumor of ovary	Condition | Clinical Finding	semapv:ManualMappingCuration	A benign ovarian epithelial neoplasm characterized by the presence of tubular structures and interstitial stroma.	1
+C80349	EPITHELIOMA, CYSTIC KERATINIZING, BENIGN	skos:broadMatch	400207007	Benign epithelial neoplasm - category	Observation | Morph Abnormality	semapv:ManualMappingCuration	A benign cystic epithelial neoplasm featuring a central keratin mass surrounded by squamous epithelium.	1
+C80351	ITO CELL TUMOR, BENIGN	skos:exactMatch	39977009	Ito cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C80351	ITO CELL TUMOR, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C80352	ITO CELL TUMOR, MALIGNANT	skos:exactMatch	39977009	Ito cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C80352	ITO CELL TUMOR, MALIGNANT	skos:exactMatch	86049000	Neoplasm, malignant (primary)	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C80356	CARCINOMA, TUBULOSTROMAL, MALIGNANT	skos:broadMatch	254849005	Malignant epithelial tumor of ovary	Condition | Clinical Finding	semapv:ManualMappingCuration	A malignant epithelial neoplasm of the ovary with tubular and stromal neoplastic components.	1
+C83488	ADRENAL TUMOR, SUBCAPSULAR, BENIGN	skos:broadMatch	91967007	Benign neoplasm of adrenal gland	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C83489	ADRENAL TUMOR, SUBCAPSULAR, MALIGNANT	skos:broadMatch	363355002	Malignant tumor of adrenal gland	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C84356	EPITHELIOMA, NON-KERATINIZING, BENIGN	skos:broadMatch	400207007	Benign epithelial neoplasm - category	Observation | Morph Abnormality	semapv:ManualMappingCuration	A benign cystic epithelial neoplasm characterized by the absence of keratin production.	1
+C92181	PHEOCHROMOCYTOMA, COMPLEX, BENIGN	skos:broadMatch	307575002	Benign pheochromocytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C92183	CARCINOMA, PARS INTERMEDIA, MALIGNANT	skos:exactMatch	424420008	Structure of pars intermedia of pituitary gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C92183	CARCINOMA, PARS INTERMEDIA, MALIGNANT	skos:exactMatch	68453008	Carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C92184	PHEOCHROMOCYTOMA, COMPLEX, MALIGNANT	skos:broadMatch	29370006	Malignant pheochromocytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C94524	PITUICYTOMA, BENIGN	skos:broadMatch	450901008	Pituicytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C96805	PERIPHERAL CHOLANGIOCARCINOMA, MALIGNANT	skos:broadMatch	312104005	Cholangiocarcinoma of biliary tract	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C98708	HISTIOCYTOMA, BENIGN	skos:exactMatch	302843004	Histiocytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C98708	HISTIOCYTOMA, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C98709	MELANOMA, BENIGN	skos:exactMatch	397195004	Benign melanocytic neoplasm	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C98723	ADENOMA, PITUITARY GLAND, BENIGN	skos:exactMatch	128664001	Pituitary adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C98800	ADENOMA, ZYMBAL'S GLAND, BENIGN	skos:broadMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration	A sebaceous gland located at the base of the rodent external ear	1
+C98800	ADENOMA, ZYMBAL'S GLAND, BENIGN	skos:broadMatch	1028005	Sebaceous gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A sebaceous gland located at the base of the rodent external ear	1
+C98801	CARCINOMA, ZYMBAL'S GLAND, MALIGNANT	skos:broadMatch	68453008	Carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration	A sebaceous gland located at the base of the rodent external ear	1
+C98801	CARCINOMA, ZYMBAL'S GLAND, MALIGNANT	skos:broadMatch	1028005	Sebaceous gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A sebaceous gland located at the base of the rodent external ear	1
+C103391	BASALIOMA, BENIGN	skos:broadMatch	252996004	Benign basal cell tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration	A benign epithelial neoplasm arising from primary epithelial germ cells of the piliary complex.	1
+C103393	CARCINOMA, HEPATOCHOLANGIOCELLULAR, MALIGNANT	skos:exactMatch	274902006	Combined hepatocellular carcinoma and cholangiocarcinoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C103394	HIBERNOMA, MALIGNANT	skos:exactMatch	86049000	Neoplasm, malignant (primary)	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C103394	HIBERNOMA, MALIGNANT	skos:exactMatch	77027006	Hibernoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C111198	BASAL CELL TUMOR, BENIGN	skos:exactMatch	252996004	Benign basal cell tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C111199	CARCINOMA, BASAL CELL, MALIGNANT	skos:exactMatch	400137006	Basal cell carcinoma - category	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C112275	POLYP, BENIGN	skos:exactMatch	41329004	Polyp	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C112275	POLYP, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C112276	SEMINOMA, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C112276	SEMINOMA, BENIGN	skos:exactMatch	36741007	Seminoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C114108	ADENOMA, ISLET CELL, BENIGN	skos:exactMatch	76345009	Pancreatic endocrine tumor, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C114109	CARCINOMA, ACIDOPHIL, MALIGNANT	skos:exactMatch	51217003	Acidophil carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C114110	LYMPHOMA, HISTIOCYTIC, MALIGNANT	skos:exactMatch	46732000	Malignant lymphoma, large B-cell, diffuse	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C114111	LYMPHOMA, MIXED, MALIGNANT	skos:exactMatch	50102004	Malignant lymphoma, mixed small and large cell, diffuse	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C114112	LYMPHOSARCOMA, MALIGNANT	skos:exactMatch	188498009	Lymphosarcoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C114113	STROMAL TUMOR, BENIGN	skos:exactMatch	447644002	Benign stromal tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C114114	TERATOMA, BENIGN	skos:exactMatch	42717009	Teratoma, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C114115	THYMOMA, BENIGN	skos:exactMatch	21181001	Thymoma, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C114235	NEPHROBLASTOMA, BENIGN	skos:exactMatch	25081006	Nephroblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C114235	NEPHROBLASTOMA, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C116214	NEUROMYOBLASTOMA, MALIGNANT	skos:exactMatch	87364003	Neuroblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C116215	ACINAR-ISLET CELL TUMOR, BENIGN	skos:exactMatch	83472001	Acinar cell tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C117977	KERATOACANTHOMA, BENIGN	skos:exactMatch	416378000	Keratoacanthoma - category	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C119574	ASTROCYTOMA, MALIGNANT	skos:exactMatch	55353007	Astrocytoma, anaplastic	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C119575	EPENDYMOMA, MALIGNANT	skos:exactMatch	1156903009	Malignant ependymoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C119576	GANGLIOGLIOMA, BENIGN	skos:exactMatch	89880005	Ganglioglioma, no ICD-O subtype	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C119576	GANGLIOGLIOMA, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C119577	OLIGODENDROGLIOMA, MALIGNANT	skos:exactMatch	86049000	Neoplasm, malignant (primary)	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C119577	OLIGODENDROGLIOMA, MALIGNANT	skos:exactMatch	443936004	Oligodendroglioma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C121932	GIANT CELL TUMOR, BENIGN	skos:exactMatch	57500000	Giant cell tumor of bone	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C124607	ADENOMYOEPITHELIOMA, BENIGN	skos:exactMatch	128765009	Adenomyoepithelioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C124608	CARCINOMA, NEUROEPITHELIAL, MALIGNANT	skos:exactMatch	55045006	Neuroepithelioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C124609	EPITHELIAL-STROMAL TUMOR, BENIGN	skos:broadMatch	115229003	Complex mixed AND/OR stromal neoplasm	Observation | Morph Abnormality	semapv:ManualMappingCuration	A benign neoplasm that arises from the mesenchymal and epithelial components and contains two or more cell types.	1
+C124609	EPITHELIAL-STROMAL TUMOR, BENIGN	skos:broadMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration	A benign neoplasm that arises from the mesenchymal and epithelial components and contains two or more cell types.	1
+C124612	POLYP, GLANDULAR, BENIGN	skos:broadMatch	41329004	Polyp	Observation | Morph Abnormality	semapv:ManualMappingCuration	A benign polyp with prominent, hyperplastic glandular structures.	1
+C124613	SARCOMA ARISING IN FIBROADENOMA, MALIGNANT	skos:broadMatch	278050001	Sarcoma of breast	Condition | Clinical Finding	semapv:ManualMappingCuration	A malignant mesenchymal neoplasm that arises from a pre-existing benign fibroadenoma.	1
+C124614	SEX CORD STROMAL TUMOR, MIXED, BENIGN	skos:exactMatch	703597005	Sex cord-stromal tumor, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C124615	SEX CORD STROMAL TUMOR, MIXED, MALIGNANT	skos:exactMatch	703601005	Mixed germ cell-sex cord-stromal tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C126084	SERTOLI-LEYDIG CELL TUMOR, MIXED, BENIGN	skos:exactMatch	128905000	Sertoli-Leydig cell tumor of intermediate differentiation	Observation | Morph Abnormality	semapv:ManualMappingCuration	Possibly mapped downhill.	1
+C126085	MULLERIAN TUMOR, MIXED, BENIGN	skos:broadMatch	84427001	Mullerian mixed tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C126086	NEUROENDOCRINE CELL TUMOR, BENIGN	skos:exactMatch	255047001	Benign neuroendocrine tumor	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C126087	NEUROENDOCRINE CELL TUMOR, MALIGNANT	skos:exactMatch	133531000119104	Malignant neuroendocrine tumor	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C126088	RENAL MESENCHYMAL TUMOR, MALIGNANT	skos:broadMatch	363518003	Malignant tumor of kidney	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C127811	ADENOMA, ENDOMETRIAL, BENIGN	skos:exactMatch	92086004	Benign neoplasm of endometrium	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C130197	PLASMA CELL TUMOR, BENIGN	skos:exactMatch	110460003	Plasma cell tumor, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C142368	MESOBLASTIC NEPHROMA, BENIGN	skos:exactMatch	3898006	Neoplasm, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C142368	MESOBLASTIC NEPHROMA, BENIGN	skos:exactMatch	11793003	Mesoblastic nephroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C154892	ADENOCARCINOMA ARISING IN FIBROADENOMA, MALIGNANT	skos:broadMatch	865954003	Adenocarcinoma of breast	Condition | Clinical Finding	semapv:ManualMappingCuration	A malignant adenocarcinoma that arises from a pre-existing benign fibroadenoma.	1
+C156607	SCHWANNOMA, ENDOCARDIAL, MALIGNANT	skos:exactMatch	19897006	Malignant peripheral nerve sheath tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C156607	SCHWANNOMA, ENDOCARDIAL, MALIGNANT	skos:exactMatch	37949006	Endocardium structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C156608	SCHWANNOMA, INTRAMURAL, MALIGNANT	skos:exactMatch	19897006	Malignant peripheral nerve sheath tumor	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C156608	SCHWANNOMA, INTRAMURAL, MALIGNANT	skos:exactMatch	74281007	Myocardium structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C156609	ADENOCARCINOMA, DUCTAL CELL, MALIGNANT	skos:broadMatch	35917007	Adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration	A malignant adenocarcinoma characterized by duct-like structures accompanied by dense, fibrous stroma. (INHAND)	1
+C156610	ADENOMA, DUCTAL CELL, BENIGN	skos:broadMatch	399908004	Benign adenomatous neoplasm - category	Observation | Morph Abnormality	semapv:ManualMappingCuration	A benign adenoma characterized by a complex of ductular structures lined by a high cuboidal epithelium resembling that of normal ductules. (INHAND)	1
+C156611	CARCINOMA, BRUNNER'S GLAND, MALIGNANT	skos:exactMatch	68453008	Carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C156611	CARCINOMA, BRUNNER'S GLAND, MALIGNANT	skos:exactMatch	714325007	Structure of duodenal gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C156613	THECOMA, MALIGNANT	skos:exactMatch	57622002	Thecoma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C156757	ADENOMA, PARATHYROID GLAND, BENIGN	skos:exactMatch	128474007	Parathyroid adenoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C176392	LEIOMYOMA, MESOVARIAL, BENIGN	skos:broadMatch	95315005	Uterine leiomyoma	Condition | Clinical Finding	semapv:ManualMappingCuration	Mesovarium is the portion of the broad ligament of the uterus that covers the ovaries	1
+C176393	CARCINOMA, AMPHOPHILIC VACUOLAR, MALIGNANT	skos:broadMatch	363518003	Malignant tumor of kidney	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C176394	ADENOMA, AMPHOPHILIC VACUOLAR, BENIGN	skos:broadMatch	92165001	Benign neoplasm of kidney	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C176395	PITUICYTOMA, MALIGNANT	skos:exactMatch	450901008	Pituicytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1

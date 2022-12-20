@@ -1,14 +1,13 @@
-LABORATORY TEST NAME -> SNOMED CT
+NEOPLASM TYPE -> SNOMED CT
 =======================
 
-**Mappings from the SEND Laboratory Test Name code list to SNOMED CT**
-
-At present there are still ~1700 unmapped terms, please feel free to contribute mappings.
-Priority was given to test names used in the eToxSys database
+**Mappings from the SEND Neoplasm Type code list to SNOMED CT**
 
 ### Principles specific to the non-neoplastic finding type mappings
 
-- Priority was given to map test names used in the eToxSys database
+- Prefer first 'morphologic abnormality' concepts followed by 'disorder' concepts, only when there are no suitable terms
+  in these classes consider other concept classes.
+- Use 'morphologic abnormality' for benign or malignant when required (do not use 'qualifier values')
 
 **Principles that apply to all mappings:**
 
