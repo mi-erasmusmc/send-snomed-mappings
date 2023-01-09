@@ -540,3 +540,7 @@ C77666	VOMITUS	skos:exactMatch	1985008	Vomitus	Observation | Substance	semapv:Ma
 C12408	VULVA	skos:exactMatch	45292006	Vulval structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C77665	WHOLE ANIMAL	skos:exactMatch	123037004	Body structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C41067	WHOLE BLOOD	skos:exactMatch	258580003	Whole blood sample	Specimen | Specimen	semapv:ManualMappingCuration		1
+C12608	PANCREAS, ENDOCRINE	skos:exactMatch	78696007	Endocrine pancreatic structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52921	MUSCLE, FLEXOR DIGITORUM LONGUS	skos:exactMatch	18010003	Flexor digitorum longus muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52935	MUSCLE, GRACILIS	skos:exactMatch	2577006	Structure of gracilis muscle	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+C52987	MUSCLE, SEMIMEMBRANOSUS	skos:exactMatch	84010001	Semimembranosus muscle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1

@@ -23,7 +23,7 @@ The following SEND code lists have been mapped:
 ### VOCABULARIES USED
 
 **SEND** \
-SEND Controlled Terminology as published [here](https://evs.nci.nih.gov/ftp1/CDISC/SEND/) on 2022-09-30
+SEND Controlled Terminology as published [here](https://evs.nci.nih.gov/ftp1/CDISC/SEND/) on 2022-12-16
 
 **SNOMED CT** \
 SNOMED CT as published through [Athena](https://athena.ohdsi.org/vocabulary/list) and last updated on
