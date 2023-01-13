@@ -4,7 +4,9 @@ SEND -> SNOMED CT MAPPINGS
 **Repository with manual mappings made for the [eTransafe](https://etransafe.eu/) project**
 
 This repository contains manual mappings from [SEND](https://www.cdisc.org/standards/foundational/send)
-to [SNOMED CT](https://www.snomed.org/) in order to aid translational drug safety research.
+to [SNOMED CT](https://www.snomed.org/) in order to aid translational drug safety research. In addition, this repo also
+contains mappings made for eTransafe from Mouse Anatomy, eTox Histopathology Ontology, and MedDRA Preferred Terms to
+SNOMED-CT.
 
 The following SEND code lists have been mapped:
 
@@ -12,6 +14,12 @@ The following SEND code lists have been mapped:
 - Neoplasm Type (C88025)
 - Non-Neoplastic Finding Type (C120531)
 - Specimen (C77529)
+
+Additional mappings:
+
+- Mouse Adult Gross Anatomy Ontology
+- eTox Histopathology Ontology (expected early February)
+- MedDRA (expected early February)
 
 ## ABOUT
 
@@ -26,8 +34,13 @@ The following SEND code lists have been mapped:
 SEND Controlled Terminology as published [here](https://evs.nci.nih.gov/ftp1/CDISC/SEND/) on 2022-12-16
 
 **SNOMED CT** \
-SNOMED CT as published through [Athena](https://athena.ohdsi.org/vocabulary/list) and last updated on
-28-Jan-2022
+SNOMED CT as published through [Athena](https://athena.ohdsi.org/vocabulary/list) and last updated on 28-01-2022
+
+***Mouse Adult Gross Anatomy Ontology***
+Version as published on [bioportal](https://bioportal.bioontology.org/ontologies/MA) on 2017-02-07
+
+***eTox Histopathology Ontology***
+Release 1.0 as published on [GitHub](https://github.com/Novartis/hpath) on 2018-04-24
 
 ### MAPPING PRINCIPLES
 
@@ -40,6 +53,12 @@ SNOMED CT as published through [Athena](https://athena.ohdsi.org/vocabulary/list
   comments
 
 **Each folder contains additional domain specific information about the mappings**
+
+### eTransafe Rosetta Stone
+
+These mappings were created with the purpose of making translations between MedDRA and preclinical vocabularies using
+SNOMED as an intermediary. The app which makes these translations, the so-called eTransafe Rosetta Stone will be made
+publicly available late February.
 
 ### CONTRIBUTIONS
 
