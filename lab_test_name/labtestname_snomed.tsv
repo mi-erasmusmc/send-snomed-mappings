@@ -2544,13 +2544,13 @@ C191285	Doxepin	skos:exactMatch	72234007	Doxepin measurement	Measurement | Proce
 C191286	Nordoxepin	skos:exactMatch	105264003	Nordoxepin measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
 C191287	Protriptyline	skos:exactMatch	61087000	Protriptyline measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
 C191288	Lysosomal Associated Membrane Protein 2	skos:narrowMatch	924911000000107	Lysosomal associated membrane protein 2 single mutation genetic test	Measurement | Procedure	semapv:ManualMappingCuration		1
-C191289	LAMP2/GAPDH					NotDone	NotDone
-C191290	Soluble CEA Cell Adhesion Molecule 5					NotDone	NotDone
-C191292	Huntingtin Protein, Wild Type					NotDone	NotDone
+C191289	LAMP2/GAPDH					NotDone	NotDone	
+C191290	Soluble CEA Cell Adhesion Molecule 5					NotDone	NotDone	
+C191292	Huntingtin Protein, Wild Type					NotDone	NotDone	
 C191293	2-Hydroxyglutarate	skos:exactMatch	121879000	2-Hydroxyglutarate measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
-C191294	Urea Distribution Volume Ratio					NotDone	NotDone
-C191295	Normalized Protein Catabolism Rate					NotDone	NotDone
+C191294	Urea Distribution Volume Ratio					NotDone	NotDone	
+C191295	Normalized Protein Catabolism Rate					NotDone	NotDone	
 C191296	Urea Reduction Ratio	skos:exactMatch	251871004	Urea reduction ratio	Observation | Observable Entity	semapv:ManualMappingCuration		1
-C191297	Synoviocytes/Leukocytes					NotDone	NotDone
+C191297	Synoviocytes/Leukocytes					NotDone	NotDone	
 C191298	Synoviocytes	skos:exactMatch	117706008	Synoviocyte count	Measurement | Procedure	semapv:ManualMappingCuration		1
 C75353	EDDP	skos:exactMatch	391348001	Urine EDDP level	Measurement | Procedure	semapv:ManualMappingCuration		1

@@ -222,7 +222,7 @@ C12727	HEART	skos:exactMatch	80891009	Heart structure	Spec Anatomic Site | Body 
 C41168	HEMOLYMPHORETICULAR TISSUE	skos:narrowMatch	6969002	Lymphocytic tissue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Very broad cdisc definition: Any of the tissues that contain hematopoietic cells and/or lymphocytes and immune system cells.	2
 C41168	HEMOLYMPHORETICULAR TISSUE	skos:narrowMatch	57171008	Hematopoietic system structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Very broad cdisc definition: Any of the tissues that contain hematopoietic cells and/or lymphocytes and immune system cells.	1
 C77625	HINDLIMB	skos:exactMatch	61685007	Lower limb structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-C77626	HOOF WALL	skos:broadMatch	123037004	Body structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The keratinized, outer portion of the foot of a ungulate mammal	1
+C77626	HOOF WALL	skos:broadMatch	7748002	Skin appendage structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The keratinized, outer portion of the foot of a ungulate mammal	1
 C178001	ILEOCECAL JUNCTION	skos:exactMatch	264021000	Ileocecal junction	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C179826	ILEOCECOCOLIC REGION	skos:broadMatch	14742008	Structure of large intestine	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Transitional area involving the terminal ileum, cecum and beginning of the colon	1
 C12499	INNER EAR	skos:exactMatch	22945000	Inner ear structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
@@ -476,7 +476,7 @@ C33645	SUBCUTIS	skos:exactMatch	71966008	Subcutaneous tissue structure	Spec Anat
 C13280	SWEAT	skos:exactMatch	74616000	Sweat	Observation | Substance	semapv:ManualMappingCuration		1
 C12473	SYNOVIAL MEMBRANE	skos:exactMatch	64331004	Synovial membrane	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C111323	SYRINX	skos:broadMatch	46105003	Vocal cord structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	The vocal organ of a bird located near the tracheal bifurcation	1
-C77663	TAIL	skos:broadMatch	38866009	Body part structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A flexible appendage caudal to the sacrum	1
+C77663	TAIL	skos:broadMatch	69548008	Lower body part structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A flexible appendage caudal to the sacrum	1
 C33739	TEAR	skos:exactMatch	40431001	Tears	Observation | Substance	semapv:ManualMappingCuration		1
 C77664	TEAT	skos:broadMatch	24142002	Nipple structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	A specialized type of nipple distinguished by its large cistern (lactiferous sinus) that connects to the exterior through the teat canal	1
 C13045	TENDON	skos:exactMatch	13024002	Tendon structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
