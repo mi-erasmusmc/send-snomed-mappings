@@ -2537,9 +2537,9 @@ C189526	Retinol Binding Protein 1					NotDone	NotDone
 C189527	Alpha-1 Antitrypsin Z-Polymer					NotDone	NotDone	
 C189528	Glial Fibrillary Acidic Protein	skos:exactMatch	24675006	Glial fibrillary acidic protein	Observation | Substance	semapv:ManualMappingCuration		1
 C189529	Ubiquitin C-Terminal Hydrolase L1					NotDone	NotDone	
-C189530	Para Aminohippurate Clearance					NotDone	NotDone
-C189655	Di-Desmethylcitalopram					NotDone	NotDone
-C191212	CEA Cell Adhesion Molecule 5					NotDone	NotDone
+C189530	Para Aminohippurate Clearance					NotDone	NotDone	
+C189655	Di-Desmethylcitalopram					NotDone	NotDone	
+C191212	CEA Cell Adhesion Molecule 5					NotDone	NotDone	
 C191285	Doxepin	skos:exactMatch	72234007	Doxepin measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
 C191286	Nordoxepin	skos:exactMatch	105264003	Nordoxepin measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
 C191287	Protriptyline	skos:exactMatch	61087000	Protriptyline measurement	Measurement | Procedure	semapv:ManualMappingCuration		1
