@@ -5,8 +5,7 @@ SEND -> SNOMED CT MAPPINGS
 
 This repository contains manual mappings from [SEND](https://www.cdisc.org/standards/foundational/send)
 to [SNOMED CT](https://www.snomed.org/) in order to aid translational drug safety research. In addition, this repo also
-contains mappings made for eTransafe from Mouse Anatomy, eTox Histopathology Ontology, and MedDRA Preferred Terms to
-SNOMED-CT.
+contains mappings made for eTransafe from Mouse Anatomy, eTox Histopathology Ontology, and MedDRA to SNOMED-CT.
 
 The following SEND code lists have been mapped:
 
@@ -36,10 +35,10 @@ SEND Controlled Terminology as published [here](https://evs.nci.nih.gov/ftp1/CDI
 **SNOMED CT** \
 SNOMED CT as published through [Athena](https://athena.ohdsi.org/vocabulary/list) and last updated on 28-01-2022
 
-***Mouse Adult Gross Anatomy Ontology***
+**Mouse Adult Gross Anatomy Ontology** \
 Version as published on [bioportal](https://bioportal.bioontology.org/ontologies/MA) on 2017-02-07
 
-***eTox Histopathology Ontology***
+**eTox Histopathology Ontology** \
 Release 1.0 as published on [GitHub](https://github.com/Novartis/hpath) on 2018-04-24
 
 ### MAPPING PRINCIPLES
@@ -54,7 +53,7 @@ Release 1.0 as published on [GitHub](https://github.com/Novartis/hpath) on 2018-
 
 **Each folder contains additional domain specific information about the mappings**
 
-### eTransafe Rosetta Stone
+### ETRANSAFE ROSETTA STONE
 
 These mappings were created with the purpose of making translations between MedDRA and preclinical vocabularies using
 SNOMED as an intermediary. The app which makes these translations, the so-called eTransafe Rosetta Stone will be made
