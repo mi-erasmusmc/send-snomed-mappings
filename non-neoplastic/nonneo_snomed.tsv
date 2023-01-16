@@ -47,7 +47,7 @@ C79748	ATROPHY	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	
 C161545	ATTENUATION, ENDOTHELIUM					NotDone	NotDone	
 C184725	ATTENUATION, EPITHELIUM					NotDone	NotDone	
 C120866	ATYPICAL RESIDUAL BODIES	skos:exactMatch	66068005	Residual body	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-C120866	ATYPICAL RESIDUAL BODIES	skos:exactMatch	112231000	Atypical	Observation | Qualifier Value	semapv:ManualMappingCuration		
+C120866	ATYPICAL RESIDUAL BODIES	skos:exactMatch	112231000	Atypical	Observation | Qualifier Value	semapv:ManualMappingCuration		1
 C99673	AUTOLYSIS	skos:exactMatch	85811006	Autolysis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C32167	AUTOPHAGIC VACUOLES					NotDone	NotDone	
 C120867	BACTERIA	skos:exactMatch	710954001	Bacteria present	Condition | Clinical Finding	semapv:ManualMappingCuration		1
