@@ -40,7 +40,7 @@ MA:0000038	shoulder	skos:exactMatch	16982005	Shoulder region structure	Spec Anat
 MA:0000039	wrist					NotDone	NotDone	
 MA:0000040	carpus	skos:exactMatch	8205005	Wrist region structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000041	hand digit					NotDone	NotDone	
-MA:0000042	metacarpus	skos:nearMatch	36455000	Metacarpal bone structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Identical to metacarpal bone	1
+MA:0000042	metacarpus	skos:relatedMatch	36455000	Metacarpal bone structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Identical to metacarpal bone	1
 MA:0000043	ankle	skos:exactMatch	344001	Ankle region structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000044	foot	skos:exactMatch	56459004	Foot structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000045	hip	skos:exactMatch	29836001	Hip region structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
@@ -298,7 +298,7 @@ MA:0000298	limb long bone					NotDone	NotDone
 MA:0000299	forelimb long bone					NotDone	NotDone	
 MA:0000300	hindlimb long bone					NotDone	NotDone	
 MA:0000301	metacarpal/metatarsal bone					NotDone	NotDone	
-MA:0000302	metacarpal bone	skos:nearMatch	36455000	Metacarpal bone structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Identical to metacarpus	1
+MA:0000302	metacarpal bone	skos:relatedMatch	36455000	Metacarpal bone structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Identical to metacarpus	1
 MA:0000303	metatarsal bone	skos:exactMatch	53884002	Metatarsal bone structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000304	phalanx	skos:exactMatch	28641004	Phalanx structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000305	foot phalanx					NotDone	NotDone	
@@ -518,7 +518,7 @@ MA:0000518	abdomen blood vessel					NotDone	NotDone
 MA:0000519	abdomen connective tissue					NotDone	NotDone	
 MA:0000520	abdomen muscle					NotDone	NotDone	
 MA:0000521	abdomen nerve					NotDone	NotDone	
-MA:0000522	abdomen organ	skos:nearMatch	63337009	Abdominopelvic segment of trunk	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Is a parent terms for organs in the Abnominal region	1
+MA:0000522	abdomen organ	skos:relatedMatch	63337009	Abdominopelvic segment of trunk	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Is a parent terms for organs in the Abnominal region	1
 MA:0000523	abdomen skin	skos:exactMatch	75093004	Skin structure of abdomen	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000524	abdominal segment blood vessel					NotDone	NotDone	
 MA:0000525	abdominal segment bone					NotDone	NotDone	
@@ -526,7 +526,7 @@ MA:0000526	abdominal segment connective tissue					NotDone	NotDone
 MA:0000527	abdominal segment muscle					NotDone	NotDone	
 MA:0000528	abdominal segment nerve					NotDone	NotDone	
 MA:0000529	abdominal segment organ					NotDone	NotDone	
-MA:0000530	abdominal segment skin	skos:nearMatch	75093004	Skin structure of abdomen	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000530	abdominal segment skin	skos:relatedMatch	75093004	Skin structure of abdomen	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000531	pelvis blood vessel					NotDone	NotDone	
 MA:0000532	pelvis bone					NotDone	NotDone	
 MA:0000533	pelvis connective tissue					NotDone	NotDone	
@@ -585,7 +585,7 @@ MA:0000585	neck connective tissue					NotDone	NotDone
 MA:0000586	neck cartilage					NotDone	NotDone	
 MA:0000587	neck muscle	skos:exactMatch	81727001	Skeletal muscle structure of neck	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000588	neck nerve					NotDone	NotDone	
-MA:0000589	neck organ	skos:nearMatch	45048000	Neck structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000589	neck organ	skos:relatedMatch	45048000	Neck structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000590	neck skin	skos:exactMatch	43081002	Skin structure of neck	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000591	arm blood vessel					NotDone	NotDone	
 MA:0000592	arm bone					NotDone	NotDone	
@@ -2669,7 +2669,7 @@ MA:0002686	small intestine mucosa	skos:exactMatch	68534000	Intestinal mucous mem
 MA:0002687	small intestine muscularis mucosa					NotDone	NotDone	
 MA:0002688	large intestine mucosa	skos:exactMatch	68502009	Colonic mucous membrane structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0002689	large intestine muscularis mucosa					NotDone	NotDone	
-MA:0002690	large intestine submucosa	skos:nearMatch	691000	Small intestine submucosa	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0002690	large intestine submucosa	skos:relatedMatch	691000	Small intestine submucosa	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0002691	esophagus wall					NotDone	NotDone	
 MA:0002692	stomach wall	skos:exactMatch	75609008	Stomach wall structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0002693	intestine wall					NotDone	NotDone	
