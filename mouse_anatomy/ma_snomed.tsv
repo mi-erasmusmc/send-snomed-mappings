@@ -1,6 +1,6 @@
 subject_id	subject_label	predicate_id	object_id	object_label	object_category	mapping_justification	comment	mapping_group
 MA:0000001	mouse anatomical entity					NotDone	NotDone	
-MA:0000002	spinal cord grey matter	skos:exactMatch	12958003	Spinal cord grey matter structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000002	spinal cord grey matter	skos:exactMatch	12958003	Spinal cord gray matter structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000003	organ system	skos:exactMatch	91689009	Body system structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000004	trunk	skos:exactMatch	22943007	Trunk structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000005	body cavity or lining					NotDone	NotDone	
@@ -20,7 +20,7 @@ MA:0000018	skeletal system	skos:exactMatch	113192009	Skeletal system structure	S
 MA:0000019	visceral organ system					NotDone	NotDone	
 MA:0000020	back of trunk	skos:exactMatch	77568009	Structure of back of trunk	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000021	abdominal segment of trunk					NotDone	NotDone	
-MA:0000022	thoracic segment of trunk	skos:exactMatch	67734004	Upper trunk structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000022	thoracic segment of trunk	skos:exactMatch	67734004	Thoracic segment of trunk	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000023	head	skos:exactMatch	69536005	Head structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000024	neck	skos:exactMatch	45048000	Neck structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000025	forelimb	skos:exactMatch	53120007	Upper limb structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
@@ -89,8 +89,8 @@ MA:0000088	mitral valve	skos:exactMatch	91134007	Mitral valve structure	Spec Ana
 MA:0000089	pulmonary valve	skos:exactMatch	39057004	Pulmonary valve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000090	tricuspid valve	skos:exactMatch	46030003	Tricuspid valve structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000091	heart ventricle	skos:exactMatch	21814001	Cardiac ventricular structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000092	heart left ventricle	skos:exactMatch	87878005	Left ventricular structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000093	heart right ventricle	skos:exactMatch	53085002	Right ventricular structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000092	heart left ventricle	skos:exactMatch	87878005	Left cardiac ventricular structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000093	heart right ventricle	skos:exactMatch	53085002	Right cardiac ventricular structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000094	impulse conducting system					NotDone	NotDone	
 MA:0000095	atrioventricular node	skos:exactMatch	25943004	Structure of atrioventricular node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000096	purkinje fiber					NotDone	NotDone	
@@ -101,7 +101,7 @@ MA:0000100	outflow tract					NotDone	NotDone
 MA:0000101	outflow tract aortic component					NotDone	NotDone	
 MA:0000102	outflow tract pulmonary component					NotDone	NotDone	
 MA:0000103	truncus arteriosus					NotDone	NotDone	
-MA:0000104	cartilage tissue	skos:exactMatch	61496007	Cartilaginous tissue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000104	cartilage tissue	skos:exactMatch	309312004	Cartilage tissue	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000105	cellular cartilage	skos:exactMatch	81997001	Cellular cartilage	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000106	costal cartilage	skos:exactMatch	50016007	Structure of costal cartilage	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000107	elastic cartilage					NotDone	NotDone	
@@ -111,7 +111,7 @@ MA:0000110	intervertebral disc	skos:exactMatch	360499006	Structure of interverte
 MA:0000111	annulus fibrosus					NotDone	NotDone	
 MA:0000112	nucleus pulposus					NotDone	NotDone	
 MA:0000113	ligament	skos:exactMatch	52082005	Structure of ligament	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000114	synovium	skos:exactMatch	88928006	Structure of synovial tissue of joint	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000114	synovium	skos:exactMatch	88928006	Structure of synovial membrane of joint	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000115	tendon	skos:exactMatch	13024002	Tendon structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000116	adrenal gland	skos:exactMatch	23451007	Adrenal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000117	adrenal gland capsule	skos:exactMatch	84562008	Structure of adrenal capsule	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
@@ -133,14 +133,14 @@ MA:0000132	thyroid gland medulla					NotDone	NotDone
 MA:0000133	cerebral hemisphere	skos:exactMatch	372073000	Cerebral hemisphere structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000134	bone marrow	skos:exactMatch	14016003	Bone marrow structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000135	bronchus associated lymphoid tissue	skos:exactMatch	22226004	Structure of lymphoid tissue of lung	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000136	gut associated lymphoid tissue	skos:broadMatch	19655003	Structure of lymphoid tissues of gastrointestinal tract	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000136	gut associated lymphoid tissue	skos:broadMatch	19655003	Structure of lymphoid tissue of gastrointestinal tract	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000137	peyer's patch	skos:broadMatch	267190001	Structure of aggregated lymphoid follicle of small intestine	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000138	lymphatic vessel	skos:exactMatch	83555006	Structure of lymphatic vessel	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000139	lymph node	skos:exactMatch	59441001	Structure of lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000140	mucosa associated lymphoid tissue	skos:broadMatch	19655003	Structure of lymphoid tissues of gastrointestinal tract	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000140	mucosa associated lymphoid tissue	skos:broadMatch	19655003	Structure of lymphoid tissue of gastrointestinal tract	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000141	spleen	skos:exactMatch	78961009	Splenic structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000142	thymus	skos:exactMatch	9875009	Thymus gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000143	tonsil	skos:exactMatch	75573002	Tonsillar structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000143	tonsil	skos:exactMatch	75573002	Tonsillar structure (palatine)	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000144	integumental system gland					NotDone	NotDone	
 MA:0000145	mammary gland	skos:exactMatch	76752008	Breast structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000146	skin gland					NotDone	NotDone	
@@ -264,7 +264,7 @@ MA:0000263	choroid					NotDone	NotDone
 MA:0000264	ciliary body	skos:exactMatch	29534007	Ciliary body structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000265	conjunctiva	skos:exactMatch	29445007	Conjunctival structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000266	cornea	skos:exactMatch	28726007	Corneal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000267	eye gland	skos:exactMatch	280574000	Eyelid gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000267	eye gland	skos:exactMatch	714649001	Structure of eyelid gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000268	eyelid	skos:exactMatch	80243003	Eyelid structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000269	eyelid muscle					NotDone	NotDone	
 MA:0000270	eyelid tarsus					NotDone	NotDone	
@@ -305,7 +305,7 @@ MA:0000305	foot phalanx					NotDone	NotDone
 MA:0000306	hand phalanx					NotDone	NotDone	
 MA:0000307	other limb bone					NotDone	NotDone	
 MA:0000308	axial skeleton	skos:exactMatch	6834003	Axial skeleton structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000309	vertebra	skos:exactMatch	420345000	Structure of vertebra	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000309	vertebra	skos:exactMatch	420345000	Bone structure of vertebra	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000310	caudal vertebra					NotDone	NotDone	
 MA:0000311	cervical vertebra	skos:exactMatch	84667006	Bone structure of cervical vertebra	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000312	lumbar vertebra	skos:exactMatch	73903008	Bone structure of lumbar vertebra	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
@@ -329,11 +329,11 @@ MA:0000329	anal region	skos:exactMatch	81939000	Anal region structure	Spec Anato
 MA:0000330	anal canal	skos:exactMatch	34381000	Anal canal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000331	anus	skos:exactMatch	53505006	Anal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000332	ileocaecal junction	skos:exactMatch	264021000	Ileocecal junction	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000333	large intestine	skos:exactMatch	14742008	Large intestinal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000333	large intestine	skos:exactMatch	14742008	Structure of large intestine	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000334	cecum	skos:exactMatch	32713005	Cecum structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000335	colon	skos:exactMatch	71854001	Colon structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000336	rectum	skos:exactMatch	34402009	Rectum structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000337	small intestine	skos:exactMatch	30315005	Small intestinal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000337	small intestine	skos:exactMatch	30315005	Structure of small intestine	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000338	duodenum	skos:exactMatch	38848004	Duodenal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000339	ileum	skos:exactMatch	34516001	Ileal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000340	jejunum	skos:exactMatch	21306003	Jejunal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
@@ -377,9 +377,9 @@ MA:0000377	kidney tubule	skos:exactMatch	58471003	Renal tubule structure	Spec An
 MA:0000378	ureter	skos:exactMatch	87953007	Ureteric structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000379	urethra	skos:exactMatch	13648007	Urethral structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000380	urinary bladder	skos:exactMatch	89837001	Urinary bladder structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000381	female reproductive system	skos:exactMatch	245500007	Female genital structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000381	female reproductive system	skos:exactMatch	53065001	Female genital structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000382	clitoris	skos:exactMatch	65439009	Clitoral structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000383	female reproductive gland	skos:broadMatch	245500007	Female genital structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000383	female reproductive gland	skos:broadMatch	53065001	Female genital structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000384	ovary	skos:exactMatch	15497006	Ovarian structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000385	oviduct	skos:exactMatch	31435000	Fallopian tube structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000386	placenta	skos:exactMatch	78067005	Placental structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
@@ -398,7 +398,7 @@ MA:0000398	efferent duct	skos:exactMatch	59914003	Structure of efferent ductule 
 MA:0000399	male reproductive gland	skos:broadMatch	90264002	Male genital structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000400	ampullary gland	skos:broadMatch	90264002	Male genital structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000401	bulbourethral gland	skos:exactMatch	66997005	Bulbourethral gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0000402	coagulating gland	skos:broadMatch	245500007	Male internal genitalia structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000402	coagulating gland	skos:broadMatch	38242008	Male internal genitalia structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000403	preputial gland of male	skos:exactMatch	45531002	Structure of preputial gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000404	prostate gland	skos:exactMatch	279689003	Prostatic gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000405	vesicular gland	skos:exactMatch	245500007	Structure of anatomical reproductive system	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
@@ -540,7 +540,7 @@ MA:0000540	female urogenital muscle					NotDone	NotDone
 MA:0000541	male urogenital muscle					NotDone	NotDone	
 MA:0000542	pelvis nerve					NotDone	NotDone	
 MA:0000543	pelvis organ					NotDone	NotDone	
-MA:0000544	female reproductive gland/organ	skos:broadMatch	245500007	Female genital structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000544	female reproductive gland/organ	skos:broadMatch	53065001	Female genital structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000545	male reproductive gland/organ	skos:broadMatch	90264002	Male genital structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000546	pelvis skin					NotDone	NotDone	
 MA:0000547	chest bone					NotDone	NotDone	
@@ -771,7 +771,7 @@ MA:0000771	thymus medulla	skos:exactMatch	38925005	Structure of thymic medulla	S
 MA:0000772	hassall's corpuscle					NotDone	NotDone	
 MA:0000773	lingual tonsillar tissue					NotDone	NotDone	
 MA:0000774	nasopharyngeal tonsil					NotDone	NotDone	
-MA:0000775	palatine tonsil	skos:broadMatch	75573002	Tonsillar structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0000775	palatine tonsil	skos:broadMatch	75573002	Tonsillar structure (palatine)	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0000776	tonsil capsule					NotDone	NotDone	
 MA:0000777	tonsil crypt					NotDone	NotDone	
 MA:0000778	arrector pili smooth muscle					NotDone	NotDone	
@@ -1537,11 +1537,11 @@ MA:0001543	transverse colon	skos:exactMatch	485005	Transverse colon structure	Sp
 MA:0001544	large intestine crypt of lieberkuhn					NotDone	NotDone	
 MA:0001545	large intestine epithelium					NotDone	NotDone	
 MA:0001546	large intestine serosa	skos:exactMatch	75858005	Serous membrane structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0001546	large intestine serosa	skos:exactMatch	14742008	Large intestinal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0001546	large intestine serosa	skos:exactMatch	14742008	Structure of large intestine	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0001547	large intestine smooth muscle					NotDone	NotDone	
 MA:0001548	large intestine smooth muscle circular layer					NotDone	NotDone	
 MA:0001549	large intestine smooth muscle longitudinal layer					NotDone	NotDone	
-MA:0001550	large intestine peyer's patch	skos:broadMatch	19655003	Structure of lymphoid tissues of gastrointestinal tract	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0001550	large intestine peyer's patch	skos:broadMatch	19655003	Structure of lymphoid tissue of gastrointestinal tract	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0001551	brunner's gland					NotDone	NotDone	
 MA:0001552	small intestine crypt of lieberkuhn					NotDone	NotDone	
 MA:0001553	small intestine epithelium	skos:exactMatch	45480009	Small intestine epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
@@ -1603,7 +1603,7 @@ MA:0001609	stomach cardiac region	skos:exactMatch	62898002	Cardia structure	Spec
 MA:0001610	stomach epithelium					NotDone	NotDone	
 MA:0001611	stomach squamous epithelium					NotDone	NotDone	
 MA:0001612	stomach fundus	skos:exactMatch	414003	Gastric fundus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0001613	stomach glandular region	skos:broadMatch	245415005	Gastric mucous membrane structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0001613	stomach glandular region	skos:broadMatch	78653002	Gastric mucous membrane structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0001614	stomach glandular region mucosa					NotDone	NotDone	
 MA:0001615	stomach greater curvature					NotDone	NotDone	
 MA:0001616	stomach lesser curvature					NotDone	NotDone	
@@ -1715,8 +1715,8 @@ MA:0001723	placenta metrial gland					NotDone	NotDone
 MA:0001724	cervix epithelium					NotDone	NotDone	
 MA:0001725	cervix squamous epithelium					NotDone	NotDone	
 MA:0001726	uterine gland					NotDone	NotDone	
-MA:0001727	left uterine horn	skos:exactMatch	27553006	Structure of left horn of uterus	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0001728	right uterine horn	skos:exactMatch	48040008	Structure of right horn of uterus	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0001727	left uterine horn	skos:exactMatch	740601009	Structure of cornu of left fallopian tube	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0001728	right uterine horn	skos:exactMatch	740602002	Structure of cornu of right fallopian tube	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0001729	uterus serosa					NotDone	NotDone	
 MA:0001730	vagina epithelium	skos:broadMatch	76784001	Vaginal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0001731	vagina squamous epithelium					NotDone	NotDone	
@@ -1895,7 +1895,7 @@ MA:0001901	back organ					NotDone	NotDone
 MA:0001902	thoracic cavity artery	skos:exactMatch	363574006	Intrathoracic arterial structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0001903	thoracic cavity vein					NotDone	NotDone	
 MA:0001904	diaphragm	skos:exactMatch	5798000	Diaphragm structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0001905	jaw	skos:exactMatch	362886009	Jaw	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0001905	jaw	skos:exactMatch	362886009	Jaw (surface region)	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0001906	lower jaw	skos:exactMatch	48077000	Lower jaw region structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0001907	lower jaw tooth					NotDone	NotDone	
 MA:0001908	upper jaw					NotDone	NotDone	
@@ -2806,7 +2806,7 @@ MA:0002823	lesser trochanter					NotDone	NotDone
 MA:0002824	spiral modiolar artery	skos:exactMatch	70138005	Structure of spiral modiolar artery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0002825	epididymis epithelium	skos:broadMatch	87644002	Epididymis structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0002826	iris epithelium					NotDone	NotDone	
-MA:0002827	abdominal lymph node	skos:exactMatch	8568009	Abdominal lymph node structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0002827	abdominal lymph node	skos:exactMatch	818991007	Structure of abdominal lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0002828	celiac lymph node	skos:exactMatch	47985009	Structure of celiac lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0002829	mesenteric lymph node	skos:exactMatch	279795009	Structure of lymph node of mesentery	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0002830	anterior fontanel					NotDone	NotDone	
@@ -2971,7 +2971,7 @@ MA:0002989	lymph node germinal center					NotDone	NotDone
 MA:0002990	lymph node follicular mantle					NotDone	NotDone	
 MA:0002991	ovary stroma					NotDone	NotDone	
 MA:0002992	thalamic nucleus	skos:exactMatch	423213006	Structure of nucleus of thalamus	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
-MA:0002993	tendo calcaneus	skos:exactMatch	61352006	Structure of achilles tendon	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MA:0002993	tendo calcaneus	skos:exactMatch	61352006	Structure of Achilles tendon	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 MA:0002994	malleus process brevis					NotDone	NotDone	
 MA:0002995	kidney medulla tubule					NotDone	NotDone	
 MA:0002996	nephrogenic zone					NotDone	NotDone	
