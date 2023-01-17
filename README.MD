@@ -17,7 +17,7 @@ The following SEND code lists have been mapped:
 Additional mappings:
 
 - Mouse Adult Gross Anatomy Ontology
-- eTox Histopathology Ontology (expected early February)
+- eTox Histopathology Ontology
 - MedDRA (expected early February)
 
 ## ABOUT

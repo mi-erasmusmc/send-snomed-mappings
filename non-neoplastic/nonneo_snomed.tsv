@@ -68,11 +68,11 @@ C38095	CAST	skos:exactMatch	5277004	Urinary casts	Condition | Clinical Finding	s
 C120869	CELL DEBRIS					NotDone	NotDone	
 C139138	CELLULARITY, DECREASED					NotDone	NotDone	
 C41428	CELLULARITY, INCREASED					NotDone	NotDone	
-C60373	CHOLANGIOFIBROSIS					NotDone	NotDone	
+C60373	CHOLANGIOFIBROSIS	skos:exactMatch	48124008	Fibrosis of bile duct	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C2944	CHOLESTEATOMA	skos:exactMatch	575006	Cholesteatoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C120870	CHOLESTEROL CLEFT					NotDone	NotDone	
 C120871	CHROMATOLYSIS	skos:exactMatch	52217000	Chromatolysis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
-C120872	CHRONIC PROGRESSIVE NEPHROPATHY	skos:broadMatch	90708001	Kidney disease	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+C120872	CHRONIC PROGRESSIVE NEPHROPATHY	skos:broadMatch	709044004	Chronic kidney disease	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C163722	COLLOID ALTERATION					NotDone	NotDone	
 C163723	COLLOID, DECREASED					NotDone	NotDone	
 C163724	COLLOID, INCREASED					NotDone	NotDone	
@@ -335,7 +335,6 @@ C120909	SPERMATOCELE	skos:exactMatch	49263001	Spermatocele	Condition | Clinical 
 C176400	SPLENIC CONTRACTION					NotDone	NotDone	
 C3134	SQUAMOUS CYST	skos:exactMatch	418930003	Epidermal inclusion cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C154894	SQUAMOUS PLAQUE/CYST	skos:broadMatch	367643001	Cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
-C154894	SQUAMOUS PLAQUE/CYST	skos:exactMatch	367643001	Cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C158331	SYNCYTIA	skos:exactMatch	60401004	Multinucleate giant cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
 C85179	SYRINGOMYELIA	skos:exactMatch	111496009	Syringomyelia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 C123643	SYRINGOMYELIA/HYDROMYELIA	skos:exactMatch	111496009	Syringomyelia	Condition | Clinical Finding	semapv:ManualMappingCuration		1

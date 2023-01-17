@@ -1,0 +1,1181 @@
+subject_id	subject_label	predicate_id	object_id	object_label	object_category	mapping_justification	comment	mapping_group
+MC:0000001	morphologic change	skos:exactMatch	118956008	Morphologically altered structure	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000002	neoplasia	skos:exactMatch	55342001	Neoplastic disease	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000003	malignant tumor	skos:exactMatch	86049000	Neoplasm, malignant (primary)	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000004	carcinoma	skos:exactMatch	68453008	Carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000005	carcinoma, squamous cell	skos:exactMatch	28899001	Squamous cell carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000006	inflammatory processes					NotDone	NotDone	
+MC:0000007	infiltrate, inflammatory cell	skos:broadMatch	47351003	Infiltration	Observation | Morph Abnormality	semapv:ManualMappingCuration	Mapped uphill to infiltration. Did not map to inflammation as inflammation would include other components such as edema.	1
+MC:0000008	infiltration, mixed					NotDone	NotDone	
+MC:0000010	inflammation	skos:exactMatch	409774005	Inflammatory morphology	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000011	inflammation, lymphocytic	skos:exactMatch	54727009	Chronic lymphocytic inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000013	inflammation, mixed cell					NotDone	NotDone	
+MC:0000015	inflammation, neutrophilic	skos:relatedMatch	4532008	Acute inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration	In SNOMED Neutrophilic infiltration is listed as a synonym of Acute inflammation	1
+MC:0000017	benign tumor					NotDone	NotDone	
+MC:0000018	mesenchymal proliferative lesion, benign					NotDone	NotDone	
+MC:0000019	chondroma, benign					NotDone	NotDone	
+MC:0000020	fibroma	skos:exactMatch	1157050005	Benign fibroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000021	sarcoma	skos:exactMatch	2424003	Sarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000022	fibrosarcoma	skos:exactMatch	53654007	Fibrosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000025	inflammation, foreign body	skos:exactMatch	37058002	Foreign body giant cell granuloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000026	granuloma, giant cell	skos:exactMatch	43917008	Giant cell granuloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000027	granuloma, parasitic	skos:exactMatch	45647009	Granuloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000027	granuloma, parasitic	skos:exactMatch	442614005	Parasitic process	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000028	hemangiosarcoma	skos:exactMatch	39000009	Hemangiosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000029	myoma	skos:exactMatch	1156875002	Myoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000030	leiomyoma	skos:exactMatch	44598004	Leiomyoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000031	leiomyosarcoma	skos:exactMatch	51549004	Leiomyosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000032	lipoma	skos:exactMatch	134328007	Lipoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000033	liposarcoma	skos:exactMatch	254828009	Liposarcoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000034	infectious diseases					NotDone	NotDone	
+MC:0000036	parasite	skos:exactMatch	442614005	Parasitic process	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000038	hemodynamic disorders					NotDone	NotDone	
+MC:0000041	thrombosis, chronic	skos:exactMatch	396339007	Thrombus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000041	thrombosis, chronic	skos:exactMatch	90734009	Chronic	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000042	thrombosis, acute					NotDone	NotDone	
+MC:0000043	fibrosarcoma, pleomorphic	skos:broadMatch	53654007	Fibrosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000044	structural alteration					NotDone	NotDone	
+MC:0000045	developmental errors	skos:exactMatch	308490002	Pathological developmental process	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000046	malformation	skos:exactMatch	49755003	Morphologically abnormal structure	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000047	mesothelioma, malignant	skos:exactMatch	62064005	Mesothelioma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000049	schwannoma, benign	skos:exactMatch	985004	Schwannoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000050	healing and repair					NotDone	NotDone	
+MC:0000053	fibrosis	skos:exactMatch	112674009	Fibrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000054	cell adaptation/injury/death					NotDone	NotDone	
+MC:0000055	metabolic derangement					NotDone	NotDone	
+MC:0000057	cellular contents, increased	skos:broadMatch	125394000	Cell content alteration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000058	lipid content, increased					NotDone	NotDone	
+MC:0000059	cell injury/death					NotDone	NotDone	
+MC:0000060	necrosis	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000061	fat necrosis	skos:exactMatch	79682009	Fat necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000062	carcinoma, cortical					NotDone	NotDone	
+MC:0000063	adenoma	skos:exactMatch	32048006	Adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000064	adenoma, cortical	skos:exactMatch	302826002	Adrenal cortical adenoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000067	angiectasis	skos:exactMatch	174637007	Angiectasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000068	adenoma, subcapsular cell					NotDone	NotDone	
+MC:0000069	ectopic tissue	skos:exactMatch	719446000	Ectopic tissue	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000070	accessory, adrenal cortical tissue	skos:exactMatch	7322007	Accessory adrenal cortex	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000071	proliferative lesion not otherwise specified (nos)					NotDone	NotDone	
+MC:0000073	dilation, sinusoidal					NotDone	NotDone	
+MC:0000075	myelolipoma	skos:exactMatch	20810002	Myelolipoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000076	cellular adaptation of growth					NotDone	NotDone	
+MC:0000077	atrophy	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000078	atrophy, endocrine cell	skos:exactMatch	68233007	Endocrine cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000078	atrophy, endocrine cell	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000079	atrophy, cortical					NotDone	NotDone	
+MC:0000080	increased blood cell formation					NotDone	NotDone	
+MC:0000081	increased activity, erythroid/myeloid precursors	skos:exactMatch	127914007	Myeloid precursor cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000081	increased activity, erythroid/myeloid precursors	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000082	extramedullary hematopoiesis	skos:exactMatch	42952007	Extramedullary hematopoiesis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000083	hyperplasia	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000084	hyperplasia, endocrine cell	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000084	hyperplasia, endocrine cell	skos:exactMatch	68233007	Endocrine cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000085	hypertrophy	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000086	hypertrophy, endocrine cell	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000086	hypertrophy, endocrine cell	skos:exactMatch	68233007	Endocrine cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000087	metaplasia	skos:exactMatch	17665002	Metaplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000088	metaplasia, osseous	skos:exactMatch	38109001	Osseous metaplasia	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000089	hyperplasia, subcapsular cell					NotDone	NotDone	
+MC:0000090	atrophy, with lipofuscin accumulation					NotDone	NotDone	
+MC:0000091	deposition/accumulation	skos:exactMatch	46595003	Deposition	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000092	intracellular accumulation					NotDone	NotDone	
+MC:0000093	accumulation, endogenous material	skos:broadMatch	46595003	Deposition	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000094	lipofuscin accumulation	skos:exactMatch	54436007	Lipochrome pigmentation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000096	degeneration, cystic	skos:exactMatch	14696003	Cystic degeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000097	accumulation, iron	skos:exactMatch	84182002	Deposition of iron	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000098	extracellular accumulation					NotDone	NotDone	
+MC:0000101	degeneration	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000102	degeneration, vacuolar	skos:broadMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000103	swelling, intracellular organelles					NotDone	NotDone	
+MC:0000104	vacuolation	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000106	vacuolation, lipidic	skos:exactMatch	29185008	Fatty degeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000107	tumor, medullary, benign					NotDone	NotDone	
+MC:0000108	pheochromocytoma, complex, benign					NotDone	NotDone	
+MC:0000109	congestion with hemorrhage	skos:exactMatch	50960005	Hemorrhage	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000109	congestion with hemorrhage	skos:exactMatch	85804007	Congestion	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000110	ganglioneuroma, benign					NotDone	NotDone	
+MC:0000113	tumor, medullary, malignant					NotDone	NotDone	
+MC:0000114	neuroblastoma, malignant					NotDone	NotDone	
+MC:0000115	pheochromocytoma, complex, malignant	skos:exactMatch	29370006	Malignant pheochromocytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000116	leukemia	skos:exactMatch	87163000	Leukemia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000118	hyperplasia, cortical	skos:broadMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000119	hyperplasia, medullary	skos:exactMatch	237781008	Adrenomedullary hyperplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000120	hypertrophy, cortical					NotDone	NotDone	
+MC:0000123	corticomedullary mixed tumor, malignant					NotDone	NotDone	
+MC:0000124	architectural anomalies					NotDone	NotDone	
+MC:0000126	hemorrhage	skos:exactMatch	50960005	Hemorrhage	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000129	sarcoma, histiocytic	skos:exactMatch	128813000	Histiocytic sarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000130	lymphoma					NotDone	NotDone	
+MC:0000131	carcinoma, metastasis	skos:exactMatch	79282002	Carcinoma, metastatic	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000132	sarcoma, metastasis					NotDone	NotDone	
+MC:0000134	deposition, endogenous material					NotDone	NotDone	
+MC:0000135	amyloidosis	skos:exactMatch	17602002	Amyloidosis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000136	structural injury					NotDone	NotDone	
+MC:0000138	aneurysm	skos:exactMatch	85659009	Aneurysm	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000139	hyperplasia, endothelial	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000139	hyperplasia, endothelial	skos:exactMatch	27168002	Structure of endothelium tissue	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000140	intimal thickening, acellular, artery					NotDone	NotDone	
+MC:0000141	degeneration, axonal	skos:broadMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000147	dilation	skos:exactMatch	25322007	Dilatation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000149	keratoacanthoma	skos:exactMatch	254662007	Keratoacanthoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000150	adenoma, sebaceous cell	skos:exactMatch	78424008	Sebaceous adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000151	carcinoma, sebaceous cell					NotDone	NotDone	
+MC:0000152	papilloma	skos:exactMatch	1157073002	Benign papilloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000153	papilloma, squamous cell	skos:exactMatch	63451008	Squamous cell papilloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000154	hyperplasia, epithelial cell	skos:exactMatch	31390008	Epithelial hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000155	hyperplasia, squamous cell layers with nuclei retention					NotDone	NotDone	1
+MC:0000156	hyperplasia, epidermal	skos:exactMatch	75307004	Epithelial hyperplasia of skin	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000157	hyperplasia, sebaceous cell	skos:exactMatch	238748009	Sebaceous hyperplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000158	papillomatosis	skos:exactMatch	82049002	Squamous papillomatosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000159	degeneration, hydropic	skos:exactMatch	60456004	Hydropic degeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000163	embolus	skos:exactMatch	55584005	Embolus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000166	hypertrophy, smooth muscle cell	skos:exactMatch	370472005	Intestinal smooth muscle hypertrophy	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000167	hypertrophy, medial	skos:exactMatch	61695000	Tunica media vasorum	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000167	hypertrophy, medial	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000168	degeneration/necrosis, medial or mural, artery					NotDone	NotDone	
+MC:0000169	dilation, capillaries	skos:exactMatch	248724003	Dilated capillaries	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000170	immunomodulation					NotDone	NotDone	
+MC:0000171	downregulation of the immune system/altered immune response					NotDone	NotDone	
+MC:0000172	decreased, lymphopoiesis/increased lymphoid destruction					NotDone	NotDone	
+MC:0000173	depletion, lymphoid					NotDone	NotDone	
+MC:0000174	upregulation (stimulation) of the immune system/reactive immune response	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000174	upregulation (stimulation) of the immune system/reactive immune response	skos:exactMatch	35024006	Immune response	Observation | Observable Entity	semapv:ManualMappingCuration		1
+MC:0000176	increased, lymphoid cell number	skos:exactMatch	6969002	Lymphocytic tissue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000176	increased, lymphoid cell number	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000178	reduced/absence of immune response					NotDone	NotDone	
+MC:0000179	absence, germinal center	skos:exactMatch	16733004	Structure of germinal center of lymph node	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000179	absence, germinal center	skos:exactMatch	418560003	Absence	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000181	increased, histiocyte number	skos:exactMatch	14295007	Resident tissue macrophage	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000181	increased, histiocyte number	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000183	increased, plasma cell number	skos:exactMatch	113335003	Plasma cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000183	increased, plasma cell number	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000184	decreased, lymphoid cell number	skos:exactMatch	6969002	Lymphocytic tissue structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000184	decreased, lymphoid cell number	skos:exactMatch	1250004	Decreased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000185	potter lesion					NotDone	NotDone	
+MC:0000187	necrosis, lymphocytes	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000187	necrosis, lymphocytes	skos:exactMatch	56972008	Lymphocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000190	embolus, foreign body	skos:exactMatch	112646004	Foreign body embolus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000191	thromboembolus	skos:exactMatch	13713005	Thromboembolus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000192	hibernoma, benign					NotDone	NotDone	
+MC:0000193	granuloma	skos:exactMatch	45647009	Granuloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000195	hibernoma, malignant					NotDone	NotDone	
+MC:0000197	sarcoma, nos	skos:exactMatch	128734000	Undifferentiated sarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000198	schwannoma, malignant	skos:exactMatch	404037002	Malignant peripheral nerve sheath tumor	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000199	hyperplasia, mesothelium	skos:exactMatch	82507003	Mesothelial hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000200	hyperplasia, mesothelium: peritoneal/pleural/pericardial					NotDone	NotDone	
+MC:0000201	abnormal growth/differentiation					NotDone	NotDone	
+MC:0000202	abnormal cartilage growth					NotDone	NotDone	
+MC:0000203	chondrodysplasia	skos:exactMatch	205465004	Chondrodysplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000204	chondrosarcoma	skos:exactMatch	443520009	Chondrosarcoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000205	abnormal skeletal tissue modelling/remodelling					NotDone	NotDone	
+MC:0000206	increased bone, trabeculae and/or cortex					NotDone	NotDone	
+MC:0000209	callus	skos:exactMatch	27881006	Bony callus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000210	cementifying/ossifying fibroma					NotDone	NotDone	
+MC:0000211	osteochondroma, benign					NotDone	NotDone	
+MC:0000212	osteoma					NotDone	NotDone	
+MC:0000213	osteosarcoma	skos:exactMatch	21708004	Osteosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000215	fracture	skos:exactMatch	72704001	Fracture	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000218	fibrous osteodystrophy (FOD)					NotDone	NotDone	
+MC:0000220	increased, mast cell number	skos:exactMatch	6445007	Mast cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000220	increased, mast cell number	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000221	decreased blood cell formation					NotDone	NotDone	
+MC:0000222	decreased activity, erythroid precursors					NotDone	NotDone	
+MC:0000223	decreased erythropoiesis	skos:exactMatch	69611006	Erythrocyte production	Observation | Observable Entity	semapv:ManualMappingCuration		1
+MC:0000223	decreased erythropoiesis	skos:exactMatch	1250004	Decreased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000224	decreased activity, erythroid/myeloid precursors					NotDone	NotDone	
+MC:0000225	decreased hematopoiesis with increased adipose tissue	skos:broadMatch	73241006	Abnormal hematopoiesis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000225	decreased hematopoiesis with increased adipose tissue	skos:broadMatch	248301008	Increase in body fat	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000226	hyperplasia, myelostromal					NotDone	NotDone	
+MC:0000227	decreased hematopoiesis	skos:broadMatch	73241006	Abnormal hematopoiesis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000228	increased activity, white blood cell precursor					NotDone	NotDone	
+MC:0000229	increased myelopoiesis	skos:broadMatch	416906007	Blood cell production, function	Observation | Observable Entity	semapv:ManualMappingCuration		1
+MC:0000229	increased myelopoiesis	skos:broadMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000230	increased activity, red blood cell precursor	skos:broadMatch	12222001	Abnormality of red blood cells	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000231	increased erythropoiesis	skos:exactMatch	25151000	Increased erythrocyte production	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000232	increased activity, platelet precursor					NotDone	NotDone	
+MC:0000233	increased thrombopoiesis	skos:exactMatch	6631009	Thrombocytosis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000235	increased myelopoiesis with concurrent decreased erythropoiesis					NotDone	NotDone	
+MC:0000236	decreased activity, myeloid precursors					NotDone	NotDone	
+MC:0000237	decreased myelopoieis					NotDone	NotDone	
+MC:0000239	erythrophagocytosis	skos:exactMatch	61070002	Erythrophagocytosis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000241	cortical defects					NotDone	NotDone	
+MC:0000245	gliosis, nos	skos:exactMatch	81415000	Gliosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000250	medulloblastoma	skos:exactMatch	1156923005	Medulloblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000251	microgliosis	skos:exactMatch	63483002	Microgliocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000251	microgliosis	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000252	general observation	skos:exactMatch	225414002	General observation	Observation | Procedure	semapv:ManualMappingCuration		1
+MC:0000253	artefact	skos:exactMatch	47973001	Artifact	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000254	astrocytoma, malignant					NotDone	NotDone	
+MC:0000255	astrocytoma, malignant, low grade					NotDone	NotDone	
+MC:0000256	astrocytoma, malignant, high grade					NotDone	NotDone	
+MC:0000257	carcinoma, choroid plexus					NotDone	NotDone	
+MC:0000258	infarct	skos:exactMatch	55641003	Infarct	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000259	ectopic choroid plexus					NotDone	NotDone	
+MC:0000260	adipose tissue present	skos:exactMatch	248300009	Body fat observable	Observation | Observable Entity	semapv:ManualMappingCuration		1
+MC:0000263	encephalitozoon spp.					NotDone	NotDone	
+MC:0000264	ependymoma, benign	skos:exactMatch	860761007	Benign ependymoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000265	ependymoma, malignant	skos:exactMatch	1156903009	Malignant ependymoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000267	cyst, squamous	skos:exactMatch	418930003	Epidermal inclusion cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000268	glioma, mixed, malignant					NotDone	NotDone	
+MC:0000269	glioma, mixed, malignant, high grade					NotDone	NotDone	
+MC:0000270	glioma, mixed, malignant, low grade					NotDone	NotDone	
+MC:0000271	hydrocephalus	skos:exactMatch	230745008	Hydrocephalus	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000272	aggregates, granular cell					NotDone	NotDone	
+MC:0000273	oligodendroglioma, malignant					NotDone	NotDone	
+MC:0000274	oligodendroglioma, malignant, high grade					NotDone	NotDone	
+MC:0000275	papilloma, choroid plexus					NotDone	NotDone	
+MC:0000276	cavitation of parenchymas					NotDone	NotDone	
+MC:0000277	porencephaly	skos:exactMatch	38837006	Acquired porencephaly	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000278	reticulosis, malignant	skos:exactMatch	128805001	NK/T-cell lymphoma, nasal and nasal-type	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000278	reticulosis, malignant	skos:exactMatch	414166008	Extranodal NK/T-cell lymphoma, nasal type	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000281	pinealoma, benign					NotDone	NotDone	
+MC:0000282	atrophy, pressure	skos:exactMatch	2122006	Pressure atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000285	demyelination	skos:exactMatch	32693004	Demyelination	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000286	necrosis, neuronal	skos:exactMatch	47220008	Neuron	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000286	necrosis, neuronal	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000287	chromatolysis	skos:exactMatch	52217000	Chromatolysis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000288	cell loss	skos:exactMatch	1250004	Decreased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000288	cell loss	skos:exactMatch	4421005	Cell structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000293	intramyelinic edema					NotDone	NotDone	
+MC:0000295	atrophy, acinar cell					NotDone	NotDone	
+MC:0000297	metaplasia, squamous cell	skos:exactMatch	83577005	Squamous metaplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000298	dispositional morphology					NotDone	NotDone	
+MC:0000299	adenocarcinoma	skos:exactMatch	35917007	Adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000301	normal/altered physiological condition					NotDone	NotDone	
+MC:0000302	altered physiological condition					NotDone	NotDone	
+MC:0000303	accumulation, glandular secretion					NotDone	NotDone	
+MC:0000304	increased secretion/reduced emptying					NotDone	NotDone	
+MC:0000305	dilation, glandular, cystic	skos:exactMatch	714645007	Entire gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000305	dilation, glandular, cystic	skos:exactMatch	25322007	Dilatation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000307	diverticulum	skos:exactMatch	31113003	Diverticulum	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000309	coccidia present					NotDone	NotDone	
+MC:0000311	intussusception	skos:exactMatch	73263002	Intussusceptum	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000313	lymphangiectasis	skos:exactMatch	48087001	Lymphangiectasis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000314	restored physiological condition					NotDone	NotDone	
+MC:0000315	normal histology	skos:exactMatch	309162003	Normal histology findings	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000319	trematode present					NotDone	NotDone	
+MC:0000321	balantidium spp.	skos:exactMatch	14479005	Balantidium	Observation | Organism	semapv:ManualMappingCuration		1
+MC:0000324	nematodiasis	skos:exactMatch	84706005	Disease due to Nematoda	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000325	atrophy, mucosa	skos:exactMatch	413201000	Atrophic mucosa	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000326	hyperplasia, mucosa	skos:narrowMatch	95355007	Mucous membrane hyperplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000327	hyperplasia, mucosal, atypical					NotDone	NotDone	
+MC:0000328	hypertrophy, mucosa	skos:exactMatch	128145008	Mucosal finding	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000328	hypertrophy, mucosa	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000329	hyperplasia, mucous cell	skos:broadMatch	95355007	Mucous membrane hyperplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000334	degeneration, with crypt hyperplasia					NotDone	NotDone	
+MC:0000336	erosion	skos:exactMatch	15498001	Superficial ulcer	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000337	ulceration	skos:exactMatch	56208002	Ulcer	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000338	fibroma, myxomatous type					NotDone	NotDone	
+MC:0000339	polyp	skos:exactMatch	41329004	Polyp	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000340	polyp, endometrial stromal	skos:exactMatch	11314008	Polyp of corpus uteri	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000341	sarcoma, endometrial stromal					NotDone	NotDone	
+MC:0000342	endometriosis	skos:exactMatch	396224008	Endometriosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000343	adenomyosis	skos:exactMatch	76376003	Endometriosis of uterus	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000344	hypertrophy, stroma					NotDone	NotDone	
+MC:0000345	histiocytoma, fibrous, benign					NotDone	NotDone	
+MC:0000346	hemangioperycytoma, malignant					NotDone	NotDone	
+MC:0000347	dislocation of an organ					NotDone	NotDone	
+MC:0000348	hernia interna					NotDone	NotDone	
+MC:0000349	tumor, neuroendocrine cell, benign					NotDone	NotDone	
+MC:0000350	tumor, neuroendocrine cell, malignant					NotDone	NotDone	
+MC:0000351	heterotopic acinar pancreas					NotDone	NotDone	
+MC:0000352	atrophy, villous (shortening)	skos:relatedMatch	75581001	Villous atrophy of intestine	Condition | Clinical Finding	semapv:ManualMappingCuration		2
+MC:0000352	atrophy, villous (shortening)	skos:relatedMatch	275403002	Villous atrophy	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000353	hyperplasia, neuroendocrine cell					NotDone	NotDone	
+MC:0000356	villus fusion					NotDone	NotDone	
+MC:0000357	villus stunting					NotDone	NotDone	
+MC:0000358	vacuolation, glandular epithelium	skos:relatedMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000358	vacuolation, glandular epithelium	skos:relatedMatch	31610004	Epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000359	carcinoma, basal cell	skos:exactMatch	1338007	Basal cell carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000362	chondromucinous degeneration					NotDone	NotDone	
+MC:0000365	dilation, ductal	skos:broadMatch	25322007	Dilatation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000366	sperm granuloma	skos:exactMatch	112651005	Spermatogenic granuloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000367	normal physiological condition	skos:exactMatch	30389008	Normal tissue	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000371	adenoma, leydig cell	skos:exactMatch	5014008	Leydig cell tumor, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000372	atrophy, epithelial	skos:exactMatch	446689007	Epithelial atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000373	cell debris, luminal					NotDone	NotDone	
+MC:0000376	viruses					NotDone	NotDone	
+MC:0000377	dna-virus					NotDone	NotDone	
+MC:0000379	koilocytosis					NotDone	NotDone	
+MC:0000380	microscopic overall diagnosis					NotDone	NotDone	
+MC:0000383	necrosis, myofiber	skos:exactMatch	91727004	Muscle tissue	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000383	necrosis, myofiber	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000385	rna-virus					NotDone	NotDone	
+MC:0000387	sialodacryoadenitis	skos:exactMatch	58458001	Sialodacryoadenitis virus	Observation | Organism	semapv:ManualMappingCuration		1
+MC:0000388	tumor, hair follicle, benign					NotDone	NotDone	
+MC:0000390	melanoma, malignant					NotDone	NotDone	
+MC:0000391	atrophy, retina	skos:exactMatch	405722004	Atrophic retina	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000392	atrophy, decreased number of photoreceptor	skos:exactMatch	428212003	Photoreceptor degeneration	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000393	fibrosis, peribulbar					NotDone	NotDone	
+MC:0000395	retinal rosettes					NotDone	NotDone	
+MC:0000397	neovascularization	skos:exactMatch	13018008	Neovascularization	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000398	melanoma, malignant, uveal					NotDone	NotDone	
+MC:0000399	dermoid, benign					NotDone	NotDone	
+MC:0000400	fibrosis, corneal	skos:exactMatch	95736009	Corneal fibrosis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000401	fibrosis, iridic					NotDone	NotDone	
+MC:0000402	fibrosis, lenticular					NotDone	NotDone	
+MC:0000404	adhesion	skos:exactMatch	42685002	Adhesion	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000406	phthisis bulbi	skos:exactMatch	4229009	Phthisis bulbi	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000407	increased mitoses	skos:exactMatch	124980004	Increased cell mitotic activity	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000408	mitoses, cornea					NotDone	NotDone	
+MC:0000409	hyperplasia, corneal epithelium					NotDone	NotDone	
+MC:0000411	atrophy, decreased number of integrating neurons					NotDone	NotDone	
+MC:0000413	vesicle, cornea					NotDone	NotDone	
+MC:0000414	disorganization/loss, retinal layers	skos:broadMatch	41445001	Retinal damage	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000415	degeneration, lens fiber	skos:broadMatch	128306009	Cataract	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000416	cataract	skos:exactMatch	128306009	Cataract	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000417	degeneration, microcystoid	skos:exactMatch	37075008	Microcystoid retinal degeneration	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000418	degeneration, tapetal cells					NotDone	NotDone	
+MC:0000419	vacuolation, ciliary body					NotDone	NotDone	
+MC:0000420	decreased bone, trabeculae and/or cortex					NotDone	NotDone	
+MC:0000421	congestion	skos:exactMatch	85804007	Congestion	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000422	fibro-osseous lesion (FOL)					NotDone	NotDone	
+MC:0000424	fibroplasia	skos:broadMatch	112674009	Fibrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration	In SNOMED fibrosis and fibroplasia are considered synonyms	1
+MC:0000425	angioma	skos:broadMatch	253053003	Benign hemangioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000426	hemangioma	skos:exactMatch	253053003	Benign hemangioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000429	hyperplasia, myelostromal with fibrosis	skos:relatedMatch	52967002	Myelofibrosis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000431	bone marrow changes					NotDone	NotDone	
+MC:0000433	hyperplasia, chondrocyte					NotDone	NotDone	
+MC:0000434	hyperplasia, osteoclast	skos:exactMatch	27770000	Osteoclast	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000434	hyperplasia, osteoclast	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000435	hypertrophy, osteoblasts					NotDone	NotDone	
+MC:0000436	decreased thickness, physis					NotDone	NotDone	
+MC:0000437	increased thickness, physis					NotDone	NotDone	
+MC:0000442	hyperplasia, squamous cell	skos:exactMatch	448458008	Squamous epithelial hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000443	bile	skos:exactMatch	70150004	Bile	Observation | Substance	semapv:ManualMappingCuration		1
+MC:0000444	calculi	skos:exactMatch	56381008	Calculus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000445	hyalinosis	skos:exactMatch	19010006	Hyaline degeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000446	metaplasia, intestinal	skos:exactMatch	69310004	Intestinal metaplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000447	carcinoma, undifferentiated	skos:exactMatch	38549000	Carcinoma, undifferentiated	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000449	atrophy, with fibrosis	skos:exactMatch	112674009	Fibrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000449	atrophy, with fibrosis	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000450	hyperplasia, glandular	skos:exactMatch	23290009	Glandular hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000451	hyperplasia, glandular, regenerative	skos:broadMatch	715141007	Nodular regenerative hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000452	porphyrin deposition	skos:relatedMatch	124067000	Increased porphyrin	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000456	granulation tissue	skos:exactMatch	61363009	Granulation tissue	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000459	rhabdomyosarcoma	skos:exactMatch	30924005	Rhabdomyosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000462	degeneration, myxomatous, valve	skos:exactMatch	9831005	Myxoid degeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000465	atrophy, myocardiocyte					NotDone	NotDone	
+MC:0000466	hyperplasia, reactive	skos:exactMatch	35872008	Secondary hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000467	hyperplasia, mesothelial, epicardium or pericardium	skos:narrowMatch	76848001	Pericardial structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000467	hyperplasia, mesothelial, epicardium or pericardium	skos:narrowMatch	82507003	Mesothelial hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000468	hypertrophy, cardiomyocyte	skos:exactMatch	74281007	Myocardium structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000468	hypertrophy, cardiomyocyte	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000469	metaplasia, cartilage	skos:exactMatch	112671001	Cartilaginous metaplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000470	hyperplasia, endocardial, atypical					NotDone	NotDone	
+MC:0000471	hyperplasia, endocardial					NotDone	NotDone	
+MC:0000472	necrosis, cardiomyocyte	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000472	necrosis, cardiomyocyte	skos:exactMatch	74281007	Myocardium structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000476	vacuolation, cardiomyocyte	skos:exactMatch	74281007	Myocardium structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000476	vacuolation, cardiomyocyte	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000477	single cell necrosis	skos:broadMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000479	carcinoma, renal tubule					NotDone	NotDone	
+MC:0000480	urothelial (transitional cell) carcinoma					NotDone	NotDone	
+MC:0000481	cyst, tubular	skos:broadMatch	367643001	Cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000482	dilation, pelvis	skos:exactMatch	43064006	Hydronephrosis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000483	dilation, tubule	skos:exactMatch	51722002	Seminiferous tubule structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000483	dilation, tubule	skos:exactMatch	25322007	Dilatation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000488	adenoma, renal tubule	skos:broadMatch	1156654007	Benign tubular adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000490	renal mesenchymal tumor					NotDone	NotDone	
+MC:0000491	atrophy, tubule	skos:relatedMatch	197659005	Atrophy of kidney	Condition | Clinical Finding	semapv:ManualMappingCuration	This term is used for the kidney as well as for the reproductive tract	1
+MC:0000491	atrophy, tubule	skos:relatedMatch	245500007	Structure of anatomical reproductive system	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	This term is used for the kidney as well as for the reproductive tract	2
+MC:0000491	atrophy, tubule	skos:relatedMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration	This term is used for the kidney as well as for the reproductive tract	2
+MC:0000492	hyperplasia, juxtaglomerular					NotDone	NotDone	
+MC:0000493	hyperplasia, tubule	skos:exactMatch	58471003	Renal tubule structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000493	hyperplasia, tubule	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000494	hyperplasia, transitional epithelium	skos:exactMatch	30117005	Transitional epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000494	hyperplasia, transitional epithelium	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000496	hypertrophy, epithelial	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000496	hypertrophy, epithelial	skos:exactMatch	31610004	Epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000497	hypertrophy, tubule	skos:exactMatch	117287000	Renal tubular epithelial cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000497	hypertrophy, tubule	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000499	basophilia, tubule					NotDone	NotDone	
+MC:0000500	accumulation, filtrate					NotDone	NotDone	
+MC:0000502	casts	skos:exactMatch	21718009	Cast	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000503	accumulation, hyaline droplets	skos:relatedMatch	18695008	Hyaline body	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000505	deposition, exogenous material					NotDone	NotDone	
+MC:0000508	sarcoma, synovial					NotDone	NotDone	
+MC:0000510	hyperplasia, synovial cell	skos:exactMatch	64331004	Synovial membrane	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000510	hyperplasia, synovial cell	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000511	alteration, harderian gland					NotDone	NotDone	
+MC:0000512	dilation, luminal	skos:exactMatch	91808001	Organ cavity structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000512	dilation, luminal	skos:exactMatch	25322007	Dilatation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000513	secretory activity	skos:exactMatch	90373007	Secretory rate	Observation | Observable Entity	semapv:ManualMappingCuration		1
+MC:0000513	secretory activity	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000514	vacuolation, biliary epithelium	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000514	vacuolation, biliary epithelium	skos:exactMatch	34707002	Biliary tract structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000515	vacuolation, lipidic (fatty change)	skos:broadMatch	29185008	Fatty degeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000516	hepatocellular adenoma	skos:exactMatch	1156419009	Hepatocellular adenoma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000517	chronic inflammatory/proliferative/metaplastic changes	skos:exactMatch	123749006	Chronic proliferative inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000520	cholangioma	skos:exactMatch	39471001	Bile duct adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000521	cyst, epithelial	skos:relatedMatch	419366003	Epithelial inclusion cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000522	fibrosis, peribiliary	skos:exactMatch	34707002	Biliary tract structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000522	fibrosis, peribiliary	skos:exactMatch	112674009	Fibrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000525	hepatoblastoma	skos:exactMatch	45024009	Hepatoblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000526	hepatocellular carcinoma	skos:exactMatch	25370001	Hepatocellular carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000527	cholangiocarcinoma	skos:exactMatch	70179006	Cholangiocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000528	fibrosis/regeneration	skos:exactMatch	64770007	Nodular regeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000528	fibrosis/regeneration	skos:exactMatch	112674009	Fibrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000529	leukemia, erythroid					NotDone	NotDone	
+MC:0000532	atrophy, hepatocyte	skos:exactMatch	89835009	Atrophy of liver	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000533	hypertrophy, hepatocyte	skos:exactMatch	30396005	Hepatic parenchymal cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000533	hypertrophy, hepatocyte	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000534	focus of cellular alteration	skos:exactMatch	125555002	Focal proliferation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000535	cellular alteration, amphophilic	skos:exactMatch	107673000	Cellular AND/OR subcellular abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000536	cellular alteration, basophilic	skos:broadMatch	107673000	Cellular AND/OR subcellular abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000537	cellular alteration, mixed cell	skos:broadMatch	107673000	Cellular AND/OR subcellular abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000538	cellular alteration, clear cell	skos:broadMatch	107673000	Cellular AND/OR subcellular abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000539	cellular alteration, eosinophilic	skos:broadMatch	107673000	Cellular AND/OR subcellular abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000541	bile duct hyperplasia	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000541	bile duct hyperplasia	skos:exactMatch	28273000	Bile duct structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000542	hyperplasia, hepatocellular	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000542	hyperplasia, hepatocellular	skos:exactMatch	30396005	Hepatic parenchymal cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000543	hyperplasia, ito cell					NotDone	NotDone	
+MC:0000544	oval cell hyperplasia					NotDone	NotDone	
+MC:0000545	karyomegaly	skos:exactMatch	6855001	Macronucleus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000546	hypertrophy, sinusoidal lining cell					NotDone	NotDone	
+MC:0000547	metaplasia, pancreatic acinar					NotDone	NotDone	
+MC:0000548	cellular contents, decreased	skos:broadMatch	125394000	Cell content alteration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000549	glycogen, decreased	skos:narrowMatch	41374006	Glycogen depletion	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000550	retention, bile	skos:exactMatch	36850000	Retention	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000550	retention, bile	skos:exactMatch	70150004	Bile	Observation | Substance	semapv:ManualMappingCuration		1
+MC:0000551	accumulation, glycogen	skos:exactMatch	23521003	Glycogen deposition	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000553	inclusions, intranuclear and cytoplasmic	skos:exactMatch	30396005	Hepatic parenchymal cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000553	inclusions, intranuclear and cytoplasmic	skos:exactMatch	29015002	Cytoplasmic inclusion	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000554	inclusion, cytoplasmic	skos:exactMatch	29015002	Cytoplasmic inclusion	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000555	inclusion, intranuclear					NotDone	NotDone	
+MC:0000556	adenoma, bronchiolo-alveolar	skos:exactMatch	8097004	Alveolar adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000557	thickening, alveolar septa					NotDone	NotDone	
+MC:0000558	collapse of pre-existing cavity					NotDone	NotDone	
+MC:0000559	atelectasis	skos:exactMatch	46621007	Atelectasis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000560	bronchiectasis	skos:exactMatch	12295008	Bronchiectasis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000561	edema, pulmonary	skos:exactMatch	19242006	Pulmonary edema	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000562	edema, interstitial	skos:exactMatch	267038008	Edema	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000563	alveolar emphysema	skos:broadMatch	49158009	Emphysema	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000564	fibrosis, alveolar	skos:exactMatch	50196008	Perialveolar fibrosis of lung	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000565	granuloma, cholesterin clefts	skos:broadMatch	45647009	Granuloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000569	carcinoma, bronchiolo-alveolar					NotDone	NotDone	
+MC:0000570	pulmonary keratinizing cysts					NotDone	NotDone	
+MC:0000571	hyperplasia, bronchiolo-alveolar	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000571	hyperplasia, bronchiolo-alveolar	skos:exactMatch	361287006	Entire alveolar bronchiole	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000572	hyperplasia, bronchiolar cells	skos:exactMatch	28134006	Structure of alveolar epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000572	hyperplasia, bronchiolar cells	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000573	hyperplasia, pneumocytes type II					NotDone	NotDone	
+MC:0000574	hyperplasia, mesothelium: pleural	skos:exactMatch	111026008	Mesothelial hyperplasia of the pleura	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000575	metaplasia, mucous cell	skos:exactMatch	723794006	Mucinous metaplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000576	alveolar lipoproteinosis					NotDone	NotDone	
+MC:0000579	alveolar macrophage aggregation					NotDone	NotDone	
+MC:0000580	steady state of the immune system					NotDone	NotDone	
+MC:0000581	lymphoid tissue, present					NotDone	NotDone	
+MC:0000582	presence, germinal center					NotDone	NotDone	
+MC:0000583	fibroadenoma	skos:exactMatch	1156873009	Benign fibroadenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000584	adenoacanthoma, malignant					NotDone	NotDone	
+MC:0000585	carcinosarcoma	skos:exactMatch	63264007	Carcinosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000586	reproductive (estrous) cycle					NotDone	NotDone	
+MC:0000587	secretory activity, phyiological					NotDone	NotDone	
+MC:0000588	secretory activity, decreased	skos:exactMatch	1250004	Decreased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000588	secretory activity, decreased	skos:exactMatch	90373007	Secretory rate	Observation | Observable Entity	semapv:ManualMappingCuration		1
+MC:0000589	secretory activity, increased					NotDone	NotDone	
+MC:0000590	tumor, mixed, benign					NotDone	NotDone	
+MC:0000591	tumor, mixed, malignant					NotDone	NotDone	
+MC:0000592	atrophy, adipose tissue	skos:exactMatch	248315005	Lipoatrophy	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000593	depletion, plasma cell					NotDone	NotDone	
+MC:0000594	tumor, mast cell, malignant					NotDone	NotDone	
+MC:0000598	increased, dentritic cell number					NotDone	NotDone	
+MC:0000602	hypertrophy, mucous cell	skos:exactMatch	414781009	Mucous membrane structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000602	hypertrophy, mucous cell	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000603	hypertrophy, goblet cells					NotDone	NotDone	
+MC:0000604	metaplasia, respiratory, olfactory/glandular epithelium					NotDone	NotDone	
+MC:0000605	hyperplasia, respiratory epithelium	skos:exactMatch	2845003	Structure of respiratory epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000605	hyperplasia, respiratory epithelium	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000606	hypertrophy, respiratory epithelium					NotDone	NotDone	
+MC:0000609	atrophy, respiratory epithelium	skos:exactMatch	2845003	Structure of respiratory epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000609	atrophy, respiratory epithelium	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000610	carcinoma, neuroepithelial					NotDone	NotDone	
+MC:0000611	atrophy, olfactory epithelium	skos:exactMatch	37623003	Olfactory sensory epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000611	atrophy, olfactory epithelium	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000612	hyperplasia, olfactory epithelium					NotDone	NotDone	
+MC:0000613	metaplasia, respiratory epithelium					NotDone	NotDone	
+MC:0000614	ondotoma					NotDone	NotDone	
+MC:0000617	ameloblastic odontoma					NotDone	NotDone	
+MC:0000618	altered estrous cycle					NotDone	NotDone	
+MC:0000620	decreased number/absent corpora lutea	skos:exactMatch	19931006	Structure of corpus luteum of ovary	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000620	decreased number/absent corpora lutea	skos:exactMatch	1250004	Decreased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000621	choriocarcinoma	skos:exactMatch	1156971005	Choriocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000622	cystadenocarcinoma	skos:exactMatch	21008007	Cystadenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000623	cystadenoma	skos:exactMatch	47620003	Cystadenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000624	dysgerminoma, malignant					NotDone	NotDone	
+MC:0000625	increased, number of follicles					NotDone	NotDone	
+MC:0000626	presence, corpus lutem	skos:exactMatch	24552005	Retained corpus luteum	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000627	presence, follicle	skos:exactMatch	24162005	Ovarian follicle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000628	absence, corpus luteum	skos:exactMatch	19931006	Structure of corpus luteum of ovary	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000628	absence, corpus luteum	skos:exactMatch	418560003	Absence	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000629	decreased, follicle size	skos:exactMatch	24162005	Ovarian follicle structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000629	decreased, follicle size	skos:exactMatch	19776001	Decreased size	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000630	carcinoma, tubulostromal					NotDone	NotDone	
+MC:0000631	carcinoma, yolk sac					NotDone	NotDone	
+MC:0000632	increased number, corpora lutea	skos:exactMatch	19931006	Structure of corpus luteum of ovary	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000632	increased number, corpora lutea	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000633	cycle, anestrus					NotDone	NotDone	
+MC:0000634	cycle, diestrus					NotDone	NotDone	
+MC:0000635	cycle, menstruation					NotDone	NotDone	
+MC:0000636	cycle, proestrus					NotDone	NotDone	
+MC:0000637	cycle, estrus					NotDone	NotDone	
+MC:0000638	luteoma, benign	skos:exactMatch	26372004	Luteoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000638	luteoma, benign	skos:exactMatch	30807003	Benign	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000639	teratoma, benign	skos:exactMatch	42717009	Teratoma, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000640	teratoma, malignant					NotDone	NotDone	
+MC:0000641	thecoma, benign					NotDone	NotDone	
+MC:0000642	thecoma, malignant	skos:exactMatch	57622002	Thecoma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000643	tumor, granulosa cell, benign	skos:broadMatch	417629008	Sex cord-stromal tumor category	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000643	tumor, granulosa cell, benign	skos:broadMatch	30807003	Benign	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000644	tumor, granulosa cell, malignant	skos:exactMatch	18861007	Granulosa cell tumor, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000645	tumor, sertoli cell, benign					NotDone	NotDone	
+MC:0000646	tumor, sertoli cell, malignant					NotDone	NotDone	
+MC:0000647	tumor, sex cord stromal, mixed, benign					NotDone	NotDone	
+MC:0000648	hyperplasia, cystic/papillary	skos:exactMatch	79521008	Papillary hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000649	hyperplasia, sex cord stromal, mixed					NotDone	NotDone	
+MC:0000650	hyperplasia, tubulostromal					NotDone	NotDone	
+MC:0000651	vacuolation, acinar cell					NotDone	NotDone	
+MC:0000652	ectasia, duct	skos:relatedMatch	25322007	Dilatation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000653	embryonic remnants	skos:exactMatch	276752006	Embryological remnant	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000655	retention, zymogen					NotDone	NotDone	
+MC:0000656	ectopic splenic tissue	skos:exactMatch	23914009	Ectopic splenic tissue	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000657	carcinoma, islet cell	skos:exactMatch	60346004	Pancreatic endocrine tumor, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000658	carcinoma, ductal	skos:exactMatch	82711006	Infiltrating duct carcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000659	adenoma, islet cell	skos:exactMatch	76345009	Pancreatic endocrine tumor, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000660	adenoma, ductal cell					NotDone	NotDone	
+MC:0000661	heterotopic hepatocytes					NotDone	NotDone	
+MC:0000662	hypertrophy, exocrine cell					NotDone	NotDone	
+MC:0000663	focus, basophilic					NotDone	NotDone	
+MC:0000665	hyperplasia, pancreatic duct	skos:exactMatch	69930009	Pancreatic duct structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000665	hyperplasia, pancreatic duct	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000666	hyperplasia, islet cell	skos:exactMatch	42681006	Islet cell hyperplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000667	hypertrophy, islet cell	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000667	hypertrophy, islet cell	skos:exactMatch	78696007	Endocrine pancreatic structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000670	secretory depletion, acinar cell					NotDone	NotDone	
+MC:0000672	granule contents, increased					NotDone	NotDone	
+MC:0000674	ectopic thymic tissue	skos:exactMatch	17422006	Ectopic thymic tissue	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000675	anatomical structure	skos:exactMatch	91723000	Anatomical structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000676	renaut's bodies					NotDone	NotDone	
+MC:0000677	adenoma, pars distalis	skos:broadMatch	127024001	Neoplasm of pituitary gland	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000678	adenoma, pars intermedia					NotDone	NotDone	
+MC:0000679	microscopic comment					NotDone	NotDone	
+MC:0000680	craniopharyngioma, benign					NotDone	NotDone	
+MC:0000681	craniopharyngioma, malignant					NotDone	NotDone	
+MC:0000682	atrophy, pars distalis (decreased size and number of acidophilic cell)					NotDone	NotDone	
+MC:0000683	hypertrophy, with vacuolation	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000683	hypertrophy, with vacuolation	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000684	hyperplasia, pars distalis	skos:broadMatch	56329008	Pituitary structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Assumed this refers to the pituitary gland. Mapped uphill	1
+MC:0000684	hyperplasia, pars distalis	skos:broadMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration	Assumed this refers to the pituitary gland. Mapped uphill	1
+MC:0000685	hyperplasia, pars intermedia	skos:broadMatch	56329008	Pituitary structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Assumed this refers to the pituitary gland. Mapped uphill	1
+MC:0000685	hyperplasia, pars intermedia	skos:broadMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration	Assumed this refers to the pituitary gland. Mapped uphill	1
+MC:0000686	hyperplasia, acinar cell					NotDone	NotDone	
+MC:0000687	hypertrophy, acinar cell	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000689	ductal changes					NotDone	NotDone	
+MC:0000690	hyperplasia, myoblast					NotDone	NotDone	
+MC:0000691	hyperplasia, myoblasts, regenerative	skos:broadMatch	715141007	Nodular regenerative hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000692	rhabdomyoma, benign					NotDone	NotDone	
+MC:0000694	atrophy, epidermal	skos:broadMatch	400190005	Atrophic condition of skin	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000695	atrophy, adnexal	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000695	atrophy, adnexal	skos:exactMatch	23043003	Uterine adnexae structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000696	hyperplasia, hair follicle					NotDone	NotDone	
+MC:0000697	hair growth cycle (normal)					NotDone	NotDone	
+MC:0000698	cycle, anagen (hair growth)	skos:exactMatch	61089002	Growing phase of hair cycle	Observation | Observable Entity	semapv:ManualMappingCuration		1
+MC:0000699	cycle, catagen (hair growth)					NotDone	NotDone	
+MC:0000700	cycle, telogen (hair growth)	skos:exactMatch	33406000	Resting phase of hair cycle	Observation | Observable Entity	semapv:ManualMappingCuration		1
+MC:0000703	lymphangioma, benign	skos:exactMatch	400178008	Lymphangioma	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000704	melanoma, benign					NotDone	NotDone	
+MC:0000705	melanoma, benign (nevus)					NotDone	NotDone	
+MC:0000706	tumor, basal cell, benign					NotDone	NotDone	
+MC:0000707	hyperplasia, atypical	skos:exactMatch	32416003	Atypical hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000709	intraluminal accumulation					NotDone	NotDone	
+MC:0000710	content, exogenous material	skos:exactMatch	19227008	Foreign body	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000711	hyperplasia, myelostromal, vertebral bone marrow					NotDone	NotDone	
+MC:0000712	oligodendroglioma, malignant, low grade					NotDone	NotDone	
+MC:0000713	atrophy, red pulp	skos:exactMatch	27579002	Splenic red pulp	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000713	atrophy, red pulp	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000714	plaque, siderotic					NotDone	NotDone	
+MC:0000715	pigment	skos:exactMatch	51083003	Pigment deposition	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000716	tinctorial change					NotDone	NotDone	
+MC:0000717	lymphoma, plasmacytic					NotDone	NotDone	
+MC:0000718	lymphoma, immunoblastic					NotDone	NotDone	
+MC:0000719	lymphoma, lymphoblastic					NotDone	NotDone	
+MC:0000720	lymphoma, pleomorphic					NotDone	NotDone	
+MC:0000721	lymphoma, small lymphocyte					NotDone	NotDone	
+MC:0000722	leukemia, megakaryocytic					NotDone	NotDone	
+MC:0000723	hyperplasia, ondoblast					NotDone	NotDone	
+MC:0000724	hyperplasia, ondoblast, regenerative	skos:broadMatch	715141007	Nodular regenerative hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000728	degeneration/loss, odontoblasts					NotDone	NotDone	
+MC:0000729	altered formation, dentin					NotDone	NotDone	
+MC:0000730	atrophy, leydig cell	skos:exactMatch	44185004	Structure of interstitial cell of Leydig	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000730	atrophy, leydig cell	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000731	hyperplasia, leydig cell	skos:exactMatch	733539007	Leydig cell hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000732	hyperplasia, rete testis	skos:exactMatch	109863007	Adenomatous hyperplasia of rete testis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000733	seminoma, malignant	skos:exactMatch	36741007	Seminoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000734	adenoma, rete testis	skos:exactMatch	14221007	Structure of rete testis	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000734	adenoma, rete testis	skos:exactMatch	32048006	Adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000735	carcinoma, embryonal					NotDone	NotDone	
+MC:0000736	carcinoma, leydig cell					NotDone	NotDone	
+MC:0000737	carcinoma, rete testis					NotDone	NotDone	
+MC:0000738	hypoplasia	skos:exactMatch	55199003	Hypoplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000740	depletion, germ cell	skos:exactMatch	69251000	Depletion	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000740	depletion, germ cell	skos:exactMatch	308839007	Gamete - human	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000742	degeneration, tubular					NotDone	NotDone	
+MC:0000745	hyperplasia, lymphoid	skos:exactMatch	43961000	Lymphoid hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000746	delayed maturation	skos:exactMatch	41010001	Maturation defect	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000748	ectopic parathyroid					NotDone	NotDone	
+MC:0000749	increased, cortex size					NotDone	NotDone	
+MC:0000750	increased, medulla size					NotDone	NotDone	
+MC:0000751	alteration, cortex/medulla ratio					NotDone	NotDone	
+MC:0000752	hyperplasia, c-cell	skos:exactMatch	237552009	C-cell hyperplasia of thyroid	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000753	hyperplasia, follicular cell	skos:broadMatch	69748006	Thyroid structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000753	hyperplasia, follicular cell	skos:broadMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000754	hypertrophy, follicular cell					NotDone	NotDone	
+MC:0000755	atrophy, follicular cell					NotDone	NotDone	
+MC:0000756	carcinoma, follicular cell	skos:relatedMatch	5257006	Follicular adenocarcinoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000757	carcinoma, c-cell	skos:exactMatch	128916007	Medullary carcinoma with amyloid stroma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000759	adenoma, c-cell	skos:exactMatch	9098000	Medullary adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000763	content, endogenous material					NotDone	NotDone	
+MC:0000765	deciduosarcoma					NotDone	NotDone	
+MC:0000770	polyp, glandular	skos:exactMatch	255286006	Glandular	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+MC:0000770	polyp, glandular	skos:exactMatch	41329004	Polyp	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000771	atrophy, endometrial	skos:exactMatch	40749002	Structure of endometrial stroma	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000771	atrophy, endometrial	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000772	atrophy, muscle cell	skos:exactMatch	67867005	Muscle fiber atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000773	atrophy, myometrial	skos:exactMatch	27232003	Myometrial structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000773	atrophy, myometrial	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000774	hyperplasia, endometrial stromal	skos:broadMatch	75235002	Stromal hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000775	hypertrophy, myometrial	skos:exactMatch	448255008	Myometrial hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000776	decidual reaction	skos:exactMatch	41721004	Decidual reaction of cervix	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000777	increased mucification					NotDone	NotDone	
+MC:0000778	cycle, metestrus					NotDone	NotDone	
+MC:0000781	hyperplasia, epithelial, atypical					NotDone	NotDone	
+MC:0000782	hypertrophy/hyperplasia, alveolar and/or ductal epithelial cell					NotDone	NotDone	
+MC:0000783	hyperplasia, adipose tissue	skos:exactMatch	55603005	Adipose tissue	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000783	hyperplasia, adipose tissue	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000784	hyperplasia, adnexal					NotDone	NotDone	
+MC:0000785	hyperplasia, angiomatous					NotDone	NotDone	
+MC:0000786	hyperplasia, basal cell	skos:exactMatch	89855005	Basal cell hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000787	hyperplasia, c-cell, diffuse	skos:broadMatch	237552009	C-cell hyperplasia of thyroid	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000788	hyperplasia, c-cell, focal	skos:broadMatch	237552009	C-cell hyperplasia of thyroid	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000789	hyperplasia, cortical, diffuse					NotDone	NotDone	
+MC:0000790	hyperplasia, cortical, focal					NotDone	NotDone	
+MC:0000791	hyperplasia, endometrial, diffuse	skos:exactMatch	237072009	Endometrial hyperplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000792	hyperplasia, follicular cell, diffuse					NotDone	NotDone	
+MC:0000793	hyperplasia, follicular cell, focal					NotDone	NotDone	
+MC:0000794	hyperplasia, functional					NotDone	NotDone	
+MC:0000795	hyperplasia, gallbladder					NotDone	NotDone	
+MC:0000796	hyperplasia, glandular, cystic	skos:broadMatch	23290009	Glandular hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000797	hyperplasia, glandular, focal	skos:exactMatch	125535003	Focal glandular hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000798	hyperplasia, granular cell					NotDone	NotDone	
+MC:0000799	hyperplasia, granulosa cell					NotDone	NotDone	
+MC:0000800	hyperplasia, hepatocellular, non-regenerative					NotDone	NotDone	
+MC:0000801	hyperplasia, hepatocellular, regenerative					NotDone	NotDone	
+MC:0000802	hyperplasia, islet cell, diffuse					NotDone	NotDone	
+MC:0000803	hyperplasia, islet cell, focal	skos:broadMatch	42681006	Islet cell hyperplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000804	hyperplasia, lobuloalveolar					NotDone	NotDone	
+MC:0000805	hyperplasia, medullary, diffuse	skos:broadMatch	237781008	Adrenomedullary hyperplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000806	hyperplasia, medullary, focal	skos:broadMatch	237781008	Adrenomedullary hyperplasia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000807	hyperplasia, melanocyte					NotDone	NotDone	
+MC:0000808	hyperplasia, mesangial	skos:exactMatch	125510009	Increased mesangial matrix	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000809	hyperplasia, myometrial	skos:exactMatch	448255008	Myometrial hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000810	hyperplasia, oncocytic					NotDone	NotDone	
+MC:0000811	hyperplasia, pars distalis, diffuse					NotDone	NotDone	
+MC:0000812	hyperplasia, pars distalis, focal	skos:broadMatch	56329008	Pituitary structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Assumed this refers to the pituitary gland. Mapped uphill	1
+MC:0000812	hyperplasia, pars distalis, focal	skos:broadMatch	125523002	Focal hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration	Assumed this refers to the pituitary gland. Mapped uphill	1
+MC:0000813	hyperplasia, pars intermedia, diffuse					NotDone	NotDone	
+MC:0000814	hyperplasia, pars intermedia, focal	skos:broadMatch	56329008	Pituitary structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration	Assumed this refers to the pituitary gland. Mapped uphill	1
+MC:0000814	hyperplasia, pars intermedia, focal	skos:broadMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration	Assumed this refers to the pituitary gland. Mapped uphill	1
+MC:0000815	hyperplasia, rete ovarii					NotDone	NotDone	
+MC:0000816	hyperplasia, sertoli cell	skos:exactMatch	40281007	Structure of sertoli cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000816	hyperplasia, sertoli cell	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000817	hyperplasia, smooth muscle					NotDone	NotDone	
+MC:0000818	hyperplasia, smooth muscle, mesovarial					NotDone	NotDone	
+MC:0000819	hyperplasia, stroma	skos:exactMatch	75235002	Stromal hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000820	hyperplasia, theca cell	skos:broadMatch	41800009	Thecal change	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000821	hyperplasia, tubule, atypical					NotDone	NotDone	
+MC:0000822	hyperplasia, urothelium	skos:exactMatch	57789003	Urothelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000822	hyperplasia, urothelium	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000823	hyperplasia, with cellular atypia (dysplasia)					NotDone	NotDone	
+MC:0000824	hyperplasia, zymbal gland					NotDone	NotDone	
+MC:0000825	hypertrophy/hyperplasia, kupffer cells	skos:exactMatch	256002	Kupffer cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000825	hypertrophy/hyperplasia, kupffer cells	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000826	necrosis, adnexal					NotDone	NotDone	
+MC:0000827	necrosis, endometrial	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000827	necrosis, endometrial	skos:exactMatch	2739003	Endometrial structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000828	necrosis, epidermal	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000828	necrosis, epidermal	skos:exactMatch	31610004	Epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000829	necrosis, epithelial					NotDone	NotDone	
+MC:0000830	necrosis, focal/multifocal	skos:narrowMatch	52739002	Focal necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000831	necrosis, hepatocellular	skos:exactMatch	87248009	Hepatic necrosis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000832	necrosis, leydig cell					NotDone	NotDone	
+MC:0000833	necrosis, myometrial					NotDone	NotDone	
+MC:0000834	necrosis, olfactory epithelium					NotDone	NotDone	
+MC:0000835	necrosis, papillary	skos:exactMatch	90241004	Papillary necrosis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000836	necrosis, renal tubules	skos:exactMatch	58471003	Renal tubule structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000836	necrosis, renal tubules	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000837	necrosis, respiratory epithelium					NotDone	NotDone	
+MC:0000838	necrosis, soft tissue	skos:exactMatch	87784001	Soft tissues	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000838	necrosis, soft tissue	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000839	necrosis, squamous epithelium	skos:exactMatch	40118003	Squamous epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000839	necrosis, squamous epithelium	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000840	necrosis, testicular	skos:exactMatch	40689003	Testis structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000840	necrosis, testicular	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000841	necrosis, testis					NotDone	NotDone	
+MC:0000842	necrosis, tubular	skos:broadMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000843	necrosis, zonal	skos:exactMatch	69265003	Zonal necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000844	necrosis, zonal, centrilobular	skos:exactMatch	125364006	Centrilobular zone necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000845	necrosis, zonal, diffus					NotDone	NotDone	
+MC:0000846	necrosis, zonal, midzonal					NotDone	NotDone	
+MC:0000847	necrosis, zonal, periportal	skos:exactMatch	125365007	Peripheral zone necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000848	single cell necrosis, epithelial	skos:exactMatch	6574001	Necrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000848	single cell necrosis, epithelial	skos:exactMatch	4212006	Epithelial cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000849	alpha2u-globulin nephropathy	skos:broadMatch	90708001	Kidney disease	Condition | Clinical Finding	semapv:ManualMappingCuration	Increase in eosinophilic cytoplasmic droplets of alpha 2u-globulin in the S2 segment of the proximal tubules in the cortex with exfoliation of cells, an increase in mitotic figures in affected portions of the proximal tubules, tubular basophilia in some cases, and formation of granular casts at the junction of the inner and outer stripes of the medulla	1
+MC:0000850	mononuclear cell infiltrate/fibrosis, myocardium					NotDone	NotDone	
+MC:0000851	chronic progressive nephropathy	skos:broadMatch	709044004	Chronic kidney disease	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000852	glomerular changes	skos:exactMatch	197679002	Glomerular disease	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000853	glomerulopathy, hyaline					NotDone	NotDone	
+MC:0000854	glomerulopathy, mesangioproliferative					NotDone	NotDone	
+MC:0000855	glomerulosclerosis	skos:exactMatch	82646005	Glomerulosclerosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000856	mesangiolysis					NotDone	NotDone	
+MC:0000857	nephropathy	skos:exactMatch	90708001	Kidney disease	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000858	nephropathy, obstructive					NotDone	NotDone	
+MC:0000859	nephropathy, retrograde					NotDone	NotDone	
+MC:0000860	organ specific entities/changes					NotDone	NotDone	
+MC:0000861	uropathy, obstructive					NotDone	NotDone	
+MC:0000862	vesicle	skos:exactMatch	82515000	Vesicle	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000863	degeneration, corpora lutea	skos:exactMatch	19931006	Structure of corpus luteum of ovary	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000863	degeneration, corpora lutea	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000864	degeneration, epithelial	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000864	degeneration, epithelial	skos:exactMatch	4212006	Epithelial cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000865	degeneration, germ cell	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000865	degeneration, germ cell	skos:exactMatch	308839007	Gamete - human	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000866	degeneration, oocyte					NotDone	NotDone	
+MC:0000867	degeneration, tubule	skos:exactMatch	58471003	Renal tubule structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000867	degeneration, tubule	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000868	degeneration/atrophy, tubular					NotDone	NotDone	
+MC:0000869	degeneration, ductular/alveolar epithelium					NotDone	NotDone	
+MC:0000870	degeneration, ductular/sebaceous epithelium					NotDone	NotDone	
+MC:0000871	multinucleated giant cells	skos:exactMatch	60401004	Multinucleate giant cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000872	vacuolation, tubular	skos:broadMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000873	carcinoma, acinar					NotDone	NotDone	
+MC:0000874	carcinoma, adenosquamous					NotDone	NotDone	
+MC:0000875	cleft palate	skos:exactMatch	87979003	Cleft palate	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000876	congenital cysts	skos:exactMatch	12143007	Embryonic cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000877	corpora amylacea	skos:exactMatch	8210009	Corpora amylacea	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000878	deviation of the nasal septum					NotDone	NotDone	
+MC:0000880	ectasia in submucosal glands					NotDone	NotDone	
+MC:0000882	emboli, pulmonary	skos:exactMatch	59282003	Pulmonary embolism	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000883	eosinophilic globules (droplets)					NotDone	NotDone	
+MC:0000884	epithelioma, cystic, keratinizing					NotDone	NotDone	
+MC:0000885	epithelioma, nonkeratinizing					NotDone	NotDone	
+MC:0000886	noninflammatory pleural effusions					NotDone	NotDone	
+MC:0000887	pigments, dusts, inert materials					NotDone	NotDone	
+MC:0000888	pulmonary acinar ectasia					NotDone	NotDone	
+MC:0000889	pulmonary fibrosis	skos:exactMatch	51615001	Fibrosis of lung	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000890	pulmonary hypoplasia					NotDone	NotDone	
+MC:0000891	pyothorax					NotDone	NotDone	
+MC:0000892	regeneration, epithelial	skos:exactMatch	34636005	Regeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000892	regeneration, epithelial	skos:exactMatch	31610004	Epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000893	regeneration	skos:exactMatch	34636005	Regeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000894	septal perforation					NotDone	NotDone	
+MC:0000895	adenocarcinoma, endometrial					NotDone	NotDone	
+MC:0000896	adenoma, endometrial					NotDone	NotDone	
+MC:0000897	adenoma, rete ovarii					NotDone	NotDone	
+MC:0000898	adenoma, tubulostromal	skos:broadMatch	1156654007	Benign tubular adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000899	aplasia, segmental					NotDone	NotDone	
+MC:0000900	apoptosis	skos:exactMatch	20663007	Apoptosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000901	atretic follicles, increased number					NotDone	NotDone	
+MC:0000902	atrophy, corpora lutea	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000902	atrophy, corpora lutea	skos:exactMatch	19931006	Structure of corpus luteum of ovary	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000903	cyst, bursal	skos:exactMatch	4125007	Bursal cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000904	cyst, follicular	skos:exactMatch	103614000	Follicular cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000905	cyst, luteal	skos:exactMatch	386762009	Corpus luteum cyst	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000906	cyst, paraovarian	skos:exactMatch	703077007	Para-ovarian cyst	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000907	cyst, rete ovarii	skos:exactMatch	78519007	Structure of rete ovarii	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000907	cyst, rete ovarii	skos:exactMatch	367643001	Cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000908	decidualization, focal					NotDone	NotDone	
+MC:0000909	decreased number/absent follicles					NotDone	NotDone	
+MC:0000910	dysgerminoma	skos:exactMatch	60718004	Dysgerminoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000912	follicle, luteinized					NotDone	NotDone	
+MC:0000913	follicle, polyovular					NotDone	NotDone	
+MC:0000914	hypertrophy, corpora lutea	skos:exactMatch	19931006	Structure of corpus luteum of ovary	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000914	hypertrophy, corpora lutea	skos:exactMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000915	immaturity	skos:exactMatch	86531006	Developmental immaturity	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000916	imperforate vagina	skos:exactMatch	10736081000119101	Congenital atresia of vagina	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000917	increased keratinization	skos:exactMatch	85363005	Increased keratinization	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000918	leiomyoma, mesovarial					NotDone	NotDone	
+MC:0000919	mesonephric duct remnants					NotDone	NotDone	
+MC:0000920	ovotestis	skos:exactMatch	18978002	Ovotestis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000921	polyp, vaginal					NotDone	NotDone	
+MC:0000922	prolapse	skos:exactMatch	29696001	Prolapse	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000923	prostatic rudiment					NotDone	NotDone	
+MC:0000924	pyometra	skos:exactMatch	88981003	Pyometra	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000925	salpingitis isthmica nodosa	skos:exactMatch	36742000	Salpingitis isthmica nodosa	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000926	sarcoma, stromal	skos:exactMatch	128753005	Stromal sarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000927	tumor, mixed müllerian, benign					NotDone	NotDone	
+MC:0000928	tumor, mixed müllerian, malignant					NotDone	NotDone	
+MC:0000929	tumor, sex cord stromal, mixed, malignant					NotDone	NotDone	
+MC:0000930	vacuolation, corpora lutea	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000930	vacuolation, corpora lutea	skos:exactMatch	19931006	Structure of corpus luteum of ovary	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000931	vacuolation, epithelial	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000931	vacuolation, epithelial	skos:exactMatch	31610004	Epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000932	vacuolation, granulosa cell					NotDone	NotDone	
+MC:0000933	vacuolation, theca cell					NotDone	NotDone	
+MC:0000934	fibrosis, interstitial	skos:exactMatch	125565008	Interstitial fibrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000935	fibrosis, myocardium					NotDone	NotDone	
+MC:0000936	tension lipidosis					NotDone	NotDone	
+MC:0000937	vacuolation, endocrine cell	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000937	vacuolation, endocrine cell	skos:exactMatch	68233007	Endocrine cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000938	vacuolation, interstitial cell					NotDone	NotDone	
+MC:0000939	vacuolation, mucosa	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000939	vacuolation, mucosa	skos:exactMatch	414781009	Mucous membrane structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000940	vacuolation, squamous epithelium					NotDone	NotDone	
+MC:0000941	vacuolation, urothelium	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000941	vacuolation, urothelium	skos:exactMatch	57789003	Urothelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000942	secretory depletion					NotDone	NotDone	
+MC:0000943	calculus, ductular					NotDone	NotDone	
+MC:0000944	dilatation, esophagus					NotDone	NotDone	
+MC:0000946	ectopic sebaceous gland					NotDone	NotDone	
+MC:0000947	focus, hypertrophic, basophilic	skos:broadMatch	45289007	Parotid gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000947	focus, hypertrophic, basophilic	skos:broadMatch	56246009	Hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000948	halos, peri-insular, decreased					NotDone	NotDone	
+MC:0000949	halos, peri-insular, increased					NotDone	NotDone	
+MC:0000950	hypertrophy, paneth cell					NotDone	NotDone	
+MC:0000951	metaplasia, ductular					NotDone	NotDone	
+MC:0000952	metaplasia, hepatocytic					NotDone	NotDone	
+MC:0000953	metaplasia, paneth cell	skos:exactMatch	84907006	Paneth cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000953	metaplasia, paneth cell	skos:exactMatch	17665002	Metaplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000954	perforation	skos:exactMatch	36191001	Perforation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000955	reduction, paneth cell					NotDone	NotDone	
+MC:0000956	secretory depletion, granular duct					NotDone	NotDone	
+MC:0000957	syncytia, epithelium					NotDone	NotDone	
+MC:0000958	cell loss, neuronal					NotDone	NotDone	
+MC:0000960	morphological change, unspecified					NotDone	NotDone	
+MC:0000961	degeneration, endocrine cell					NotDone	NotDone	
+MC:0000962	degeneration, x-zone	skos:exactMatch	730822004	Entire X-zone of adrenal gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000962	degeneration, x-zone	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000964	hypertrophy, cortical, diffuse	skos:exactMatch	103669002	Diffuse hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000965	hypertrophy, cortical, focal	skos:exactMatch	125520004	Focal hypertrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000967	vacuolation, cortical, decreased, diffuse					NotDone	NotDone	
+MC:0000968	vacuolation, cortical, decreased, focal					NotDone	NotDone	
+MC:0000969	vacuolation, cortical, increased, diffuse	skos:broadMatch	23451007	Adrenal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000969	vacuolation, cortical, increased, diffuse	skos:broadMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000970	vacuolation, cortical, increased, focal	skos:broadMatch	23451007	Adrenal structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000970	vacuolation, cortical, increased, focal	skos:broadMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000971	vacuolation, islet cell	skos:exactMatch	76322003	Langerhans' cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000971	vacuolation, islet cell	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000972	vacuolation, macrophage	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000972	vacuolation, macrophage	skos:exactMatch	58986001	Macrophage	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:0000973	helicobacter	skos:exactMatch	19454009	Helicobacter	Observation | Organism	semapv:ManualMappingCuration		1
+MC:0000974	adipose aggregate, interstitial					NotDone	NotDone	
+MC:0000975	atrophy, Brunner's gland					NotDone	NotDone	
+MC:0000976	autophagic vacuoles, acinar cell					NotDone	NotDone	
+MC:0000977	basophilia	skos:exactMatch	65209002	Basophilia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000978	cholecystitis	skos:exactMatch	76581006	Cholecystitis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000979	degeneration/regeneration	skos:exactMatch	34636005	Regeneration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000979	degeneration/regeneration	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000980	fungi	skos:exactMatch	414561005	Fungi	Observation | Organism	semapv:ManualMappingCuration		1
+MC:0000981	hepatocytes, glandular metaplasia					NotDone	NotDone	
+MC:0000982	hyperplasia/metaplasia, mucous cell					NotDone	NotDone	
+MC:0000983	inclusions, urothelium					NotDone	NotDone	
+MC:0000984	necrosis/inflammation, vascular/perivascular					NotDone	NotDone	
+MC:0000985	nephroblastematosis					NotDone	NotDone	
+MC:0000986	neuronal degeneration, myenteric plexus					NotDone	NotDone	
+MC:0000987	protozoa present					NotDone	NotDone	
+MC:0000988	regeneration, tubule					NotDone	NotDone	
+MC:0000989	tumor, basal cell, malignant					NotDone	NotDone	
+MC:0000990	yeast					NotDone	NotDone	
+MC:0000991	aberrant craniopharyngeal structures					NotDone	NotDone	
+MC:0000992	abnormal bone modelling/remodelling					NotDone	NotDone	
+MC:0000993	abnormal cartilage modelling/remodelling					NotDone	NotDone	
+MC:0000994	abnormal tooth modelling/remodelling					NotDone	NotDone	
+MC:0000995	agenesis	skos:exactMatch	782173000	Agenesis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000996	ameloblastoma	skos:exactMatch	20462008	Ameloblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000997	aplasia	skos:exactMatch	45486003	Aplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000998	cardiomegaly	skos:exactMatch	8186001	Cardiomegaly	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000999	congestion, pulmonary					NotDone	NotDone	
+MC:0001000	cyst, bone	skos:exactMatch	203465002	Bone cyst	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0001001	denticle(s)					NotDone	NotDone	
+MC:0001002	dentin matrix alteration					NotDone	NotDone	
+MC:0001003	dentin niches					NotDone	NotDone	
+MC:0001004	dentin, decreased					NotDone	NotDone	
+MC:0001005	dysplasia, dental					NotDone	NotDone	
+MC:0001008	growth plate closed					NotDone	NotDone	
+MC:0001010	hyperplasia, osteoblast, focal					NotDone	NotDone	
+MC:0001011	increased eroded surface					NotDone	NotDone	
+MC:0001012	increased osteoblastic surface					NotDone	NotDone	
+MC:0001013	increased osteoclasts					NotDone	NotDone	
+MC:0001014	increased osteoid					NotDone	NotDone	
+MC:0001015	intravascular hepatocytes					NotDone	NotDone	
+MC:0001016	metaplasia/hyperplasia, Bowman's capsule					NotDone	NotDone	
+MC:0001017	obstruction	skos:exactMatch	26036001	Obstruction	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0001018	odontogenic fibroma					NotDone	NotDone	
+MC:0001019	odontoma					NotDone	NotDone	
+MC:0001020	osteophyte	skos:exactMatch	88998003	Osteophyte	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0001021	periodontal pocket	skos:exactMatch	109629007	Periodontal pocket	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0001022	persistence, Rathke's pouch					NotDone	NotDone	
+MC:0001023	persistent thyroglossal duct	skos:exactMatch	26730002	Persistent thyroglossal duct	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0001024	polyploidy	skos:exactMatch	48099008	Polyploidy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0001025	pulp concretion					NotDone	NotDone	
+MC:0001026	resorption					NotDone	NotDone	
+MC:0001027	synechia	skos:exactMatch	5242004	Synechia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0001028	tumor, odontogenic, benign					NotDone	NotDone	
+MC:0001029	tumor, odontogenic, malignant					NotDone	NotDone	
+MC:2000001	no abnormalities detected	skos:exactMatch	281900007	No abnormality detected	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000020	not examined/not present	skos:exactMatch	385660001	Not done	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+MC:2000042	delayed developmental changes					NotDone	NotDone	
+MC:2000044	persistence x-zone	skos:exactMatch	130965009	Persistence	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000044	persistence x-zone	skos:exactMatch	730822004	Entire X-zone of adrenal gland	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000055	atrophy, brown adipose	skos:exactMatch	24244006	Brown atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000081	autolysis	skos:exactMatch	85811006	Autolysis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000085	macroscopic comment					NotDone	NotDone	
+MC:2000087	metaplasia, osseous, pulmonary	skos:broadMatch	38109001	Osseous metaplasia	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000091	atrophy, white adipose	skos:broadMatch	42335002	Fatty atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000095	hemorrhage, agonal					NotDone	NotDone	
+MC:2000097	hematoma	skos:exactMatch	35566002	Hematoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000103	hyperplasia, interstitial cell					NotDone	NotDone	
+MC:2000135	abscess(es)	skos:exactMatch	44132006	Abscess morphology	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000137	microabscess	skos:exactMatch	48033007	Microabscess	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000143	inflammation, eosinophilic	skos:exactMatch	767256007	Eosinophilic inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000145	granulocytic inflammatory cell infiltration	skos:broadMatch	409774005	Inflammatory morphology	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000147	infiltration, neutrophil					NotDone	NotDone	
+MC:2000149	eosinophil inflammatory cell infiltration	skos:relatedMatch	767256007	Eosinophilic inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000151	lymphocytic inflammatory cell infiltration	skos:exactMatch	54727009	Chronic lymphocytic inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000153	lymphohistiocytic inflammatory cell infiltration	skos:relatedMatch	88128007	Lymphoreticular cell infiltration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000155	lymphoplasmacytic inflammatory cell infiltration	skos:exactMatch	405819006	Lymphocytic-plasmacytic inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000157	lymphohistioplasmacytic inflammatory cell infiltration	skos:relatedMatch	405819006	Lymphocytic-plasmacytic inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000159	inflammation, lymphohistioplasmacytic	skos:relatedMatch	405819006	Lymphocytic-plasmacytic inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000161	inflammation, granulomatous	skos:exactMatch	6266001	Granulomatous inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000162	lymphatic sinus ectasia					NotDone	NotDone	
+MC:2000164	cyst	skos:exactMatch	367643001	Cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000165	inflammatory cell infiltrate, perivascular	skos:broadMatch	48349004	Perivascular inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000167	inflammation, vascular/perivascular					NotDone	NotDone	
+MC:2000168	mineralization	skos:exactMatch	128419007	Pathologic mineralization	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000169	polyarteritis nodosa	skos:exactMatch	155441006	Polyarteritis nodosa	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000170	mineralization, gland secretion					NotDone	NotDone	
+MC:2000173	inflammation, lymphohistiocyte	skos:relatedMatch	88128007	Lymphoreticular cell infiltration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000175	eosinophilic granuloma	skos:exactMatch	128810002	Langerhans cell histiocytosis, unifocal	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000177	compartmental cell accumulation					NotDone	NotDone	
+MC:2000179	fibrosis, perivascular	skos:exactMatch	46283004	Perivascular fibrosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000181	atypical diestrus (with  mucification)					NotDone	NotDone	
+MC:2000183	foamy macrophages	skos:exactMatch	13901007	Fat-laden macrophage	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000185	macrophage aggregates	skos:exactMatch	58986001	Macrophage	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000185	macrophage aggregates	skos:exactMatch	18403000	Aggregate	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+MC:2000187	tingible body macrophages					NotDone	NotDone	
+MC:2000189	histiocytoma, benign	skos:exactMatch	302843004	Histiocytoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000189	histiocytoma, benign	skos:exactMatch	30807003	Benign	Observation | Qualifier Value	semapv:ManualMappingCuration		1
+MC:2000191	cholesterol clefts	skos:broadMatch	400182005	Deposition of cholesterol crystals	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000206	age associated effects					NotDone	NotDone	
+MC:2000208	thymic involution	skos:exactMatch	9875009	Thymus gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000208	thymic involution	skos:exactMatch	85616004	Involution	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000210	cyst, nos	skos:relatedMatch	367643001	Cyst	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000212	cause of death/moribund condition	skos:exactMatch	184305005	Cause of death	Observation | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000222	deposition, dust	skos:exactMatch	33008008	Dust	Observation | Substance	semapv:ManualMappingCuration		1
+MC:2000222	deposition, dust	skos:exactMatch	46595003	Deposition	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000246	proteinaceous plug					NotDone	NotDone	
+MC:2000255	cytoplasmic alteration	skos:exactMatch	125413009	Cytoplasmic alteration	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000257	hypertrophy, interstitial cell	skos:exactMatch	56246009	Hypertrophy	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000257	hypertrophy, interstitial cell	skos:exactMatch	44185004	Structure of interstitial cell of Leydig	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000259	proliferation, intimal, artery or vein	skos:exactMatch	47690009	Intimal proliferation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000261	increased abnormal mitoses					NotDone	NotDone	
+MC:2000263	dilation, rete testis	skos:exactMatch	25322007	Dilatation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000263	dilation, rete testis	skos:exactMatch	14221007	Structure of rete testis	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000265	pyogranuloma	skos:exactMatch	19643009	Pyogranuloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000267	dysplasia	skos:exactMatch	25723000	Dysplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000269	sinus erythrocytosis	skos:exactMatch	127062003	Erythrocytosis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000271	metaplasia, acinar cell	skos:exactMatch	17665002	Metaplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000271	metaplasia, acinar cell	skos:exactMatch	385294005	Salivary gland structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000273	osteochondrosis	skos:exactMatch	66467005	Osteochondromatosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000275	hyperkeratosis, adnexal	skos:broadMatch	26996000	Hyperkeratosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000281	vacuolation, leydig cell	skos:exactMatch	44185004	Structure of interstitial cell of Leydig	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000281	vacuolation, leydig cell	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000283	epithelium-free area					NotDone	NotDone	
+MC:2000285	vasculopathy					NotDone	NotDone	
+MC:2000287	epithelial alteration	skos:exactMatch	2845003	Structure of respiratory epithelium	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000287	epithelial alteration	skos:exactMatch	20601007	Flattening deformity	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000289	necrosis, mucosa					NotDone	NotDone	
+MC:2000291	hepatic karyocytomegaly and/or multinucleated hepatocytes	skos:exactMatch	6855001	Macronucleus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000291	hepatic karyocytomegaly and/or multinucleated hepatocytes	skos:exactMatch	30396005	Hepatic parenchymal cell	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000330	accumulation of unmodified blood plasma					NotDone	NotDone	
+MC:2000338	edema, intercellular	skos:exactMatch	88270009	Intercellular edema	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000340	embolus, bone marrow	skos:exactMatch	57978003	Bone marrow embolus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000342	embolus, cells					NotDone	NotDone	
+MC:2000344	extravasation of blood	skos:relatedMatch	50960005	Hemorrhage	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000376	edema	skos:exactMatch	79654002	Edema	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000378	embolus, septic	skos:exactMatch	72237000	Septic embolus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000380	embolus, tumor cells					NotDone	NotDone	
+MC:2000384	hyperemia	skos:exactMatch	30098003	Hyperemia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000388	locally increased intravascular blood					NotDone	NotDone	
+MC:2000390	microhemorrhages					NotDone	NotDone	
+MC:2000392	obstruction of blood flow					NotDone	NotDone	
+MC:2000397	phospholipidosis					NotDone	NotDone	
+MC:2000400	thrombosis	skos:exactMatch	396339007	Thrombus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000443	adenoma, hepatocholangiocellular					NotDone	NotDone	
+MC:2000445	metaplasia, glandular					NotDone	NotDone	
+MC:2000447	carcinoma, hepatocholangiocellular					NotDone	NotDone	
+MC:2000449	cholangiofibrosis	skos:exactMatch	48124008	Fibrosis of bile duct	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000451	crystals	skos:exactMatch	413935006	Crystal - body material	Observation | Substance	semapv:ManualMappingCuration		1
+MC:2000453	cyst, biliary	skos:exactMatch	235924006	Cyst of biliary tract	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000455	endothelial cell hypertrophy/karyomegaly					NotDone	NotDone	
+MC:2000457	bacteria					NotDone	NotDone	
+MC:2000459	helicobacter sp. hepatitis					NotDone	NotDone	
+MC:2000461	hepatodiaphragmatic nodule					NotDone	NotDone	
+MC:2000463	intrahepatocellular erythrocytes					NotDone	NotDone	
+MC:2000465	mouse hepatitis virus hepatitis					NotDone	NotDone	
+MC:2000467	murine norovirus hepatitis					NotDone	NotDone	
+MC:2000469	Tyzzer's disease (Clostridium piliforme infection)					NotDone	NotDone	
+MC:2000471	tumor, Ito cell, benign					NotDone	NotDone	
+MC:2000473	adrenal rest					NotDone	NotDone	
+MC:2000477	amyloidosis, glomerular					NotDone	NotDone	
+MC:2000479	amyloidosis, interstitial					NotDone	NotDone	
+MC:2000481	atrophy, glomerular	skos:exactMatch	68288006	Glomerulus structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000481	atrophy, glomerular	skos:exactMatch	13331008	Atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000483	basophilic granules					NotDone	NotDone	
+MC:2000485	casts, hyaline	skos:exactMatch	17684004	Protein cast	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000487	casts, granular	skos:exactMatch	726567000	Granular cast	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000489	dilation, bowman's space	skos:exactMatch	2687004	Structure of Bowman's space	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000489	dilation, bowman's space	skos:exactMatch	25322007	Dilatation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000491	glomerulonephritis	skos:exactMatch	36171008	Glomerulonephritis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000493	hypertrophy, urothelium					NotDone	NotDone	
+MC:2000495	astrocyte swelling					NotDone	NotDone	
+MC:2000497	astrocyte swelling/vacuolation					NotDone	NotDone	
+MC:2000499	atrophy, axonal					NotDone	NotDone	
+MC:2000501	dark neuron artifact					NotDone	NotDone	
+MC:2000503	dystrophy axonal					NotDone	NotDone	
+MC:2000505	hamartoma	skos:exactMatch	51398009	Hamartoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000507	hamartoma, lipomatous					NotDone	NotDone	
+MC:2000509	meningioangiomatosis					NotDone	NotDone	
+MC:2000511	heterotopia, neuronal					NotDone	NotDone	
+MC:2000513	hydromyelia	skos:exactMatch	11197005	Hydromyelia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000515	astrocytosis	skos:exactMatch	78399007	Astrocyte	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000515	astrocytosis	skos:exactMatch	30217000	Proliferation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000517	myelin bubbles					NotDone	NotDone	
+MC:2000519	neuromyoblastoma, malignant					NotDone	NotDone	
+MC:2000521	neuronophagia	skos:exactMatch	80552008	Neuronophagia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000523	satellitosis	skos:exactMatch	52214007	Satellitosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000525	syringomyelia	skos:exactMatch	111496009	Syringomyelia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000527	syringomyelia/hydromyelia					NotDone	NotDone	
+MC:2000529	type II astrocytes					NotDone	NotDone	
+MC:2000531	vacuolation, neuronal	skos:exactMatch	47220008	Neuron	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000531	vacuolation, neuronal	skos:exactMatch	91043001	Vacuolation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000533	white matter vacuolation					NotDone	NotDone	1
+MC:2000535	meningioma, benign					NotDone	NotDone	
+MC:2000537	tumor, granular cell, benign					NotDone	NotDone	
+MC:2000539	meningioma, malignant	skos:exactMatch	78303004	Meningioma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000541	tumor, granular cell, malignant					NotDone	NotDone	
+MC:2000543	nephroblastoma	skos:exactMatch	25081006	Nephroblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000547	oncocytoma					NotDone	NotDone	
+MC:2000549	renal sarcoma					NotDone	NotDone	
+MC:2000551	papilloma, transitional cell					NotDone	NotDone	
+MC:2000553	dysplasia, adnexal					NotDone	NotDone	
+MC:2000555	edema, dermal	skos:exactMatch	45872006	Subepidermal edema	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000557	erosion/ulcer	skos:exactMatch	56208002	Ulcer	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000557	erosion/ulcer	skos:exactMatch	15498001	Superficial ulcer	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000561	atrophy, dermal					NotDone	NotDone	
+MC:2000563	carcinoma, eccrine glands					NotDone	NotDone	
+MC:2000565	edema, intercellular, epidermal	skos:broadMatch	88270009	Intercellular edema	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000567	elastosis					NotDone	NotDone	
+MC:2000569	hyperkeratosis	skos:exactMatch	26996000	Hyperkeratosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000571	hyperkeratosis, epidermal	skos:broadMatch	26996000	Hyperkeratosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000573	inflammation, lipogranulomatous	skos:broadMatch	6266001	Granulomatous inflammation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000575	mesenchymoma, malignant	skos:exactMatch	89623007	Mesenchymoma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000577	pustule	skos:exactMatch	47002008	Pustule	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000579	increased hematopoiesis, bone marrow	skos:broadMatch	73241006	Abnormal hematopoiesis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000583	cryptorchidism					NotDone	NotDone	
+MC:2000585	retention, spermatid	skos:exactMatch	38326003	Spermatid	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000585	retention, spermatid	skos:exactMatch	36850000	Retention	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000587	residual bodies, atypical					NotDone	NotDone	
+MC:2000589	maturity	skos:exactMatch	246102003	Maturity	Observation | Attribute	semapv:ManualMappingCuration		1
+MC:2000591	degenerative joint disease (DJD)					NotDone	NotDone	
+MC:2000593	seminoma, benign					NotDone	NotDone	
+MC:2000595	cribriform change					NotDone	NotDone	
+MC:2000597	adenosis	skos:exactMatch	57597008	Adenosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000599	concretions	skos:exactMatch	56381008	Calculus	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000601	fibrosis, stromal					NotDone	NotDone	
+MC:2000603	adenocarcinoma arising in fibroadenoma					NotDone	NotDone	
+MC:2000605	adenomyoepithelioma	skos:exactMatch	128765009	Adenomyoepithelioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000607	sarcoma arising in fibroadenoma					NotDone	NotDone	
+MC:2000609	mesenchymal proliferative lesion					NotDone	NotDone	
+MC:2000611	tumor, epthelial-stromal, benign					NotDone	NotDone	
+MC:2000613	tumor, neuroendocrine, malignant					NotDone	NotDone	
+MC:2000615	dilation, tubular					NotDone	NotDone	
+MC:2000617	stasis, sperm					NotDone	NotDone	
+MC:2000619	spermatocele	skos:exactMatch	49263001	Spermatocele	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000621	tumor, mixed sertoli-leydig cell, benign					NotDone	NotDone	
+MC:2000623	atrophy, ductal					NotDone	NotDone	
+MC:2000625	exfoliation, germ cell					NotDone	NotDone	
+MC:2000627	reduced sperm, luminal	skos:exactMatch	6789008	Spermatozoa	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000627	reduced sperm, luminal	skos:exactMatch	260400001	Reduced	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
+MC:2000629	dilatation, glands					NotDone	NotDone	
+MC:2000631	histiocytic inflammatory cell infiltrate	skos:exactMatch	65396000	Histiocytic infiltrate	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000635	sertoli cell dysfunction					NotDone	NotDone	
+MC:2000639	dilation, acinar/vesicle					NotDone	NotDone	
+MC:2000655	hyperplasia, diffuse, mucosa (glandular stomach)					NotDone	NotDone	
+MC:2000657	hyperplasia, focal, mucosa (glandular stomach)					NotDone	NotDone	
+MC:2000659	gastrointestinal stromal tumor (GIST)					NotDone	NotDone	
+MC:2000661	gastrointestinal stromal tumor (GIST), malignant					NotDone	NotDone	
+MC:2000663	hyperplasia, Brunner's glands					NotDone	NotDone	
+MC:2000665	carcinoma, Brunner's glands					NotDone	NotDone	
+MC:2000667	myoepithelioma, malignant					NotDone	NotDone	
+MC:2000669	hyperplasia, ductal cell	skos:exactMatch	472906008	Usual ductal hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000671	adenoma, acinar cells	skos:exactMatch	79041005	Acinar cell adenoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000673	adenocarcinoma, acinar cell					NotDone	NotDone	
+MC:2000675	adenocarcinoma, ductal cell					NotDone	NotDone	
+MC:2000679	accumulation adipocytes					NotDone	NotDone	
+MC:2000681	apoptosis, squamous epithelium					NotDone	NotDone	
+MC:2000683	apoptosis/necrosis					NotDone	NotDone	
+MC:2000685	apoptosis/necrosis, mucosa					NotDone	NotDone	
+MC:2000687	apoptosis/necrosis, squamous epithelium					NotDone	NotDone	
+MC:2000689	atrophy, squamous epithelium					NotDone	NotDone	
+MC:2000691	degeneration/necrosis, muscle					NotDone	NotDone	
+MC:2000693	granules increased, granular duct					NotDone	NotDone	
+MC:2000699	mineralization, medial or mural, artery					NotDone	NotDone	
+MC:2000701	vacuolation, medial or adventitial, artery					NotDone	NotDone	
+MC:2000703	amyloid, medial/mural, artery					NotDone	NotDone	
+MC:2000705	hemorrhage, medial or mural, artery					NotDone	NotDone	
+MC:2000707	amyloid, myocardium					NotDone	NotDone	
+MC:2000709	apoptosis, cardiomyocytes					NotDone	NotDone	
+MC:2000711	degeneration, cardiomyocyte	skos:exactMatch	74281007	Myocardium structure	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000711	degeneration, cardiomyocyte	skos:exactMatch	107669003	Degenerative abnormality	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000713	edema, myocardium					NotDone	NotDone	
+MC:2000715	mineralization, cardiomyocyte or myocardium					NotDone	NotDone	
+MC:2000717	necrosis/inflammatory cell infiltrate, cardiomyocyte					NotDone	NotDone	
+MC:2000719	paraganglioma	skos:exactMatch	803009	Paraganglioma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000721	angiectasis, valve	skos:exactMatch	174637007	Angiectasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000723	stromal proliferation, valve					NotDone	NotDone	
+MC:2000725	hemorrhage, pulmonary					NotDone	NotDone	
+MC:2000737	edema, intracellular, epidermal					NotDone	NotDone	
+MC:2000739	hyperplasia, schwann cell, subendocardium					NotDone	NotDone	
+MC:2000741	infarct, myocardium					NotDone	NotDone	
+MC:2000743	mesothelioma, atriocaval					NotDone	NotDone	
+MC:2000745	mesothelioma, epicardium or pericardium					NotDone	NotDone	
+MC:2000747	pigment, cardiomyocyte or myocardium					NotDone	NotDone	
+MC:2000749	schwannoma, endocardial					NotDone	NotDone	
+MC:2000751	schwannoma, intramural					NotDone	NotDone	
+MC:2000755	leukocytosis	skos:exactMatch	111583006	Leukocytosis	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000757	sarcocystis present	skos:exactMatch	34666003	Sarcocystis	Observation | Organism	semapv:ManualMappingCuration		1
+MC:2000761	epiphyseal closure, incomplete					NotDone	NotDone	
+MC:2000763	urachus remnant	skos:exactMatch	14105008	Structure of urachus	Spec Anatomic Site | Body Structure	semapv:ManualMappingCuration		1
+MC:2000765	rupture	skos:exactMatch	125671007	Rupture	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000767	telogen effluvium	skos:exactMatch	39479004	Telogen effluvium	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000769	demodex mites	skos:exactMatch	25873009	Demodex	Observation | Organism	semapv:ManualMappingCuration		1
+MC:2000771	colloid alteration					NotDone	NotDone	
+MC:2000773	chordoma	skos:exactMatch	50007008	Chordoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000775	osteoblastoma	skos:exactMatch	55333008	Osteoblastoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000777	osteofibroma					NotDone	NotDone	
+MC:2000779	osteogenic fibrosarcoma					NotDone	NotDone	
+MC:2000781	adenosarcoma	skos:exactMatch	31470003	Adenosarcoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000783	hyperplasia, lens epithelium					NotDone	NotDone	
+MC:2000785	hyperplasia, VNO					NotDone	NotDone	
+MC:2000787	retinal folds					NotDone	NotDone	
+MC:2000789	follicular dilatation, diffuse					NotDone	NotDone	
+MC:2000791	ultimobranchial cyst					NotDone	NotDone	
+MC:2000793	valvulopathy					NotDone	NotDone	
+MC:2000795	emphysema	skos:exactMatch	49158009	Emphysema	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000797	cartilage degeneration	skos:exactMatch	363055007	Degenerative disorder of cartilage	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:2000799	cartilage degeneration, laryngeal					NotDone	NotDone	
+MC:2000801	thymoma, malignant	skos:exactMatch	15949004	Thymoma, malignant	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000803	thymoma, benign	skos:exactMatch	21181001	Thymoma, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:2000805	leukemia, myeloid					NotDone	NotDone	
