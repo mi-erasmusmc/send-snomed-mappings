@@ -1,4 +1,4 @@
-NON-NEOPLASTIC FINDING TYPE -> SNOMED CT
+ETOX HISTOPATHOLOGY ONTOLOGY -> SNOMED CT
 =======================
 
 **Mappings from the eTox Histopathology Ontology to SNOMED CT**
