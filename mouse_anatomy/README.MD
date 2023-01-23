@@ -3,6 +3,8 @@ Mouse Anatomy -> SNOMED CT
 
 **Mappings from the Mouse Adult Gross Anatomy Ontology to SNOMED CT**
 
+At present there are still ~2100 unmapped terms, please feel free to contribute mappings
+
 ### Principles specific to the Mouse Anatomy mappings
 
 - When mapping towards anatomic parts only map towards SNOMED CT 'structure' concepts, do not map to 'part' and 'entire'

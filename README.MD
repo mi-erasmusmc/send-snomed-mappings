@@ -18,7 +18,6 @@ Additional mappings:
 
 - Mouse Adult Gross Anatomy Ontology
 - eTox Histopathology Ontology
-- MedDRA (expected early February)
 
 ## ABOUT
 

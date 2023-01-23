@@ -5,7 +5,7 @@ ETOX HISTOPATHOLOGY ONTOLOGY -> SNOMED CT
 
 At present there are still ~500 unmapped terms, please feel free to contribute mappings
 
-### Principles specific to the non-neoplastic finding type mappings
+### Principles specific to the HPATH mappings
 
 - Prefer first 'morphologic abnormality' concepts followed by 'disorder' concepts, only when there are no suitable terms
   in these classes consider other concept classes
