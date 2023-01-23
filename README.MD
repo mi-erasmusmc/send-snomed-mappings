@@ -55,8 +55,8 @@ Release 1.0 as published on [GitHub](https://github.com/Novartis/hpath) on 2018-
 ### ETRANSAFE ROSETTA STONE
 
 These mappings were created with the purpose of making translations between MedDRA and preclinical vocabularies using
-SNOMED as an intermediary. The app which makes these translations, the so-called eTransafe Rosetta Stone will be made
-publicly available late February.
+SNOMED as an intermediary. The app which makes these translations, the so-called eTransafe Rosetta Stone is
+available [here](https://github.com/mi-erasmusmc/ets-rosetta-stone)
 
 ### CONTRIBUTIONS
 
