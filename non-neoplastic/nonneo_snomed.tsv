@@ -189,7 +189,7 @@ C123638	HYDROMYELIA	skos:exactMatch	11197005	Hydromyelia	Condition | Clinical Fi
 C35541	HYPERKERATOSIS	skos:exactMatch	26996000	Hyperkeratosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C3113	HYPERPLASIA	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C170641	HYPERPLASIA/HYPERKERATOSIS	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
-C170641	HYPERPLASIA/HYPERKERATOSIS	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+C170641	HYPERPLASIA/HYPERKERATOSIS	skos:exactMatch	26996000	Hyperkeratosis	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C120890	HYPERPLASIA/METAPLASIA	skos:exactMatch	76197007	Hyperplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C120890	HYPERPLASIA/METAPLASIA	skos:exactMatch	17665002	Metaplasia	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 C176406	HYPERSEGMENTATION, GRANULOCYTE					NotDone	NotDone	
