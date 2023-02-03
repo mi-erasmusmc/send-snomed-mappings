@@ -527,7 +527,7 @@ MC:0000632	increased number, corpora lutea	skos:exactMatch	19931006	Structure of
 MC:0000632	increased number, corpora lutea	skos:exactMatch	35105006	Increased	Meas Value | Qualifier Value	semapv:ManualMappingCuration		1
 MC:0000633	cycle, anestrus	skos:broadMatch	66523006	Female reproductive function	Observation | Observable Entity	semapv:ManualMappingCuration		1
 MC:0000634	cycle, diestrus	skos:broadMatch	66523006	Female reproductive function	Observation | Observable Entity	semapv:ManualMappingCuration		1
-MC:0000635	cycle, menstruation	skos:exactMatch	373419005	Menstruation finding	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000635	cycle, menstruation	skos:exactMatch	276319003	Finding of menstrual bleeding	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 MC:0000636	cycle, proestrus	skos:broadMatch	66523006	Female reproductive function	Observation | Observable Entity	semapv:ManualMappingCuration		1
 MC:0000637	cycle, estrus	skos:broadMatch	66523006	Female reproductive function	Observation | Observable Entity	semapv:ManualMappingCuration		1
 MC:0000638	luteoma, benign	skos:exactMatch	26372004	Luteoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
@@ -610,7 +610,7 @@ MC:0000715	pigment	skos:exactMatch	51083003	Pigment deposition	Observation | Mor
 MC:0000716	tinctorial change					NotDone	NotDone	
 MC:0000717	lymphoma, plasmacytic	skos:exactMatch	19340000	Malignant lymphoma, lymphoplasmacytic	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 MC:0000718	lymphoma, immunoblastic					NotDone	NotDone	
-MC:0000719	lymphoma, lymphoblastic	skos:exactMatch	8175003	Malignant lymphoma, lymphoblastic	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
+MC:0000719	lymphoma, lymphoblastic	skos:exactMatch	128806000	Precursor cell lymphoblastic lymphoma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 MC:0000720	lymphoma, pleomorphic					NotDone	NotDone	
 MC:0000721	lymphoma, small lymphocyte					NotDone	NotDone	
 MC:0000722	leukemia, megakaryocytic	skos:exactMatch	188754005	Megakaryocytic leukemia	Condition | Clinical Finding	semapv:ManualMappingCuration		1
