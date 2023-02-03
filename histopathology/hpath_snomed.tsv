@@ -571,7 +571,7 @@ MC:0000675	anatomical structure	skos:exactMatch	91723000	Anatomical structure	Sp
 MC:0000676	renaut's bodies					NotDone	NotDone	
 MC:0000677	adenoma, pars distalis	skos:broadMatch	127024001	Neoplasm of pituitary gland	Condition | Clinical Finding	semapv:ManualMappingCuration		1
 MC:0000678	adenoma, pars intermedia					NotDone	NotDone	
-MC:0000679	microscopic comment					NotDone	NotDone	
+MC:0000679	microscopic comment	skos:exactMatch	117259009	Microscopy	Procedure | Procedure	semapv:ManualMappingCuration		1
 MC:0000680	craniopharyngioma, benign					NotDone	NotDone	
 MC:0000681	craniopharyngioma, malignant					NotDone	NotDone	
 MC:0000682	atrophy, pars distalis (decreased size and number of acidophilic cell)					NotDone	NotDone	
