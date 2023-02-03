@@ -298,6 +298,7 @@ MC:0000362	chondromucinous degeneration					NotDone	NotDone
 MC:0000365	dilation, ductal	skos:broadMatch	25322007	Dilatation	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 MC:0000366	sperm granuloma	skos:exactMatch	112651005	Spermatogenic granuloma	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 MC:0000367	normal physiological condition	skos:exactMatch	30389008	Normal tissue	Condition | Clinical Finding	semapv:ManualMappingCuration		1
+MC:0000369	immature	skos:relatedMatch	86531006	Developmental immaturity	Observation | Morph Abnormality	semapv:ManualMappingCuration	Deprecated term, used in eTox	1
 MC:0000371	adenoma, leydig cell	skos:exactMatch	5014008	Leydig cell tumor, benign	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 MC:0000372	atrophy, epithelial	skos:exactMatch	446689007	Epithelial atrophy	Observation | Morph Abnormality	semapv:ManualMappingCuration		1
 MC:0000373	cell debris, luminal					NotDone	NotDone	
